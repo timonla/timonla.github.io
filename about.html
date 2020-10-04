@@ -1,0 +1,11 @@
+---
+layout: page
+title: "About"
+description: "Some words about me, by me"
+url: "/about/"
+---
+
+<div>
+	{% capture about %}{% include about.md %}{% endcapture %}
+	{{ about | markdownify }}
+</div>

@@ -1,1 +1,16 @@
-theme: jekyll-theme-midnight
+title: timon.la
+SEOTitle: timon.la | Timon Lapawczyk
+email: timon.lapawczyk@gmail.com
+description: ""
+keyword: "Timon Lapawczyk, Software Developer, Gothenburg, Cycling, Coding, Blogging"
+url: "https://timonla.github.io"
+
+markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
