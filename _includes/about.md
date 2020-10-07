@@ -1,3 +1,5 @@
+<img class="profile-picture" src="../assets/img/home-profile-picture-square.png"/>
+
 # Välkommen!
 
 My name is Timon and I am a computer scientist from Berlin.

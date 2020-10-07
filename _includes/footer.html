@@ -1,0 +1,46 @@
+<footer>
+    <script>
+        function copyEmail() {
+            var copyText = document.createElement("textarea");
+            copyText.value = "timon.lapawczyk@gmail.com";
+            if (confirm("Do you want to copy my e-mail address to your clipboard?")) {
+                document.body.appendChild(copyText);
+                copyText.select();
+                document.execCommand("copy");
+                document.body.removeChild(copyText);
+                alert("Copied " + copyText.value + " to your clipboard.");
+            }
+        }
+    </script>
+    <div class="body" style="align-content: center; max-width: 100%; overflow: auto;">
+        <table width="100%" table-layout="fixed" align="center"
+            style="font-size: 9pt; color: white; height: 40px; width: 250px; max-width: 400px;">
+            <tr>
+                <td align="center">
+                    <img (click)=copyEmail() style="cursor: pointer; height: 18px"
+                        src="../../assets/img/gmail_logo.png" />
+                </td>
+                <td align="center">
+                    <a target="_blank" href="https://www.linkedin.com/in/timon-lapawczyk-2b5bb9150">
+                        <img style="height: 18px" src="../../assets/img/LI-In-Bug.png" />
+                    </a>
+                </td>
+                <td align="center">
+                    <a target="_blank" href="https://github.com/timonla">
+                        <img style="height: 20px" src="../../assets/img/GitHub-Mark-Light-120px-plus.png" />
+                    </a>
+                </td>
+                <td align="center">
+                    <a target="_blank" href="https://www.youtube.com/user/Timonius93">
+                        <img style="height: 18px" src="../../assets/img/yt_logo_rgb_dark.png" />
+                    </a>
+                </td>
+                <td align="center">
+                    <a target="_blank" href="https://www.instagram.com/timon.ruotsalainen/">
+                        <img style="height: 20px" src="../../assets/img/Instagram_AppIcon_Aug2017.png" />
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </div>
+</footer>

@@ -1,0 +1,101 @@
+
+nav {
+    height: 50px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #242526;
+}
+
+.nav-title {
+    float: left;
+    max-width: 50%;
+    height: 100%;
+    padding: 5px;
+}
+
+.nav-logo {
+    height: 100%;
+}
+
+.nav-items {
+    vertical-align: middle;
+    float: right;
+    margin: 0 auto;
+}
+
+.menu-item {
+    line-height: 50px;
+    font-size: x-large;
+    text-decoration: none;
+    padding-right: 1.5rem;
+    color: #e4e6eb;
+}
+
+.content {
+    border-radius: 5px;
+    color: #e4e6eb;
+    background-color: #242526;
+    max-width: 1000px;
+    margin: 1% auto 1%;
+    padding: 20px 20px 50px 20px;
+    padding-bottom: 50px;
+}
+
+body {
+    background-color: #18191a;
+    font-family: 'Lora', 'Times New Roman', serif;
+    font-size: 1.125rem;
+}
+
+a {
+    color: #139ee0;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    text-decoration: underline;
+}
+
+p {
+    line-height: 1.5;
+    margin: 1.875rem 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    line-height: 1.1;
+}
+
+h1 {
+    font-size: 2.25rem;
+}
+
+h2 {
+    font-size: 1.875rem;
+}
+
+h3, .menu-item {
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 1.125rem;
+}
+
+h1, h2, h3, h4 {
+    margin-top: 1.25rem;
+}
+
+.profile-picture {
+    margin: 15px;
+    float: right;
+    border-radius: 5%;
+    width: 30%;
+}
+
+footer {
+    border-radius: 5px;
+    min-height: 40px;
+    background-color: #242526;
+}

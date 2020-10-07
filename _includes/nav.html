@@ -1,20 +1,14 @@
 <nav>
-				<div>
-								<div>
-												<div>
-																<ul>
-																				<li>
-																								<a href="{{ site.baseurl }}/">Home</a>
-																				</li>
-																				{% for page in site.pages %}
-																				{% if page.title %}
-																				<li>
-																								<a href="{{ page.url }}">{{ page.title }}</a>
-																				</li>
-																				{% endif %}
-																				{% endfor %}
-																</ul>
-												</div>
-								</div>
-				</div>
+	<div class="nav-title">
+		<img class="nav-logo" src="../../assets/img/profile-extra-cropped.png" />
+	</div>
+	<div class="nav-items">
+		<a class="menu-item" href="{{ site.baseurl }}/">Home</a>
+		{% for page in site.pages %}
+		{% if page.title %}
+		<a class="menu-item" href="{{ page.url }}">{{ page.title }}</a>
+		{% endif %}
+		{% endfor %}
+		<a class="menu-item" href="http://bit.ly/36uWYuD">Resume <i class="fas fa-cloud-download-alt"></i>️</a>
+	</div>
 </nav>
