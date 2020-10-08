@@ -34,7 +34,6 @@ nav {
 .content {
     border-radius: 5px;
     color: #e4e6eb;
-    background-color: #242526;
     max-width: 1000px;
     margin: 1% auto 1%;
     padding: 20px 20px 50px 20px;
@@ -47,7 +46,7 @@ body {
     background-color: #18191a;
     font-family: 'Lora', 'Times New Roman', serif;
     font-size: 1.125rem;
-    min-height: 100vh;
+    min-height: calc(100vh - 20px);
 }
 
 a {
@@ -107,10 +106,45 @@ footer {
     text-decoration: none;
 }
 
+.post-preview {
+    border-bottom: 1px solid rgb(80, 80, 80);
+    overflow: hidden;
+    width: 50rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.post-title {
+    margin-top: 0;
+}
+
 .post-subtitle {
     font-weight: normal;
 }
 
 .post-date {
     color: #666666;
+}
+
+.post-with-thumbnail {
+    display: block;
+}
+
+.thumbnail-link {
+    float: right;
+    max-width: 25%;
+    max-height: 100%;
+    margin-left: 0.625rem;
+}
+
+.post-thumbnail {
+    height: 100%;
+    width: 100%;
+    opacity: 0.7;
+    transition: 0.5s ease;
+    backface-visibility: hidden;
+}
+
+.thumbnail-link:hover .post-thumbnail {
+    opacity: 1;
 }
