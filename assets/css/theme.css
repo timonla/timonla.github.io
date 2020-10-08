@@ -25,7 +25,8 @@ nav {
 
 .menu-item {
     line-height: 50px;
-    font-size: x-large;
+    font-family: "Impact";
+    font-weight: lighter;
     text-decoration: none;
     padding-right: 1.5rem;
     color: #e4e6eb;

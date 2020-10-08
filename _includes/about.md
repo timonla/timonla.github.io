@@ -1,16 +1,37 @@
 <img class="profile-picture" src="../assets/img/home-profile-picture-square.png"/>
 
-# Välkommen!
+# About me
 
 My name is Timon and I am a computer scientist from Berlin.
-On this page you can find an introduction into my work and hobbies.
-You can find more detailed information about my professional career by downloading my resume.
+
+My biggest passion is change.
+No matter, if it comes to refactoring source code, improving my diet or finding the most eco-friendly way to travel home to Berlin.
+I am never done looking for opportunities to improve and am quick to challenge current solutions.
+With an open mind and creative thinking I develop solutions and aim for simplicity.
+My technical background and work experience allow me to use modern technologies and automation to achieve exactly that.
+Today, I am most excited about finding ways to improve environmental and social sustainability.
+
+
+I moved to Gothenburg, Sweden in the fall of 2016 to attend a MSc. program in computer science at Chalmers.
+Find out more about my studies in my resume.
+
+When I am not working with computer science, I am likely exploring the beautiful nature around Gothenburg
+and probably have my bike with me.
+It has been my main means of transportation for several years now.
+However, only my daily commutes of 42km made me push my boundaries in terms of what distances are management by bike.
+In 2019 I had my first 100km+ ride and just a few months later decided to travel *969km* to my hometown Berlin entirely by bike.
+Since then I am hooked on the idea of bike-packing. From time to time I try to share some of my bike adventures on [Instagram](https://www.instagram.com/timon.ruotsalainen/).
+
+Among my other interests are minimalism, bio-hacking, writing music which I upload to my [YouTube](https://www.youtube.com/channel/UCp5zwA-JgwGzmgHOeeP1h4g?view_as=subscriber) channel from time to time and cooking. 
 
 ## About my work
 
+Here are a few words on what I have been up to recently. 
+There is a formal resume available for download <a href="http://bit.ly/36uWYuD">here <i class="fas fa-cloud-download-alt"></i>️</a>.
+
 ### Lean Marine
 
-Since spring 2020 I am working as a fullstack developer for [Lean Marine](https://leanmarine.com/).
+Since spring 2020 I am working as a full stack developer for [Lean Marine](https://leanmarine.com/).
 
 At Lean Marine I get to work with an excellent group of people who are just as excited about saving the environment as I am.
 We use the latest technologies to implement solutions for the shipping industry.
@@ -28,7 +49,7 @@ Here I am developing with React, TypeScript and Redux.
 
 In April 2019 my brother and I launched the MVP to our latest side project.
 We are developing a browser extension for [99Damage](https://csgo.99damage.de/de/start) which is the biggest german platform for Counter Strike leagues.
-Driven by our own frustation with their website we decided to automate site requests to improve the user experience.
+Driven by our own frustration with their website we decided to automate site requests to improve the user experience.
 Trying to disturb the user as little as possible we are integrating additional information such as team statistics directly on the website.
 Since our first release we have already implemented a number of features that are saving our growing user base hours upon hours.
 In spring 2020 the daily user numbers peeked at more than <b>2300 users</b>.
@@ -45,7 +66,7 @@ In this role I was working with enabling Volvo to make use of the
 [Performance Analytics](https://docs.servicenow.com/bundle/newyork-performance-analytics-and-reporting/page/use/performance-analytics/reference/r_PALandingPage.html?cshalt=yes)
 engine built into the ITSM tool [ServiceNow](https://www.servicenow.com/).
 My work included understanding the business needs, researching new technologies and proposing and implementing solutions to make use of our data.
-I also worked on defining best practices to for the use of the Business Inteligence & Analytics solutions of ServiceNow.
+I also worked on defining best practices to for the use of the Business Intelligence & Analytics solutions of ServiceNow.
 
 As part of this work I earned hands on knowledge about how to work with the ITIL processes, mainly incident, problem and change management.
 In the fall of 2019 I got certified for [ITIL 4 Foundation](https://www.axelos.com/certifications/itil-certifications/itil-foundation).
@@ -60,24 +81,3 @@ During the workshop weeks we gained holistic knowledge about the Volvo Group and
 In my first assignment I developed Azure chatbots using the [Microsoft Bot Framework](https://dev.botframework.com/).
 My work included researching available technologies and finding parts of the implementation that can be generalized to allow for a higher reusability of our code.
 In POCs we demonstrated how to develop chatbots with data-driven dialog structures that can be used as templates to solve similar use-cases.
-
-## About me
-
-I moved to Gothenburg, Sweden in the fall of 2016 to attend a MSc. program in computer science at Chalmers.
-Find out more about my studies in my resume.
-
-When I am not working with computer science, I am likely exploring the beautiful nature around Gothenburg
-and probably have my bike with me.
-It has been my main means of transportation for several years now.
-However, only my daily commutes of 42km made me push my boundaries in terms of what distances are management by bike.
-In 2019 I had my first 100km+ ride and just a few months later decided to travel *969km* to my hometown Berlin entirely by bike.
-Since then I am hooked on the idea of bikepacking. From time to time I try to share some of my bike adventures on [Instagram](https://www.instagram.com/timon.ruotsalainen/).
-
-My biggest passion is change.
-No matter, if it comes to refactoring source code, improving my diet or finding the most eco friendly way to travel to Berlin.
-I am never done looking for opportunities to improve and am quick to challenge current solutions.
-With an open mind and creative thinking I develop solutions and aim for simplicity.
-My technical background and work experience allow me to use modern technologies and automation to achieve exactly that.
-Today, I am most excited about finding ways to improve environmental and social sustainability.
-
-Among my other interests are minimalism, biohacking, writing music which I upload to my [YouTube](https://www.youtube.com/channel/UCp5zwA-JgwGzmgHOeeP1h4g?view_as=subscriber) channel from time to time and cooking. 
