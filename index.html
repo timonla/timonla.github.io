@@ -5,7 +5,9 @@ description: "Welcome to my webpage"
 
 {% assign posts = paginator.posts | default: site.posts %}
 
-{% for post in posts %}
+{% assign active-posts = posts | where:"hidden",false %}
+
+{% for post in active-posts %}
 <article class="post-preview">
     <a class="thumbnail-link" href="{{ post.url | prepend: site.baseurl }}">
         <img class="post-thumbnail" src="{{ post.thumbnail }}" />

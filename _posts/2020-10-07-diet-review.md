@@ -3,8 +3,9 @@ layout: post
 title: "Down to Earth - Whole Food Plant Based Diet Review"
 subtitle: "Documenting and analysing my diet for one week"
 date: 2020-10-07
-permalink: "/blog/dietreview2020/"
-thumbnail: "/assets/img/blog/thumbnails/some-other-post.png"
+permalink: "/blog/diet-review-2020/"
+thumbnail: "/assets/img/blog/thumbnails/diet-review-2020.png"
+hidden: true
 ---
 
 My diet is a very important topic for me and as such I am willing to experiment a lot with it and throw everything,
