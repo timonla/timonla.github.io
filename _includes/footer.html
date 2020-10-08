@@ -1,6 +1,16 @@
 <footer>
-    <script>
-        function copyEmail() {
+    <!-- https://stackoverflow.com/a/688228 -->
+    <script type="text/javascript">
+        // Wait for the page to load first
+        window.onload = function() {
+
+          //Get a reference to the link on the page
+          // with an id of "mylink"
+          var a = document.getElementById("email-link");
+
+          //Set code to run when the link is clicked
+          // by assigning a function to "onclick"
+          a.onclick = function() {
             var copyText = document.createElement("textarea");
             copyText.value = "timon.lapawczyk@gmail.com";
             if (confirm("Do you want to copy my e-mail address to your clipboard?")) {
@@ -10,6 +20,8 @@
                 document.body.removeChild(copyText);
                 alert("Copied " + copyText.value + " to your clipboard.");
             }
+            return false;
+          }
         }
     </script>
     <div class="body" style="align-content: center; max-width: 100%; overflow: auto;">
@@ -17,10 +29,9 @@
             style="font-size: 9pt; color: white; height: 40px; width: 250px; max-width: 400px;">
             <tr>
                 <td align="center">
-                    <button style="background-color: #242526; border-style: none;" onclick="copyEmail()">
-                    <img style="cursor: pointer; height: 18px"
-                        src="../../assets/img/gmail_logo.png" />
-                    </button>
+                    <a id="email-link" href="">
+                        <img style="cursor: pointer; height: 18px" src="../../assets/img/gmail_logo.png" />
+                    </a>
                 </td>
                 <td align="center">
                     <a target="_blank" href="https://www.linkedin.com/in/timon-lapawczyk-2b5bb9150">
