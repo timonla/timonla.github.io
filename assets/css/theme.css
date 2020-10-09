@@ -154,3 +154,9 @@ footer {
     display: block;
     width: 500px;
 }
+
+table td, th {
+    border: 1px solid #303030;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}

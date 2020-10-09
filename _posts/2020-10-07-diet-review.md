@@ -143,64 +143,70 @@ Price: **0.15 EUR/1.55 SEK** per day.
 
 ### Spices
 
-|Spice|Start weight in g|End weight in g|Delta in g|EUR|SEK|
-|---|---|---|---|---|---|
-|Cinnamon|189|179|10|0.57|6|
-|Nutritional Yeast|591|489|102|2.83|29.56|
-|Chili|288|282|6|0.36|3.75|
-|Coriander|296|289|7|0.11|1.12|
-|Ginger|286|276|10|0.34|3.56|
-|Turmeric|305|297|8|0.27|2.85|
-|Smoked Paprika|377|353|24|0.62|6.5|
-|Basil|216|213|3|0.08|0.85|
-|Rosemary|209|204|5|0.14|1.41|
-|||||||
-|Total|||175|5.32|55.6|
+I forgot to measure salt.
+But since it's super cheap and I just used a pinch in two dishes
+I think it can be neglected.
+
+|---
+| Spice | Start weight grams | End weight grams | Delta grams | EUR | SEK
+|:-|-:|-:|-:|-:|-:
+|Cinnamon|189|179|10|0.57|6
+|Nutritional Yeast|591|489|102|2.83|29.56
+|Chili|288|282|6|0.36|3.75
+|Coriander|296|289|7|0.11|1.12
+|Ginger|286|276|10|0.34|3.56
+|Turmeric|305|297|8|0.27|2.85
+|Smoked Paprika|377|353|24|0.62|6.5
+|Basil|216|213|3|0.08|0.85
+|Rosemary|209|204|5|0.14|1.41
+|===
+|Total|||175|5.32|55.6
 
 ### Monday 21.09.2020
 
-|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|
-|7:30||Coconut Oil|12|0.18|1.92|
-|||||||
-|7:50|961|Lemon Water||0.67|6.98|
-||20|Lemon Juice|Half a Lemon|0.53|5.48|
-|||Pukka Peppermint & Licorice|One Bag|0.14|1.5|
-|||||||
-|9:40|918|Oat Meal||2.8|29.18|
-||114|Oats|114|0.26|2.73|
-||53|Flax Seeds|53|0.27|2.78|
-||21|Coconut Flakes|21|0.14|1.47|
-||7|Cocoa Powder|7|0.1|1.06|
-||113|Frozen Wild Blueberries|113|1.16|12.18|
-||149|Banana|230|0.58|5.96|
-||31|Peanut Butter|31|0.29|3|
-|||||||
-|13:28|63|Snack||0.72|7.53|
-||47|Raisins|47|0.29|3|
-||16|Walnuts|16|0.43|4.53|
-|||||||
-|13:50|1293|Lunch||3.59|37.33|
-||142|Frozen Broccoli|142|0.45|4.7|
-||150|Frozen Spinach|150|0.71|7.32|
-||167|Red Thai Rice|167|1.34|14.01|
-||50|Red Lentils|50|0.29|3|
-||133|Coconut Milk|133|0.41|4.31|
-||2|Vegetable Bullion|2|0.04|0.38|
-||26|Red Onion|33|0.15|1.52|
-||4|Garlic|7|0.09|0.94|
-||8|Potato Starch|8|0.02|0.19|
-||16|Sesame Seeds|16|0.09|0.96|
-|||||||
-|13:50|350|Water||||
-|16:43|350|Water||||
-|||||||
-|20:17|60|Corn Cakes|60|0.83|8.75|
-|||||||
-|20:17|350|Water||||
-|22:23|350|Water||||
-|||||||
-|Total|4695|||8.79|91.69|
+|---
+| Time | Consumed grams | Name | Bought grams | EUR | SEK
+|:-|-:|:-|-:|-:|-:
+|7:30||Coconut Oil|12|0.18|1.92
+||||||
+|7:50|961|Lemon Water||0.67|6.98
+||20|Lemon Juice|Half a Lemon|0.53|5.48
+|||Pukka Peppermint & Licorice|One Bag|0.14|1.5
+||||||
+|9:40|918|Oat Meal||2.8|29.18
+||114|Oats|114|0.26|2.73
+||53|Flax Seeds|53|0.27|2.78
+||21|Coconut Flakes|21|0.14|1.47
+||7|Cocoa Powder|7|0.1|1.06
+||113|Frozen Wild Blueberries|113|1.16|12.18
+||149|Banana|230|0.58|5.96
+||31|Peanut Butter|31|0.29|3
+||||||
+|13:28|63|Snack||0.72|7.53
+||47|Raisins|47|0.29|3
+||16|Walnuts|16|0.43|4.53
+||||||
+|13:50|1293|Lunch||3.59|37.33
+||142|Frozen Broccoli|142|0.45|4.7
+||150|Frozen Spinach|150|0.71|7.32
+||167|Red Thai Rice|167|1.34|14.01
+||50|Red Lentils|50|0.29|3
+||133|Coconut Milk|133|0.41|4.31
+||2|Vegetable Bullion|2|0.04|0.38
+||26|Red Onion|33|0.15|1.52
+||4|Garlic|7|0.09|0.94
+||8|Potato Starch|8|0.02|0.19
+||16|Sesame Seeds|16|0.09|0.96
+||||||
+|13:50|350|Water|||
+|16:43|350|Water|||
+||||||
+|20:17|60|Corn Cakes|60|0.83|8.75
+||||||
+|20:17|350|Water|||
+|22:23|350|Water|||
+||||||
+|Total|4695|||8.79|91.69
 
 #### 7:30 Coconut Oil
 
@@ -247,8 +253,19 @@ I cannot emphasize enough how much of a waste of money it is to buy sprouting ki
 Just buy mason jars and the lids.
 Even if you later decide sprouting is not for you, they can be of great use in the kitchen.
 
+Don't buy specific sprouting kits!
+Those are way to expensive and most of them are super small.
+
 I use [these lids](https://www.amazon.de/gp/product/B07B3Q336D/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 and [these glasses](https://www.bormiolirocco.com/en/product/700/jar-50-3-4-oz-quattro-stagioni) in 1l and 1.5l sizes.
+
+They make life a bit easier and are definitely worth the investment
+if you are doing this regularly.
+However, to test it out, any colander will do for washing and draining
+and once most of the water has gone, you can put the legumes in any bowl
+for the rest of the day.
+
+You also see me using them for lemon water, smoothies, to soak buckwheat, ...
 
 #### 13:28 Snack
 
@@ -321,60 +338,61 @@ dehydrated.
 
 ### Tuesday 22.09.2020
 
-|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|
-|7:13||Coconut Oil|14|0.21|2.24|
-|||||||
-|7:40|973|Lemon Water||0.67|6.98|
-||19|Lemon Juice|Half a Lemon|0.53|5.48|
-|||Pukka Peppermint & Licorice|One bag|0.14|1.5|
-|||||||
-|10:27|803|Oat Meal||2.41|25.1|
-||104|Oats|104|0.24|2.49|
-||32|Flax Seeds|32|0.16|1.68|
-||17|Coconut Flakes|17|0.11|1.19|
-||6|Cocoa Powder|6|0.09|0.91|
-||94|Frozen Wild Blueberries|94|0.97|10.13|
-||140|Banana|209|0.52|5.41|
-||34|Peanut Butter|34|0.32|3.29|
-|||||||
-|12:37|1146|Lunch||3.55|36.85|
-||142|Frozen Broccoli|142|0.45|4.7|
-||150|Frozen Spinach|150|0.71|7.32|
-||167|Red Thai Rice|167|1.34|14.01|
-||50|Red Lentils|50|0.29|3|
-||133|Coconut Milk|133|0.41|4.31|
-||2|Vegetable Bullion|2|0.04|0.38|
-||26|Red Onion|33|0.15|1.52|
-||4|Garlic|7|0.09|0.94|
-||8|Potato Starch|8|0.02|0.19|
-||8|Sesame Seeds|8|0.05|0.48|
-|||||||
-|12:37|350|Water||||
-|||||||
-|15:30|794|Isotonic Drink||1.29|13.5|
-||42|Enervit Isotonic Drink|42|1.29|13.5|
-||750|Water|||||
-|||||||
-|16:57|730|Water||||
-|||||||
-|17:30|25|Corn cakes|25|0.35|3.65|
-|||||||
-|18:10|2232|Dinner||7.29|76.33|
-||632|Potatoes|743|1.41|14.49|
-||328|Leek|362|2.06|21.72|
-||180|Beetroot|197|1.01|10.62|
-||13|Garlic|16|0.21|2.16|
-||390|Canned Tomatoes|390|0.94|9.95|
-||5|Vegetable Bullion|5|0.09|0.96|
-||117|White Beans|85|0.81|8.49|
-||40|Pumpkin seeds|40|0.73|7.6|
-||4|Bicarbonate|4|0.03|0.34|
-|||||||
-|19:53|350|Water||||
-|23:52|350|Water||||
-|||||||
-|Total|7753|||15.77|164.65|
+|---
+| Time | Consumed grams | Name | Bought grams | EUR | SEK
+|:-|-:|:-|-:|-:|-:
+|8:13||Coconut Oil|14|0.21|2.24
+||||||
+|8:40|973|Lemon Water||0.67|6.98
+||20|Lemon Juice|Half a Lemon|0.53|5.48
+|||Pukka Peppermint & Licorice|One bag|1.14|1.5
+||||||
+|11:27|803|Oat Meal||2.41|25.1
+||105|Oats|104|0.24|2.49
+||33|Flax Seeds|32|0.16|1.68
+||18|Coconut Flakes|17|0.11|1.19
+||7|Cocoa Powder|6|0.09|0.91
+||95|Frozen Wild Blueberries|94|0.97|10.13
+||141|Banana|209|0.52|5.41
+||35|Peanut Butter|34|0.32|3.29
+||||||
+|13:37|1146|Lunch||3.55|36.85
+||143|Frozen Broccoli|142|0.45|4.7
+||151|Frozen Spinach|150|0.71|7.32
+||168|Red Thai Rice|167|1.34|14.01
+||51|Red Lentils|50|0.29|3
+||134|Coconut Milk|133|0.41|4.31
+||3|Vegetable Bullion|2|0.04|0.38
+||27|Red Onion|33|0.15|1.52
+||5|Garlic|7|0.09|0.94
+||9|Potato Starch|8|0.02|0.19
+||9|Sesame Seeds|8|0.05|0.48
+||||||
+|13:37|350|Water|||
+||||||
+|16:30|794|Isotonic Drink||1.29|13.5
+||43|Enervit Isotonic Drink|42|1.29|13.5
+||751|Water||||
+||||||
+|17:57|730|Water|||
+||||||
+|18:30|25|Corn cakes|25|0.35|3.65
+||||||
+|19:10|2232|Dinner||7.29|76.33
+||633|Potatoes|743|1.41|14.49
+||329|Leek|362|2.06|21.72
+||181|Beetroot|197|1.01|10.62
+||14|Garlic|16|0.21|2.16
+||391|Canned Tomatoes|390|0.94|9.95
+||6|Vegetable Bullion|5|0.09|0.96
+||118|White Beans|85|0.81|8.49
+||41|Pumpkin seeds|40|0.73|7.6
+||5|Bicarbonate|4|0.03|0.34
+||||||
+|20:53|350|Water|||
+|24:52|350|Water|||
+||||||
+|Total|7754|||15.77|164.65
 
 #### 7:13 Coconut Oil
 
@@ -441,61 +459,62 @@ Three portions would have been ideal.
 
 ### Wednesday 23.09.2020
 
-|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|
-|7:28||Coconut Oil|14|0.21|2.24|
-|||||||
-|7:55|979|Lemon Water||0.63|6.48|
-||33|Lemon Juice|Half a Lemon|0.53|5.48|
-|||Peppermint Tea|One Bag|0.1|1|
-|||||||
-|9:50|773|Oat Meal||2.56|26.67|
-||98|Oats|98|0.23|2.34|
-||38|Flax Seeds|38|0.19|1.99|
-||16|Coconut Flakes|16|0.11|1.12|
-||7|Cocoa Powder|7|0.1|1.06|
-||65|Frozen Wild Blueberries|65|0.67|7.01|
-||80|Banana|120|0.3|3.11|
-||32|Peanut Butter|32|0.3|3.1|
-||87|Frozen mango|87|0.66|6.94|
-|||||||
-|11:40|350|Water||||
-|||||||
-|13:58|1116|Lunch||4.16|43.24|
-||142|Frozen Broccoli|142|0.45|4.7|
-||150|Frozen Spinach|150|0.71|7.32|
-||167|Red Thai Rice|167|1.34|14.01|
-||50|Red Lentils|50|0.29|3|
-||133|Coconut Milk|133|0.41|4.31|
-||2|Vegetable Bullion|2|0.04|0.38|
-||26|Red Onion|33|0.15|1.52|
-||4|Garlic|7|0.09|0.94|
-||8|Potato Starch|8|0.02|0.19|
-||19|Cashews|19|0.66|6.87|
-|||||||
-|15:50|350|Water||||
-|17:46|350|Water||||
-|||||||
-|17:55|747|Smoothie||2.4|25.1|
-||137|Banana|214|0.54|5.54|
-||23|Coconut Flakes|23|0.15|1.61|
-||161|Frozen Mango|161|1.22|12.85|
-||126|Frozen Banana|~197|0.49|5.1|
-|||||||
-|20:38|244|Sprouts||0.86|9.07|
-||20|Chickpea Sprouts|20|0.13|1.4|
-||30|Sweet Lupine Sprouts|30|0.29|3.07|
-||30|Green Lentil Sprouts|30|0.27|2.82|
-||10|Tamari|10|0.17|1.78|
-||2|PiriPiri|2|||
-|||||||
-|20:38|350|Water||||
-|||||||
-|21:38|50|Corn Cakes|50|0.7|7.29|
-|||||||
-|23:48|350|Water||||
-|||||||
-|Total|5659|||11.52|120.09|
+|---
+| Time | Consumed grams | Name | Bought grams | EUR | SEK
+|:-|-:|:-|-:|-:|-:
+|7:28||Coconut Oil|14|0.21|2.24
+||||||
+|7:55|979|Lemon Water||0.63|6.48
+||33|Lemon Juice|Half a Lemon|0.53|5.48
+|||Peppermint Tea|One Bag|0.1|1
+||||||
+|9:50|773|Oat Meal||2.56|26.67
+||98|Oats|98|0.23|2.34
+||38|Flax Seeds|38|0.19|1.99
+||16|Coconut Flakes|16|0.11|1.12
+||7|Cocoa Powder|7|0.1|1.06
+||65|Frozen Wild Blueberries|65|0.67|7.01
+||80|Banana|120|0.3|3.11
+||32|Peanut Butter|32|0.3|3.1
+||87|Frozen mango|87|0.66|6.94
+||||||
+|11:40|350|Water|||
+||||||
+|13:58|1116|Lunch||4.16|43.24
+||142|Frozen Broccoli|142|0.45|4.7
+||150|Frozen Spinach|150|0.71|7.32
+||167|Red Thai Rice|167|1.34|14.01
+||50|Red Lentils|50|0.29|3
+||133|Coconut Milk|133|0.41|4.31
+||2|Vegetable Bullion|2|0.04|0.38
+||26|Red Onion|33|0.15|1.52
+||4|Garlic|7|0.09|0.94
+||8|Potato Starch|8|0.02|0.19
+||19|Cashews|19|0.66|6.87
+||||||
+|15:50|350|Water|||
+|17:46|350|Water|||
+||||||
+|17:55|747|Smoothie||2.4|25.1
+||137|Banana|214|0.54|5.54
+||23|Coconut Flakes|23|0.15|1.61
+||161|Frozen Mango|161|1.22|12.85
+||126|Frozen Banana|~197|0.49|5.1
+||||||
+|20:38|244|Sprouts||0.86|9.07
+||20|Chickpea Sprouts|20|0.13|1.4
+||30|Sweet Lupine Sprouts|30|0.29|3.07
+||30|Green Lentil Sprouts|30|0.27|2.82
+||10|Tamari|10|0.17|1.78
+||2|PiriPiri|2||
+||||||
+|20:38|350|Water|||
+||||||
+|21:38|50|Corn Cakes|50|0.7|7.29
+||||||
+|23:48|350|Water|||
+||||||
+|Total|5659|||11.52|120.09
 
 #### 7:28 Coconut Oil
 
@@ -555,56 +574,57 @@ Also soaked some new sprouts.
 
 ### Thursday 24.09.2020
 
-|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|
-|7:43||Coconut Oil|9|0.14|1.44|
-|||||||
-|8:05|971|Lemon Water||0.67|6.98|
-||37|Lemon Juice|Half a Lemon|0.53|5.48|
-|||Pukka Peppermint & Licorice|One Bag|0.14|1.5|
-|||||||
-|10:34|930|Oat Meal||2.78|29.01|
-||138|Oats|138|0.32|3.3|
-||44|Flax Seeds|44|0.22|2.31|
-||21|Coconut Flakes|21|0.14|1.47|
-||8|Cocoa Powder|8|0.12|1.21|
-||111|Frozen Wild Blueberries|111|1.14|11.97|
-||160|Banana|233|0.58|6.04|
-||28|Peanut Butter|28|0.26|2.71|
-|||||||
-|12:28|350|Water||||
-|15:33|350|Water||||
-|||||||
-|15:33|47|Snack||0.53|5.64|
-||35|Raisins|35|0.21|2.24|
-||12|Walnuts|12|0.32|3.4|
-|||||||
-|16:23|1946|Lunch||6.01|62.91|
-||300|Whole Grain Rice Pasta|300|2.19|22.95|
-||6|Miso paste|6|0.14|1.48|
-||10|Tamari|10|0.17|1.78|
-||115|Smoked Tofu|115|1.36|14.25|
-||15|Sesame Seeds|15|0.09|0.9|
-||105|Leek|110|0.6|6.3|
-||10|Garlic|12|0.15|1.62|
-||120|White Cabbage|120|0.35|3.6|
-||89|Red Onion|100|0.44|4.59|
-||87|Beetroot|101|0.52|5.44|
-|||||||
-|16:23|350|Water||||
-|20:55|350|Water||||
-|||||||
-|20:55|517|Sprouts||2.48|26.01|
-||41|Green Lentil Sprouts|41|0.37|3.85|
-||40|Sweet Lupine Sprouts|40|0.39|4.1|
-||21|Red Lentil Sprouts|21|0.12|1.26|
-||20|Sunflower Seeds|20|0.11|1.2|
-||82|Ketchup|82|0.28|2.95|
-||35|Cashews|35|1.21|12.65|
-|||||||
-|00:09|350|Water||||
-|||||||
-|Total|6161|||12.61|131.99|
+|---
+| Time | Consumed grams | Name | Bought grams | EUR | SEK
+|:-|-:|:-|-:|-:|-:
+|7:43||Coconut Oil|9|0.14|1.44
+||||||
+|8:05|971|Lemon Water||0.67|6.98
+||37|Lemon Juice|Half a Lemon|0.53|5.48
+|||Pukka Peppermint & Licorice|One Bag|0.14|1.5
+||||||
+|10:34|930|Oat Meal||2.78|29.01
+||138|Oats|138|0.32|3.3
+||44|Flax Seeds|44|0.22|2.31
+||21|Coconut Flakes|21|0.14|1.47
+||8|Cocoa Powder|8|0.12|1.21
+||111|Frozen Wild Blueberries|111|1.14|11.97
+||160|Banana|233|0.58|6.04
+||28|Peanut Butter|28|0.26|2.71
+||||||
+|12:28|350|Water|||
+|15:33|350|Water|||
+||||||
+|15:33|47|Snack||0.53|5.64
+||35|Raisins|35|0.21|2.24
+||12|Walnuts|12|0.32|3.4
+||||||
+|16:23|1946|Lunch||6.01|62.91
+||300|Whole Grain Rice Pasta|300|2.19|22.95
+||6|Miso paste|6|0.14|1.48
+||10|Tamari|10|0.17|1.78
+||115|Smoked Tofu|115|1.36|14.25
+||15|Sesame Seeds|15|0.09|0.9
+||105|Leek|110|0.6|6.3
+||10|Garlic|12|0.15|1.62
+||120|White Cabbage|120|0.35|3.6
+||89|Red Onion|100|0.44|4.59
+||87|Beetroot|101|0.52|5.44
+||||||
+|16:23|350|Water|||
+|20:55|350|Water|||
+||||||
+|20:55|517|Sprouts||2.48|26.01
+||41|Green Lentil Sprouts|41|0.37|3.85
+||40|Sweet Lupine Sprouts|40|0.39|4.1
+||21|Red Lentil Sprouts|21|0.12|1.26
+||20|Sunflower Seeds|20|0.11|1.2
+||82|Ketchup|82|0.28|2.95
+||35|Cashews|35|1.21|12.65
+||||||
+|00:09|350|Water|||
+||||||
+|Total|6161|||12.61|131.99
 
 #### 7:43 Coconut Oil
 
@@ -640,48 +660,49 @@ from Felix seems to not include too much crap.
 
 ### Friday 25.09.2020
 
-|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|
-|07:45||Coconut Oil|12|0.18|1.92|
-|||||||
-|8:10|951|Lemon Water||0.67|6.98|
-||41|Lemon Juice|Half a Lemon|0.53|5.48|
-|||Pukka Peppermint & Licorice|One Bag|0.14|1.5|
-|||||||
-|10:08|835|Oat Meal||2.59|27|
-||102|Oats|102|0.24|2.44|
-||32|Flax Seeds|32|0.16|1.68|
-||20|Coconut Flakes|20|0.13|1.4|
-||7|Cocoa Powder|7|0.1|1.06|
-||98|Frozen Wild Blueberries|98|1.01|10.56|
-||178|Banana|257|0.64|6.66|
-||33|Peanut Butter|33|0.31|3.2|
-|||||||
-|13:28|350|Water||||
-|||||||
-|13:38 & 18:32|2133|Lunch||6.01|62.91|
-||300|Whole Grain Rice Pasta|300|2.19|22.95|
-||6|Miso paste|6|0.14|1.48|
-||10|Tamari|10|0.17|1.78|
-||115|Smoked Tofu|115|1.36|14.25|
-||15|Sesame Seeds|15|0.09|0.9|
-||105|Leek|110|0.6|6.3|
-||10|Garlic|12|0.15|1.62|
-||120|White Cabbage|120|0.35|3.6|
-||89|Red Onion|100|0.44|4.59|
-||87|Beetroot|101|0.52|5.44|
-|||||||
-|18:32|350|Water||||
-|20:57|350|Water||||
-|||||||
-|20:57|427|Rice Cakes||2.14|22.26|
-||100|Rice Cakes|100|0.8|8.42|
-||30|Peanut Butter|30|0.28|2.91|
-||297|Banana|422|1.06|10.93|
-|||||||
-|02:12|350|Water||||
-|||||||
-|Total|5746|||11.59|121.07|
+|---
+| Time | Consumed grams | Name | Bought grams | EUR | SEK
+|:-|-:|:-|-:|-:|-:
+|07:45||Coconut Oil|12|0.18|1.92
+||||||
+|8:10|951|Lemon Water||0.67|6.98
+||41|Lemon Juice|Half a Lemon|0.53|5.48
+|||Pukka Peppermint & Licorice|One Bag|0.14|1.5
+||||||
+|10:08|835|Oat Meal||2.59|27
+||102|Oats|102|0.24|2.44
+||32|Flax Seeds|32|0.16|1.68
+||20|Coconut Flakes|20|0.13|1.4
+||7|Cocoa Powder|7|0.1|1.06
+||98|Frozen Wild Blueberries|98|1.01|10.56
+||178|Banana|257|0.64|6.66
+||33|Peanut Butter|33|0.31|3.2
+||||||
+|13:28|350|Water|||
+||||||
+|13:38 & 18:32|2133|Lunch||6.01|62.91
+||300|Whole Grain Rice Pasta|300|2.19|22.95
+||6|Miso paste|6|0.14|1.48
+||10|Tamari|10|0.17|1.78
+||115|Smoked Tofu|115|1.36|14.25
+||15|Sesame Seeds|15|0.09|0.9
+||105|Leek|110|0.6|6.3
+||10|Garlic|12|0.15|1.62
+||120|White Cabbage|120|0.35|3.6
+||89|Red Onion|100|0.44|4.59
+||87|Beetroot|101|0.52|5.44
+||||||
+|18:32|350|Water|||
+|20:57|350|Water|||
+||||||
+|20:57|427|Rice Cakes||2.14|22.26
+||100|Rice Cakes|100|0.8|8.42
+||30|Peanut Butter|30|0.28|2.91
+||297|Banana|422|1.06|10.93
+||||||
+|02:12|350|Water|||
+||||||
+|Total|5746|||11.59|121.07
 
 #### 7:45 Coconut Oil
 
@@ -713,66 +734,67 @@ Also rinsing and new sprouts
 
 ### Saturday 26.09.2020
 
-|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|
-|10:15||Coconut Oil|12|0.18|1.92|
-|||||||
-|10:43|400|Lemon Water||0.53|5.48|
-||41|Lemon Juice|Half a Lemon|0.53|5.48|
-|||||||
-|10:43|570|Oat Meal||2|20.92|
-||75|Oats|75|0.17|1.79|
-||31|Flax Seeds|31|0.16|1.62|
-||16|Coconut Flakes|16|0.11|1.12|
-||7|Cocoa Powder|7|0.1|1.06|
-||79|Frozen Wild Blueberries|79|0.81|8.52|
-||30|Peanut Butter|30|0.28|2.91|
-||61|Raisins|61|0.37|3.9|
-|||||||
-|12:43|350|Water||||
-|||||||
-|13:49|1055|Smoothie||3.34|34.73|
-||380|Banana|610|1.53|15.8|
-||6|Walnuts|6|0.16|1.7|
-||126|Frozen Spinach|126|0.59|6.15|
-||20|Coconut Flakes|20|0.13|1.4|
-||86|Frozen Wild Blueberries|86|0.89|9.27|
-||17|Oats|17|0.04|0.41|
-|||||||
-|16:30|320|Water||||
-|18:30|320|Water||||
-|||||||
-|18:38|350|Taco filling||9.25|96.91|
-||100|Champignon|100|1.57|16.48|
-||142|Shiitake mushrooms|150|4.2|43.95|
-||52|Oyster mushrooms|75|2.15|22.48|
-||40|Chipotle Chilies in Adobo Sauce|40|0.53|5.5|
-||84|Red Onion|94|0.41|4.32|
-||9|Tamari|9|0.15|1.6|
-||10|Garlic|12|0.15|1.62|
-||5|Vegetable Bullion|5|0.09|0.96|
-|||||||
-|18:38|~210|Tortillas||1.15|12.06|
-||180|Corn flour|180|1.15|12.06|
-|||||||
-|18:38|347|Mango Salsa||3.26|34.09|
-||250|Frozen Mango|250|1.9|19.95|
-||23|Fresh Coriander|Half a plant|0.72|7.5|
-||53|Red Onion|58|0.26|2.66|
-||15|Lime Juice|Half a Lime|0.38|3.98|
-|||||||
-|18:38|139|Cashew cream||2.83|29.63|
-||60|Cashews|60|2.07|21.68|
-||26|Lime Juice|1 Lime|0.76|7.95|
-|||||||
-|19:21|320|Water||||
-|||||||
-|19:47|71|Magnum almond|1 Ice Cream|0.95|9.98|
-|||||||
-|23:00|550|Water||||
-|02:11|350|Water||||
-|||||||
-|Total|5352|||23.49|245.72|
+|---
+| Time | Consumed grams | Name | Bought grams | EUR | SEK
+|:-|-:|:-|-:|-:|-:
+|10:15||Coconut Oil|12|0.18|1.92
+||||||
+|10:43|400|Lemon Water||0.53|5.48
+||41|Lemon Juice|Half a Lemon|0.53|5.48
+||||||
+|10:43|570|Oat Meal||2|20.92
+||75|Oats|75|0.17|1.79
+||31|Flax Seeds|31|0.16|1.62
+||16|Coconut Flakes|16|0.11|1.12
+||7|Cocoa Powder|7|0.1|1.06
+||79|Frozen Wild Blueberries|79|0.81|8.52
+||30|Peanut Butter|30|0.28|2.91
+||61|Raisins|61|0.37|3.9
+||||||
+|12:43|350|Water|||
+||||||
+|13:49|1055|Smoothie||3.34|34.73
+||380|Banana|610|1.53|15.8
+||6|Walnuts|6|0.16|1.7
+||126|Frozen Spinach|126|0.59|6.15
+||20|Coconut Flakes|20|0.13|1.4
+||86|Frozen Wild Blueberries|86|0.89|9.27
+||17|Oats|17|0.04|0.41
+||||||
+|16:30|320|Water|||
+|18:30|320|Water|||
+||||||
+|18:38|350|Taco filling||9.25|96.91
+||100|Champignon|100|1.57|16.48
+||142|Shiitake mushrooms|150|4.2|43.95
+||52|Oyster mushrooms|75|2.15|22.48
+||40|Chipotle Chilies in Adobo Sauce|40|0.53|5.5
+||84|Red Onion|94|0.41|4.32
+||9|Tamari|9|0.15|1.6
+||10|Garlic|12|0.15|1.62
+||5|Vegetable Bullion|5|0.09|0.96
+||||||
+|18:38|~210|Tortillas||1.15|12.06
+||180|Corn flour|180|1.15|12.06
+||||||
+|18:38|347|Mango Salsa||3.26|34.09
+||250|Frozen Mango|250|1.9|19.95
+||23|Fresh Coriander|Half a plant|0.72|7.5
+||53|Red Onion|58|0.26|2.66
+||15|Lime Juice|Half a Lime|0.38|3.98
+||||||
+|18:38|139|Cashew cream||2.83|29.63
+||60|Cashews|60|2.07|21.68
+||26|Lime Juice|1 Lime|0.76|7.95
+||||||
+|19:21|320|Water|||
+||||||
+|19:47|71|Magnum almond|1 Ice Cream|0.95|9.98
+||||||
+|23:00|550|Water|||
+|02:11|350|Water|||
+||||||
+|Total|5352|||23.49|245.72
 
 #### 10:15 Coconut Oil
 
@@ -848,60 +870,61 @@ Rinsing the sprouts
 
 ### Sunday 27.09.2020
 
-|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|
-|11:40||Coconut Oil|14|0.21|2.24|
-|||||||
-|12:10|485|Lemon Water||0.53|5.48|
-||44|Lemon Juice|Half a Lemon|0.53|5.48|
-|||||||
-|12:10|862|Oat Meal||2.45|25.34|
-||106|Oats|106|0.24|2.53|
-||39|Flax Seeds|39|0.2|2.04|
-||16|Coconut Flakes|16|0.11|1.12|
-||8|Cocoa Powder|8|0.12|1.21|
-||83|Frozen Wild Blueberries|83|0.86|8.95|
-||30|Peanut Butter|30|0.28|2.91|
-||171|Banana|254|0.64|6.58|
-|||||||
-|14:25|190|Water||||
-|||||||
-|14:25|809|Isotonic Drink||1.38|14.46|
-||45|Enervit Isotonic Drink|45|1.38|14.46|
-||764|Water|||||
-|||||||
-|15:00|~85|Banana|126|0.32|3.26|
-|||||||
-|16:10|750|Water||||
-|18:00|730|Water||||
-|||||||
-|18:00|654|Potato Fries||2.46|25.45|
-||815|Potatoes|1021|1.94|19.91|
-||124|Ketchup|124|0.42|4.46|
-||18|Sesame Seeds|18|0.1|1.08|
-|||||||
-|19:14|1434|Wraps||5.46|57.18|
-||204|Buckwheat|204|1.29|13.44|
-||273|Carrot|294|1.06|11.14|
-||279|Polka beets|313|1.06|11.24|
-||183|Red Onion|199|0.88|9.13|
-||49|Tahini|49|0.46|4.76|
-||40|Mustard|40|0.22|2.32|
-||10|Tamari|10|0.17|1.78|
-||6|Lemon juice|From Breakfast Lemon|||
-||20|Garlic|25|0.32|3.37|
-|||||||
-|19:14|390|Sprouts||0.94|9.82|
-||50|Green Lentil Sprouts|50|0.45|4.7|
-||50|Sweet Lupine Sprouts|50|0.49|5.12|
-|||||||
-|21:40|200|Water||||
-|||||||
-|22:48|257|Orange|377|1.55|16.21|
-|||||||
-|00:15|160|Water||||
-|||||||
-|Total|7006|||15.3|159.44|
+|---
+| Time | Consumed grams | Name | Bought grams | EUR | SEK
+|:-|-:|:-|-:|-:|-:
+|11:40||Coconut Oil|14|0.21|2.24
+||||||
+|12:10|485|Lemon Water||0.53|5.48
+||44|Lemon Juice|Half a Lemon|0.53|5.48
+||||||
+|12:10|862|Oat Meal||2.45|25.34
+||106|Oats|106|0.24|2.53
+||39|Flax Seeds|39|0.2|2.04
+||16|Coconut Flakes|16|0.11|1.12
+||8|Cocoa Powder|8|0.12|1.21
+||83|Frozen Wild Blueberries|83|0.86|8.95
+||30|Peanut Butter|30|0.28|2.91
+||171|Banana|254|0.64|6.58
+||||||
+|14:25|190|Water|||
+||||||
+|14:25|809|Isotonic Drink||1.38|14.46
+||45|Enervit Isotonic Drink|45|1.38|14.46
+||764|Water||||
+||||||
+|15:00|~85|Banana|126|0.32|3.26
+||||||
+|16:10|750|Water|||
+|18:00|730|Water|||
+||||||
+|18:00|654|Potato Fries||2.46|25.45
+||815|Potatoes|1021|1.94|19.91
+||124|Ketchup|124|0.42|4.46
+||18|Sesame Seeds|18|0.1|1.08
+||||||
+|19:14|1434|Wraps||5.46|57.18
+||204|Buckwheat|204|1.29|13.44
+||273|Carrot|294|1.06|11.14
+||279|Polka beets|313|1.06|11.24
+||183|Red Onion|199|0.88|9.13
+||49|Tahini|49|0.46|4.76
+||40|Mustard|40|0.22|2.32
+||10|Tamari|10|0.17|1.78
+||6|Lemon juice|From Breakfast Lemon||
+||20|Garlic|25|0.32|3.37
+||||||
+|19:14|390|Sprouts||0.94|9.82
+||50|Green Lentil Sprouts|50|0.45|4.7
+||50|Sweet Lupine Sprouts|50|0.49|5.12
+||||||
+|21:40|200|Water|||
+||||||
+|22:48|257|Orange|377|1.55|16.21
+||||||
+|00:15|160|Water|||
+||||||
+|Total|7006|||15.3|159.44
 
 #### 11:40 Coconut Oil
 
@@ -996,7 +1019,10 @@ I try to keep the fat to a reasonable amount, which can get tricky when burning 
 
 Looking at what contributed to the fat over the week, the coconut flakes in the breakfast and smoothies
 are quite up there considering how little they do for taste.
-I have tried the oat meal without the coconut flakes since looking at the numbers and don't miss it.
+I have tried the oat meal without the coconut flakes since looking at the numbers and don't miss them.
+I think they served some purpose when switching from chocolate oat drink
+to cocoa powder and water but considering that more than half their
+weight is saturated fats, they are not worth it in the long run.
 
 ![Cronometer Fat Results](/assets/img/blog/diet-review/cronometer-week-fat.png">
 
@@ -1031,22 +1057,32 @@ This is how the nutrient result would look with almond butter in the breakfast:
 
 ![Cronometer results](/assets/img/blog/diet-review/cronometer-week-result-with-almond.png">
 
+# Selen
+
+I got a comment questioning the selen value.
+Cronometer lists brown rice and oats as the two main contributors here.
+Since half of the rice and all of the oats I consume come from europe
+the selen score is probably less than 200% and might not even be 100%.
+Brazilian nuts however are a safe way to make sure that you are getting
+your selen dosis and they are also really delicious. :)
+
 ## Cost
 
-|Day|EUR|SEK|
-|---|---|---|
-|Spices|5.32|55.6|
-|Supplements|1.96|20.44|
-||||
-|Monday|8.79|91.69|
-|Tuesday|15.77|164.65|
-|Wednesday|11.52|120.09|
-|Thursday|12.61|131.99|
-|Friday|11.59|121.07|
-|Saturday|23.49|245.72|
-|Sunday|15.3|159.44|
-||||
-|Average|15.19|158.67|
+|---
+| | EUR | SEK
+|:-|-:|-:
+|Spices|5.32|55.6
+|Supplements|1.96|20.44
+|||
+|Monday|8.79|91.69
+|Tuesday|15.77|164.65
+|Wednesday|11.52|120.09
+|Thursday|12.61|131.99
+|Friday|11.59|121.07
+|Saturday|23.49|245.72
+|Sunday|15.3|159.44
+|||
+|Average|15.19|158.67
 
 Average daily calories: **3625kcal**
 
@@ -1063,12 +1099,22 @@ Especially documenting everything in here and calculating the cost was no fun :)
 This week however, seemed like a good enough representation for my diet in the recent weeks.
 So I am at least happy with how that turned out.
 
+If I do something similar again I will definitely track everything in
+a spreadsheet instead of taking notes in a markdown file and doing
+calculations by hand.
+I have to admit that I underestimated the effort for this experiment.
+🤦‍♂️
+
 It would be good to track time in the kitchen and actual time eating the next time.
 However, it would not have made sense to do it during this week since the tracking and taking photos took
 quite some time and would have distorted the actual time.
 Maybe use something like [jiffy](https://jiffy.nu/) to track it properly.
 
-## New Goals
+It would also be intersting to measure the amount of packaging that
+the food comes in.
+One week would not be representative enough for this though.
+
+## Changes
 
 * I was hoping the cost of my diet would be below 4000SEK but considering the amount of calories,
 I consumed during the week, I think it's fine.
@@ -1077,15 +1123,20 @@ of the internet, where I can buy them in bulk.
 I would like to buy spices at [pikantum](https://www.pikantum.de/),
 and rice, beans and co. at [RAPUNZEL](https://shop.rapunzel.de/) and [prohviant](https://www.prohviant.de/).
 
-* Swap peanut butter for almond butter in the breakfast.
+* Since the first shopping after the experiment I started using almond
+butter in my oat meal instaed of peanut butter.
 
-* Remove coconut flakes from breakfast.
+* I removed the coconut flakes from my oat meal.
 
-* Test Omega-3 index.
+* I am thinking about checking my Omega-3 index to see how good my
+absorption from the flax seeds is.
 
-* Sprout the flax seeds instead of consuming them blended in the oat meal.
-I consume flax seeds mainly for the Omega-3 and this process is supposed to
-increase its availability.
+* I want to try to sprout the flax seeds instead of consuming them
+grounded in the oat meal.
+I consume flax seeds mainly for the Omega-3 and this process is
+supposed to increase its availability.
+
+* I bought some brazilian nuts and am consuming them daily for the selen.
 
 ## Price List
 
@@ -1097,74 +1148,75 @@ Also ICA online prices seem to be higher than what I pay in the store.
 I bought my chili and coriander powder somewhere in India and they are not organic.
 So I took the price and the link of the next chili powder that I am going to buy.
 
-|Name|Bought At/Link|Organic|EUR|SEK|Unit|
-|---|---|---|---|---|---|
-|Ceylon Cinnamon|ICA/[HappyGreen](https://www.happygreen.se/mother-earth-kanel-ceylon-mald-125-g)|✔️|5.73|60|100g|
-|Ceylon Ginger|ICA/[HappyGreen](https://www.happygreen.se/mother-earth-ingefara-ceylon-mald-250-g)|✔️|3.4|35.6|100g|
-|Turmeric|ICA/[HappyGreen](https://www.happygreen.se/mother-earth-gurkmeja-indien-1-kg-ekologisk)|✔️|3.4|35.6|100g|
-|Chili|Don't recall/[pikantum](https://www.pikantum.de/Bio-Chilis-gemahlen-extrem-scharf-250g)|✔️|5.97|62.48|100g|
-|Coriander|Don't recall/[pikantum](https://www.pikantum.de/Koriander-gemahlen-250g)|✔️|1.53|16.01|100g|
-|Smoked Paprika|[amazon](https://www.amazon.de/gp/product/B00S9U843I/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)|❌|2.59|27.1|100g|
-|Basil|[amazon](https://www.amazon.de/gp/product/B073WY64G8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)|✔️|2.7|28.25|100g|
-|Rosemary|[amazon](https://www.amazon.de/gp/product/B073WWT8WG/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)|✔️|2.7|28.25|100g|
-|Nutritional Yeast|ICA|❌|2.77|28.98|100g|
-|Lemon|[ICA](https://www.ica.se/handla/sok/citron/produkt/citron-ekologisk-ca-100g-klass-1-ica-i-love-eco-id_p_2098318200000724/?s=ica-kvantum-frolunda-id_03553)|✔️|1.05|10.95|1 fruit|
-|Sesame Seeds|ICA|✔️|0.57|5.99|100g|
-|Smoked Tofu|ICA|✔️|1.18|12.39|100g|
-|Potatoes|ICA|✔️|0.19|1.95|100g|
-|Sunflower Seeds|ICA|✔️|0.57|5.99|100g|
-|Banana|[ICA](https://www.ica.se/handla/sok/banan/produkt/banan-ca-765g-ica-i-love-eco-id_p_2098401100000214/?s=ica-kvantum-frolunda-id_03553)|✔️|0.25|2.59|100g|
-|Orange|[ICA](https://www.ica.se/handla/sok/banan/produkt/apelsin-ica-ca-310g-id_p_2092317400000724/?s=ica-kvantum-frolunda-id_03553)|✔️|0.41|4.3|100g|
-|Frozen Wild Blueberries|[ICA](https://www.ica.se/handla/sok/fryst%20bl/produkt/blabar-fryst-250g-krav-ica-i-love-eco-id_p_7318690125037/?s=ica-kvantum-frolunda-id_03553)|✔️|1.03|10.78|100g|
-|Frozen Broccoli|[ICA](https://www.ica.se/handla/sok/broccoli/produkt/broccoli-ekologisk-800-g-ica-id_p_7318690131007/?s=ica-kvantum-frolunda-id_03553)|✔️|0.32|3.31|100g|
-|Chioggia beet|ICA|✔️|0.34|3.59|100g|
-|Carrots|[ICA](https://www.ica.se/handla/sok/mor/produkt/morotter-500g-krav--ica-i-love-eco-id_p_7318690131960/?s=ica-kvantum-frolunda-id_03553)|✔️|0.36|3.79|100g|
-|Frozen Spinach|ICA|✔️|0.47|4.88|100g|
-|Peanut Butter|[ICA](https://www.ica.se/handla/sok/jordn/produkt/peanut-butter-creamy-340g-krav-green-choice-id_p_5701038033224/?s=ica-kvantum-frolunda-id_03553)|✔️|0.93|9.69|100g|
-|Flax Seeds|[ICA](https://www.ica.se/handla/sok/jordn/produkt/linfron-400g-krav-salta-kvarn-id_p_7317731522002/?s=ica-kvantum-frolunda-id_03553)|✔️|0.5|5.24|100g|
-|Coconut Flakes|[ICA](https://www.ica.se/handla/sok/riven%20kokos/produkt/kokos-riven-ekologisk-200g-ica-i-love-eco-id_p_7318690129820/?s=ica-kvantum-frolunda-id_03553)|✔️|0.67|6.98|100g|
-|Mustard|[ICA](https://www.ica.se/handla/sok/kung%20buljong/produkt/senap-sotstark-ekologisk-500g-johnnys-id_p_7392031000108/?s=ica-kvantum-frolunda-id_03553)|✔️|0.55|5.79|100g|
-|Ketchup|[ICA](https://www.ica.se/handla/sok/kung%20buljong/produkt/ketchup-osotad-970g-felix-id_p_7310240060058/?s=ica-kvantum-frolunda-id_03553)|❌|0.34|3.6|100g|
-|Vegetable Bullion|[ICA](https://www.ica.se/handla/sok/kung%20buljong/produkt/gronsaksbuljong-pulver-ekologisk-130g-kung-markatta-id_p_7391835916332/?s=ica-kvantum-frolunda-id_03553)|✔️|1.83|19.19|100g|
-|Whole Grain Rice Pasta|[ICA](https://www.ica.se/handla/sok/glutenfri%20pasta/produkt/linguini-pasta-300g-krav-semper-id_p_7310100605412/?s=ica-kvantum-frolunda-id_03553)|✔️|0.73|7.65|100g|
-|Raisins|[ICA](https://www.ica.se/handla/sok/russin/produkt/soltorkade-russin-500g-krav-salta-kvarn-id_p_7317731501205/?s=ica-kvantum-frolunda-id_03553)|✔️|0.61|6.39|100g|
-|Frozen Mango|[ICA](https://www.ica.se/handla/sok/mango/produkt/mango-fryst-ekologisk-250g-ica-i-love-eco-id_p_7318690141754/?s=ica-kvantum-frolunda-id_03553)|✔️|0.76|7.98|100g|
-|Red Thai Rice|ICA|✔️|0.8|8.39|100g|
-|Tahini|ICA/[Urtekram](https://www.urtekram.se/mat/notsmor-och-palagg/tahini/)|✔️|0.93|9.7|100g|
-|Tamari|ICA|✔️|1.7|17.8|100g|
-|Rice Cakes|[ICA](https://www.ica.se/handla/sok/riskakor/produkt/riskakor-lattsaltade-ekologisk-130g-friggs-id_p_7310186055606/?s=ica-kvantum-frolunda-id_03553)|✔️|0.8|8.42|100g|
-|Corn Cakes|[ICA](https://www.ica.se/handla/sok/riskakor/produkt/tunna-riskakor-majs-ekologisk-130g-friggs-id_p_7350028544738/?s=ica-kvantum-frolunda-id_03553)|✔️|1.39|14.58|100g|
-|Red Onion|ICA|✔️|0.44|4.59|100g|
-|Garlic|[ICA](https://www.ica.se/handla/sok/vitl/produkt/vitlok-ekologisk-200g-klass-1-ica-i-love-eco-id_p_7318693307652/?s=ica-kvantum-frolunda-id_03553)|✔️|1.29|13.48|100g|
-|Walnuts|ICA|✔️|2.7|28.29|100g|
-|Cashews|ICA|✔️|3.45|36.13|100g|
-|Beetroot|ICA|✔️|0.51|5.39|100g|
-|Corn Masa|ICA/[andale](https://www.andale.se/en/product/gluten-and-gmo-free-blue-cornflour-for-tortillas-naturelo-1kg)|❌|0.64|6.7|100g|
-|Enervit Isotonic Drink|[apotea]()|❌|3.07|32.14|100g|
-|Magnum Almond|[Willy:s](https://www.willys.se/produkt/Almond-Vegan-Glass-101282646_ST)|❌|0.95|9.98|1|
-|Oats|ICA|✔️|0.23|2.39|100g|
-|Pukka Peppermint&Licorice Tea|[ICA](https://www.ica.se/handla/sok/pukka/produkt/peppermint---licorice-te-ekologisk-20-p-pukka-id_p_5060229011107/?s=ica-kvantum-frolunda-id_03553)|✔️|0.14|1.5|1 bag|
-|Peppermint Tea|[Willy:s](https://www.willys.se/produkt/ortte-Pepparmynta-101132141_ST)|❌|0.1|1|1 bag|
-|Lime|ICA|✔️|0.76|7.95|1 fruit|
-|Fresh Coriander|ICA|✔️|1.43|15|1 plant|
-|Buckwheat|[ICA](https://www.ica.se/handla/sok/bovete/produkt/bovete-500g-krav-salta-kvarn-id_p_7317731520008/?s=ica-kvantum-frolunda-id_03553)|✔️|0.63|6.59|100g|Probably wrong price because online price
-|Chipotle Chilies in Adobo Sauce|[Willy:s](https://www.willys.se/produkt/Chipotle-i-Adobosas-101210363_ST)|❌|1.32|13.76|100g|
-|Pumpkin Seeds|ICA/[HappyGreen](https://www.happygreen.se/kung-markatta-pumpafron-500g-ekologisk)|✔️|1.82|19|100g|Probably wrong price because online price
-|Leek|ICA|✔️|0.57|6|100g|
-|Sweet Lupines|[Spiegelhauer](https://www.baeckerei-spiegelhauer.de/Bio-Lupinensamen-1-kg-von-der-weissen-Suesslupine)|✔️|0.98 dry|10.24 dry|100g|
-|Green Lentils|ICA|✔️|0.9 dry|9.39 dry|100g|
-|Red Lentils|[ICA](https://www.ica.se/handla/sok/linser/produkt/roda-linser-500g-krav-salta-kvarn-id_p_7317731511006/?s=ica-kvantum-frolunda-id_03553)|✔️|0.57 dry|5.99 dry|100g|Probably wrong price because online price
-|Chickpeas|ICA|✔️|0.67 dry|6.99 dry|100g|
-|White Beans|ICA|✔️|0.95 dry|9.99 dry|100g|
-|Cocoa Powder|[ICA](https://www.ica.se/handla/sok/kakao/produkt/kakao-ekologisk-125g--ica-i-love-eco-id_p_7318690007869/?s=ica-kvantum-frolunda-id_03553)|✔️|1.45|15.16|100g|
-|Coconut Oil|ICA|✔️|1.53|15.99|100g|
-|Coconut Milk|ICA|✔️|0.31|3.24|100g|
-|Potato Starch|[ICA](https://www.ica.se/handla/sok/potatis%20st%C3%A4rkelse/produkt/potatismjol-500g-lyckeby-starkelse-id_p_7310160000158/?s=ica-kvantum-frolunda-id_03553)|❌|0.23|2.39|100g|Probably wrong price because online price
-|Canned Tomatoes|ICA|✔️|0.24|2.55|100g|100g|
-|Bicarbonate|[ICA](https://www.ica.se/handla/sok/potatis%20st%C3%A4rkelse/produkt/bikarbonat-200g-dr-oetker-id_p_5701073061039/?s=ica-kvantum-frolunda-id_03553)|❌|0.81|8.48|100g|
-|Miso Paste|ICA|✔️|2.36|24.65|100g|
-|White Cabbage|ICA|✔️|0.29|3|100g|
-|Champignons|ICA|✔️|1.57|16.48|100g|
-|Shiitake Mushrooms|ICA|✔️|2.8|29.3|100g|
-|Oyster Mushrooms|ICA|✔️|2.86|29.97|100g|
+|---
+| Name | Bought At/Link | Organic | EUR | SEK | Unit
+|:-|:-:|:-:|-:|-:|-:|
+|Ceylon Cinnamon|ICA/[HappyGreen](https://www.happygreen.se/mother-earth-kanel-ceylon-mald-125-g)|✔️|5.73|60|100g
+|Ceylon Ginger|ICA/[HappyGreen](https://www.happygreen.se/mother-earth-ingefara-ceylon-mald-250-g)|✔️|3.4|35.6|100g
+|Turmeric|ICA/[HappyGreen](https://www.happygreen.se/mother-earth-gurkmeja-indien-1-kg-ekologisk)|✔️|3.4|35.6|100g
+|Chili|Don't recall/[pikantum](https://www.pikantum.de/Bio-Chilis-gemahlen-extrem-scharf-250g)|✔️|5.97|62.48|100g
+|Coriander|Don't recall/[pikantum](https://www.pikantum.de/Koriander-gemahlen-250g)|✔️|1.53|16.01|100g
+|Smoked Paprika|[amazon](https://www.amazon.de/gp/product/B00S9U843I/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)|❌|2.59|27.1|100g
+|Basil|[amazon](https://www.amazon.de/gp/product/B073WY64G8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)|✔️|2.7|28.25|100g
+|Rosemary|[amazon](https://www.amazon.de/gp/product/B073WWT8WG/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)|✔️|2.7|28.25|100g
+|Nutritional Yeast|ICA|❌|2.77|28.98|100g
+|Lemon|[ICA](https://www.ica.se/handla/sok/citron/produkt/citron-ekologisk-ca-100g-klass-1-ica-i-love-eco-id_p_2098318200000724/?s=ica-kvantum-frolunda-id_03553)|✔️|1.05|10.95|1 fruit
+|Sesame Seeds|ICA|✔️|0.57|5.99|100g
+|Smoked Tofu|ICA|✔️|1.18|12.39|100g
+|Potatoes|ICA|✔️|0.19|1.95|100g
+|Sunflower Seeds|ICA|✔️|0.57|5.99|100g
+|Banana|[ICA](https://www.ica.se/handla/sok/banan/produkt/banan-ca-765g-ica-i-love-eco-id_p_2098401100000214/?s=ica-kvantum-frolunda-id_03553)|✔️|0.25|2.59|100g
+|Orange|[ICA](https://www.ica.se/handla/sok/banan/produkt/apelsin-ica-ca-310g-id_p_2092317400000724/?s=ica-kvantum-frolunda-id_03553)|✔️|0.41|4.3|100g
+|Frozen Wild Blueberries|[ICA](https://www.ica.se/handla/sok/fryst%20bl/produkt/blabar-fryst-250g-krav-ica-i-love-eco-id_p_7318690125037/?s=ica-kvantum-frolunda-id_03553)|✔️|1.03|10.78|100g
+|Frozen Broccoli|[ICA](https://www.ica.se/handla/sok/broccoli/produkt/broccoli-ekologisk-800-g-ica-id_p_7318690131007/?s=ica-kvantum-frolunda-id_03553)|✔️|0.32|3.31|100g
+|Chioggia beet|ICA|✔️|0.34|3.59|100g
+|Carrots|[ICA](https://www.ica.se/handla/sok/mor/produkt/morotter-500g-krav--ica-i-love-eco-id_p_7318690131960/?s=ica-kvantum-frolunda-id_03553)|✔️|0.36|3.79|100g
+|Frozen Spinach|ICA|✔️|0.47|4.88|100g
+|Peanut Butter|[ICA](https://www.ica.se/handla/sok/jordn/produkt/peanut-butter-creamy-340g-krav-green-choice-id_p_5701038033224/?s=ica-kvantum-frolunda-id_03553)|✔️|0.93|9.69|100g
+|Flax Seeds|[ICA](https://www.ica.se/handla/sok/jordn/produkt/linfron-400g-krav-salta-kvarn-id_p_7317731522002/?s=ica-kvantum-frolunda-id_03553)|✔️|0.5|5.24|100g
+|Coconut Flakes|[ICA](https://www.ica.se/handla/sok/riven%20kokos/produkt/kokos-riven-ekologisk-200g-ica-i-love-eco-id_p_7318690129820/?s=ica-kvantum-frolunda-id_03553)|✔️|0.67|6.98|100g
+|Mustard|[ICA](https://www.ica.se/handla/sok/kung%20buljong/produkt/senap-sotstark-ekologisk-500g-johnnys-id_p_7392031000108/?s=ica-kvantum-frolunda-id_03553)|✔️|0.55|5.79|100g
+|Ketchup|[ICA](https://www.ica.se/handla/sok/kung%20buljong/produkt/ketchup-osotad-970g-felix-id_p_7310240060058/?s=ica-kvantum-frolunda-id_03553)|❌|0.34|3.6|100g
+|Vegetable Bullion|[ICA](https://www.ica.se/handla/sok/kung%20buljong/produkt/gronsaksbuljong-pulver-ekologisk-130g-kung-markatta-id_p_7391835916332/?s=ica-kvantum-frolunda-id_03553)|✔️|1.83|19.19|100g
+|Whole Grain Rice Pasta|[ICA](https://www.ica.se/handla/sok/glutenfri%20pasta/produkt/linguini-pasta-300g-krav-semper-id_p_7310100605412/?s=ica-kvantum-frolunda-id_03553)|✔️|0.73|7.65|100g
+|Raisins|[ICA](https://www.ica.se/handla/sok/russin/produkt/soltorkade-russin-500g-krav-salta-kvarn-id_p_7317731501205/?s=ica-kvantum-frolunda-id_03553)|✔️|0.61|6.39|100g
+|Frozen Mango|[ICA](https://www.ica.se/handla/sok/mango/produkt/mango-fryst-ekologisk-250g-ica-i-love-eco-id_p_7318690141754/?s=ica-kvantum-frolunda-id_03553)|✔️|0.76|7.98|100g
+|Red Thai Rice|ICA|✔️|0.8|8.39|100g
+|Tahini|ICA/[Urtekram](https://www.urtekram.se/mat/notsmor-och-palagg/tahini/)|✔️|0.93|9.7|100g
+|Tamari|ICA|✔️|1.7|17.8|100g
+|Rice Cakes|[ICA](https://www.ica.se/handla/sok/riskakor/produkt/riskakor-lattsaltade-ekologisk-130g-friggs-id_p_7310186055606/?s=ica-kvantum-frolunda-id_03553)|✔️|0.8|8.42|100g
+|Corn Cakes|[ICA](https://www.ica.se/handla/sok/riskakor/produkt/tunna-riskakor-majs-ekologisk-130g-friggs-id_p_7350028544738/?s=ica-kvantum-frolunda-id_03553)|✔️|1.39|14.58|100g
+|Red Onion|ICA|✔️|0.44|4.59|100g
+|Garlic|[ICA](https://www.ica.se/handla/sok/vitl/produkt/vitlok-ekologisk-200g-klass-1-ica-i-love-eco-id_p_7318693307652/?s=ica-kvantum-frolunda-id_03553)|✔️|1.29|13.48|100g
+|Walnuts|ICA|✔️|2.7|28.29|100g
+|Cashews|ICA|✔️|3.45|36.13|100g
+|Beetroot|ICA|✔️|0.51|5.39|100g
+|Corn Masa|ICA/[andale](https://www.andale.se/en/product/gluten-and-gmo-free-blue-cornflour-for-tortillas-naturelo-1kg)|❌|0.64|6.7|100g
+|Enervit Isotonic Drink|[apotea]()|❌|3.07|32.14|100g
+|Magnum Almond|[Willy:s](https://www.willys.se/produkt/Almond-Vegan-Glass-101282646_ST)|❌|0.95|9.98|1
+|Oats|ICA|✔️|0.23|2.39|100g
+|Pukka Peppermint&Licorice Tea|[ICA](https://www.ica.se/handla/sok/pukka/produkt/peppermint---licorice-te-ekologisk-20-p-pukka-id_p_5060229011107/?s=ica-kvantum-frolunda-id_03553)|✔️|0.14|1.5|1 bag
+|Peppermint Tea|[Willy:s](https://www.willys.se/produkt/ortte-Pepparmynta-101132141_ST)|❌|0.1|1|1 bag
+|Lime|ICA|✔️|0.76|7.95|1 fruit
+|Fresh Coriander|ICA|✔️|1.43|15|1 plant
+|Buckwheat|[ICA](https://www.ica.se/handla/sok/bovete/produkt/bovete-500g-krav-salta-kvarn-id_p_7317731520008/?s=ica-kvantum-frolunda-id_03553)|✔️|0.63|6.59|100g
+|Chipotle Chilies in Adobo Sauce|[Willy:s](https://www.willys.se/produkt/Chipotle-i-Adobosas-101210363_ST)|❌|1.32|13.76|100g
+|Pumpkin Seeds|ICA/[HappyGreen](https://www.happygreen.se/kung-markatta-pumpafron-500g-ekologisk)|✔️|1.82|19|100g
+|Leek|ICA|✔️|0.57|6|100g
+|Sweet Lupines|[Spiegelhauer](https://www.baeckerei-spiegelhauer.de/Bio-Lupinensamen-1-kg-von-der-weissen-Suesslupine)|✔️|0.98 dry|10.24 dry|100g
+|Green Lentils|ICA|✔️|0.9 dry|9.39 dry|100g
+|Red Lentils|[ICA](https://www.ica.se/handla/sok/linser/produkt/roda-linser-500g-krav-salta-kvarn-id_p_7317731511006/?s=ica-kvantum-frolunda-id_03553)|✔️|0.57 dry|5.99 dry|100g
+|Chickpeas|ICA|✔️|0.67 dry|6.99 dry|100g
+|White Beans|ICA|✔️|0.95 dry|9.99 dry|100g
+|Cocoa Powder|[ICA](https://www.ica.se/handla/sok/kakao/produkt/kakao-ekologisk-125g--ica-i-love-eco-id_p_7318690007869/?s=ica-kvantum-frolunda-id_03553)|✔️|1.45|15.16|100g
+|Coconut Oil|ICA|✔️|1.53|15.99|100g
+|Coconut Milk|ICA|✔️|0.31|3.24|100g
+|Potato Starch|[ICA](https://www.ica.se/handla/sok/potatis%20st%C3%A4rkelse/produkt/potatismjol-500g-lyckeby-starkelse-id_p_7310160000158/?s=ica-kvantum-frolunda-id_03553)|❌|0.23|2.39|100g
+|Canned Tomatoes|ICA|✔️|0.24|2.55|100g
+|Bicarbonate|[ICA](https://www.ica.se/handla/sok/potatis%20st%C3%A4rkelse/produkt/bikarbonat-200g-dr-oetker-id_p_5701073061039/?s=ica-kvantum-frolunda-id_03553)|❌|0.81|8.48|100g
+|Miso Paste|ICA|✔️|2.36|24.65|100g
+|White Cabbage|ICA|✔️|0.29|3|100g
+|Champignons|ICA|✔️|1.57|16.48|100g
+|Shiitake Mushrooms|ICA|✔️|2.8|29.3|100g
+|Oyster Mushrooms|ICA|✔️|2.86|29.97|100g
 
