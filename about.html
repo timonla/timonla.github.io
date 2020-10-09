@@ -5,7 +5,58 @@ description: "Some words about me, by me"
 url: "/about/"
 ---
 
-<div>
+<div class="about-container">
+	<h1>About me</h1>
+
 	{% capture about %}{% include about.md %}{% endcapture %}
 	{{ about | markdownify }}
+
+
+	<h3>Short CV</h3>
+
+	<p class="cv-bullet">
+		<i class="far fa-building cv-bullet-icon"></i>
+		Since spring 2020 I am working as a full stack developer for
+		<a href="https://leanmarine.com/")>Lean Marine</a>,
+		where we aim to save the planet one ship at a time.
+		Previously I worked as an application developer for the Volvo Group.
+	</p>
+
+	<p class="cv-bullet">
+		<i class="fas fa-graduation-cap cv-bullet-icon"></i>
+		I got my Msc. in Computer Science at the Chalmers University of
+		Technology in Gothenburg, with a thesis about
+		<a href="https://odr.chalmers.se/bitstream/20.500.12380/256247/1/256247.pdf">invariant inference from tests in Boogie</a>.
+		Before that I got my Bsc. in Computer Science at Humboldt University
+		of Berlin with a thesis about
+		<a href="/assets/pdf/bachelor-thesis.pdf">the formal verification of heap algorithms using Frama-C</a>.
+	</p>
+
+	<p class="cv-bullet">
+		<i class="fas fa-laptop-code cv-bullet-icon"></i>
+		In April 2019 my brother and I launched a
+		<a href="https://github.com/flashkillapp/flashkill">browser extension</a>
+		for a German Counter Strike league platform.
+		We provide seamlessly integrated statistics that save our
+		<b>3000+</b> users hours upon hours of their precious time.
+	</p>
+
+	<p class="cv-bullet">
+		<i class="fas fa-map-marker-alt cv-bullet-icon"></i>
+		Since fall of 2016 I live in Gothenburg Sweden, love being close
+		to nature and the opportunities to explore the latter with my bike.
+	</p>
+
+	<p class="cv-bullet">
+		<i class="fas fa-tree cv-bullet-icon"></i>
+		Among my other interests are minimalism, bio-hacking, 
+		self improvement, veganism, writing music, which I occasionally
+		upload to my
+		<a href="https://www.youtube.com/channel/UCp5zwA-JgwGzmgHOeeP1h4g?view_as=subscriber">YouTube channel</a> and cooking. 
+	</p>
+
+	<hr>
+
+	<a href="http://bit.ly/36uWYuD">Full️ resume</a>
+
 </div>
