@@ -149,3 +149,8 @@ footer {
 .thumbnail-link:hover .post-thumbnail {
     opacity: 1;
 }
+
+.blog-post-img-small {
+    display: block;
+    width: 500px;
+}

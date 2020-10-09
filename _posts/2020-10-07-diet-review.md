@@ -204,7 +204,7 @@ Price: **0.15 EUR/1.55 SEK** per day.
 
 #### 7:30 Coconut Oil
 
-<img alt="Lemon Water" src="../assets/img/blog/diet-review/monday-lemon.jpg" width="500">
+![Lemon Water](/assets/img/blog/diet-review/monday-lemon.jpg){:class="blog-post-img-small"}
 
 I got up at 7:30.
 The first thing, when I get out of bed, is always to clean my tongue and pull some coconut
@@ -220,7 +220,7 @@ This is also the time I take my supplements, so I don't forget them.
 
 #### 9:40 Breakfast
 
-<img alt="Breakfast" src="../assets/img/blog/diet-review/monday-breakfast.jpg" width="500">
+![Breakfast](/assets/img/blog/diet-review/monday-breakfast.jpg){:class="blog-post-img-small"}
 
 My go-to breakfast at the moment is oat meal.
 I have experimented with numerous other carbohydrate sources over the years,
@@ -252,14 +252,14 @@ and [these glasses](https://www.bormiolirocco.com/en/product/700/jar-50-3-4-oz-q
 
 #### 13:28 Snack
 
-<img alt="Snack while preparing lunch" src="../assets/img/blog/diet-review/monday-snack.jpg" width="500">
+![Snack while preparing lunch](/assets/img/blog/diet-review/monday-snack.jpg){:class="blog-post-img-small"}
 
 I started preparing lunch and needed to eat something in between.
 I like to snack on dried fruits and nuts.
 
 #### 13:50 Lunch
 
-<img alt="Monday lunch" src="../assets/img/blog/diet-review/monday-lunch.jpg" width="500">
+![Monday lunch](/assets/img/blog/diet-review/monday-lunch.jpg){:class="blog-post-img-small"}
 
 Even while working from home I usually cook one meal that I can have for lunch three days in a row to save some time in the kitchen.
 This week this meal is a rice dish (eating lots of rice is a recurring theme in my diet :)) with some vegetables in a coconut milk sauce.
@@ -283,7 +283,7 @@ Everything that does not fit into the lunch boxes has to be eaten on the same da
 
 #### 20:17 Soaking some beans
 
-<img alt="Corn cakes" src="../assets/img/blog/diet-review/monday-evening-snack.jpg" width="500">
+![Corn cakes](/assets/img/blog/diet-review/monday-evening-snack.jpg){:class="blog-post-img-small"}
 
 Snacking on some corn cakes, while doing the dishes and soaking some legumes and sunflower seeds.
 Rice and corn cakes fulfill two purposes in my kitchen.
@@ -310,7 +310,7 @@ Soaking times depend on what you want to sprout but 12 hours is long enough for 
 In the galas there are 41g of green lentils, 40g of sweet lupines, 21g of red lentils
 and 20g of sunflower seeds (all dry weights).
 
-<img alt="Soaking legumes & sunflower seeds" src="../assets/img/blog/diet-review/monday-evening-beans.jpg" width="500">
+![Soaking legumes & sunflower seeds](/assets/img/blog/diet-review/monday-evening-beans.jpg){:class="blog-post-img-small"}
 
 #### 22:23 Going to bed
 
@@ -382,7 +382,7 @@ I go t up at 7:13
 
 #### 7:40 Lemon Juice
 
-<img alt="Lemon water" src="../assets/img/blog/diet-review/tuesday-lemon.jpg" width="500">
+![Lemon water](/assets/img/blog/diet-review/tuesday-lemon.jpg){:class="blog-post-img-small"}
 
 Lemon water same as on Monday :)
 
@@ -390,14 +390,14 @@ I also rinsed the legumes I soaked on Monday and Sunday evening.
 
 #### 10:27 Breakfast
 
-<img alt="Breakfast" src="../assets/img/blog/diet-review/tuesday-breakfast.jpg" width="500">
+![Breakfast](/assets/img/blog/diet-review/tuesday-breakfast.jpg){:class="blog-post-img-small"}
 
 Same as yesterday, slightly less oats because slightly less hungry.
 (And I put the coconut flakes on top because I find it looks more appealing in the photo :P)
 
 #### 12:37 Lunch
 
-<img alt="Lunch" src="../assets/img/blog/diet-review/tuesday-lunch.jpg" width="500">
+![Lunch](/assets/img/blog/diet-review/tuesday-lunch.jpg){:class="blog-post-img-small"}
 
 I got my lunch out of the fridge and sprinkled some nutritional yeast and sesame seeds on top.
 Most times I don't bother to get it out of the lunch box and heat it up.
@@ -405,11 +405,11 @@ I just wait a bit and start eating.
 
 #### 15:30 Isotonic drink
 
-<img alt="Isotonic drink" src="../assets/img/blog/diet-review/tuesday-iso.jpg" width="500">
+![Isotonic drink](/assets/img/blog/diet-review/tuesday-iso.jpg){:class="blog-post-img-small"}
 
 #### 17:18 Dinner preparations
 
-<img alt="Potato Soup" src="../assets/img/blog/diet-review/tuesday-dinner-total.jpg" width="500">
+![Potato Soup](/assets/img/blog/diet-review/tuesday-dinner-total.jpg){:class="blog-post-img-small"}
 
 Cut everything, put it into the pot and boil until the potatoes are good but not too soft.
 The beet root will be still a bit crunchy.
@@ -423,13 +423,13 @@ Garnish with pumpkin seeds + nutritional yeast.
 
 I got impatient and ate a few corn cakes :)
 
-<img alt="Corn Cakes" src="../assets/img/blog/diet-review/tuesday-snack.jpg" width="500">
+![Corn Cakes](/assets/img/blog/diet-review/tuesday-snack.jpg){:class="blog-post-img-small"}
 
-<img alt="Frozen Beans" src="../assets/img/blog/diet-review/tuesday-frozen-beans.jpg" width="500">
+![Frozen Beans](/assets/img/blog/diet-review/tuesday-frozen-beans.jpg){:class="blog-post-img-small"}
 
 #### 18:10, 18:50, 19:53 & 20:27 Dinner
 
-<img alt="Dinner one portion" src="../assets/img/blog/diet-review/tuesday-dinner-single.jpg" width="500">
+![Dinner one portion](/assets/img/blog/diet-review/tuesday-dinner-single.jpg){:class="blog-post-img-small"}
 
 I don't have this big a dish so I'll split it up in 4 portions like this, that I will eat during the evening.
 
@@ -501,26 +501,26 @@ Three portions would have been ideal.
 
 #### 7:55 Lemon water
 
-<img alt="Lemon water" src="../assets/img/blog/diet-review/wednesday-lemon.jpg" width="500">
+![Lemon water](/assets/img/blog/diet-review/wednesday-lemon.jpg){:class="blog-post-img-small"}
 
 Today with peppermint tea.
 Also rinsed the sprouts.
 
 #### 9:50 Breakfast
 
-<img alt="Oat meal" src="../assets/img/blog/diet-review/wednesday-breakfast.jpg" width="500">
+![Oat meal](/assets/img/blog/diet-review/wednesday-breakfast.jpg){:class="blog-post-img-small"}
 
 Not really different from the other days, except that I added some frozen mango instead of a part of the berries and banana.
 
 #### 13:58 Lunch
 
-<img alt="Lunch" src="../assets/img/blog/diet-review/wednesday-lunch.jpg" width="500">
+![Lunch](/assets/img/blog/diet-review/wednesday-lunch.jpg){:class="blog-post-img-small"}
 
 #### 15:55 - 17:00 Took a nap
 
 #### 17:55 Smoothie
 
-<img alt="Smoothie" src="../assets/img/blog/diet-review/wednesday-smoothie.jpg" width="500">
+![Smoothie](/assets/img/blog/diet-review/wednesday-smoothie.jpg){:class="blog-post-img-small"}
 
 In recent years I have cut down on the amount of bananas I eat.
 These days I mainly eat them in my oat meal, on bike rides or in smoothies.
@@ -534,22 +534,22 @@ Well, making a smoothie is not exactly science.
 Put all the stuff in the blender and blend :)
 With so much frozen stuff, it's important to put the unfrozen stuff at the bottom and choose the exact right water temperature.
 
-<img alt="Banana Stash" src="../assets/img/blog/diet-review/bananas-old-days.jpg" width="500">
+![Banana Stash](/assets/img/blog/diet-review/bananas-old-days.jpg){:class="blog-post-img-small"}
 
-<img alt="Frozen banana" src="../assets/img/blog/diet-review/wednesday-frozen-banana.jpg" width="500">
+![Frozen banana](/assets/img/blog/diet-review/wednesday-frozen-banana.jpg){:class="blog-post-img-small"}
 
 #### 21:38 Sprouts
 
-<img alt="Sprouts" src="../assets/img/blog/diet-review/wednesday-sprouts.jpg" width="500">
+![Sprouts](/assets/img/blog/diet-review/wednesday-sprouts.jpg){:class="blog-post-img-small"}
 
 Also soaked some new sprouts.
 50g of green lentils and 50g of sweet lupines (all dry weights).
 
-<img alt="" src="../assets/img/blog/diet-review/wednesday-soaking.jpg" width="500">
+![](/assets/img/blog/diet-review/wednesday-soaking.jpg){:class="blog-post-img-small"}
 
 #### 21:38 Corn Cakes
 
-<img alt="Corn Cakes" src="../assets/img/blog/diet-review/wednesday-snack.jpg" width="500">
+![Corn Cakes](/assets/img/blog/diet-review/wednesday-snack.jpg){:class="blog-post-img-small"}
 
 #### 23:48 Going to bed
 
@@ -610,27 +610,27 @@ Also soaked some new sprouts.
 
 #### 8:05 Lemon water
 
-<img alt="Lemon water" src="../assets/img/blog/diet-review/thursday-lemon.jpg" width="500">
+![Lemon water](/assets/img/blog/diet-review/thursday-lemon.jpg){:class="blog-post-img-small"}
 
 Also rinsing the sprouts.
 
 #### 10:34 Breakfast
 
-<img alt="Breakfast" src="../assets/img/blog/diet-review/thursday-breakfast.jpg" width="500">
+![Breakfast](/assets/img/blog/diet-review/thursday-breakfast.jpg){:class="blog-post-img-small"}
 
 #### 15:33 Lunch
 
-<img alt="Lunch" src="../assets/img/blog/diet-review/thursday-lunch.jpg" width="500">
+![Lunch](/assets/img/blog/diet-review/thursday-lunch.jpg){:class="blog-post-img-small"}
 
 Spices: nutritional yeast, chili, coriander, ginger
 
-<img alt="Oven pre-cooked" src="../assets/img/blog/diet-review/thursday-lunch-pre.jpg" width="500">
+![Oven pre-cooked](/assets/img/blog/diet-review/thursday-lunch-pre.jpg){:class="blog-post-img-small"}
 
-<img alt="Oven post cooked" src="../assets/img/blog/diet-review/thursday-lunch-post.jpg" width="500">
+![Oven post cooked](/assets/img/blog/diet-review/thursday-lunch-post.jpg){:class="blog-post-img-small"}
 
 #### 20:55 Sprouts
 
-<img alt="Sprouts" src="../assets/img/blog/diet-review/thursday-sprouts.jpg" width="500">
+![Sprouts](/assets/img/blog/diet-review/thursday-sprouts.jpg){:class="blog-post-img-small"}
 
 I just rinsed the sprouts, put some ketchup, nutritional yeast and ground cashew nuts on top.
 While ketchup is not exactly a whole food, [the one that I use](https://www.felix.se/products/ketchup-osotad/)
@@ -687,23 +687,23 @@ from Felix seems to not include too much crap.
 
 #### 8:10 Lemon water
 
-<img alt="Lemon water" src="../assets/img/blog/diet-review/friday-lemon.jpg" width="500">
+![Lemon water](/assets/img/blog/diet-review/friday-lemon.jpg){:class="blog-post-img-small"}
 
 Also rinsing
 
 #### 10:08 Breakfast
 
-<img alt="Breakfast" src="../assets/img/blog/diet-review/friday-breakfast.jpg" width="500">
+![Breakfast](/assets/img/blog/diet-review/friday-breakfast.jpg){:class="blog-post-img-small"}
 
 #### 13:28 Lunch 1/2
 
-<img alt="Lunch" src="../assets/img/blog/diet-review/friday-lunch.jpg" width="500">
+![Lunch](/assets/img/blog/diet-review/friday-lunch.jpg){:class="blog-post-img-small"}
 
 #### 18:32 Lunch 2/2
 
 #### 20:57 Dinner
 
-<img alt="Dinner" src="../assets/img/blog/diet-review/friday-dinner.jpg" width="500">
+![Dinner](/assets/img/blog/diet-review/friday-dinner.jpg){:class="blog-post-img-small"}
 
 Also cinnamon
 
@@ -778,13 +778,13 @@ Also rinsing and new sprouts
 
 #### 10:43 Lemon water & breakfast
 
-<img alt="Breakfast" src="../assets/img/blog/diet-review/saturday-breakfast.jpg" width="500">
+![Breakfast](/assets/img/blog/diet-review/saturday-breakfast.jpg){:class="blog-post-img-small"}
 
 Also rinsing the sprouts.
 
 #### 13:49 Smoothie
 
-<img alt="Smoothie" src="../assets/img/blog/diet-review/saturday-smoothie.jpg" width="500">
+![Smoothie](/assets/img/blog/diet-review/saturday-smoothie.jpg){:class="blog-post-img-small"}
 
 #### 16:15 Dinner preparations
 
@@ -794,17 +794,17 @@ This time we decided to try out swapping out the jack fruit for mushrooms.
 The mushrooms have a better taste but the texture of the jack fruit is better.
 Also it was significantly more expensive to use mushrooms as they shrink so much during cooking.
 
-<img alt="Mushroom taco filling" src="../assets/img/blog/diet-review/saturday-mushrooms-pre.jpg" width="500">
+![Mushroom taco filling](/assets/img/blog/diet-review/saturday-mushrooms-pre.jpg){:class="blog-post-img-small"}
 
-<img alt="Mushroom taco filling" src="../assets/img/blog/diet-review/saturday-mushrooms-post.jpg" width="500">
+![Mushroom taco filling](/assets/img/blog/diet-review/saturday-mushrooms-post.jpg){:class="blog-post-img-small"}
 
-<img alt="Mango Salsa" src="../assets/img/blog/diet-review/saturday-salsa.jpg" width="500">
+![Mango Salsa](/assets/img/blog/diet-review/saturday-salsa.jpg){:class="blog-post-img-small"}
 
 Chop all the ingredients and mix them with a pinch of salt.
 It can be difficult to get good fresh mango, especially on short notice.
 Frozen mango does the job just fine.
 
-<img alt="Cashew Lime Cream" src="../assets/img/blog/diet-review/saturday-cream.jpg" width="500">
+![Cashew Lime Cream](/assets/img/blog/diet-review/saturday-cream.jpg){:class="blog-post-img-small"}
 
 Soak the cashews in water for several hours.
 If you are short on time, you can use boiling water and the cashews should be about soft enough
@@ -813,7 +813,7 @@ Then simply follow the recipe.
 My friend did not have apple cider vinegar, it's also fine without.
 I find that 60g of cashews will be fine for 12 tacos (1 can of jack fruit).
 
-<img alt="Tortillas" src="../assets/img/blog/diet-review/saturday-tortillas.jpg" width="500">
+![Tortillas](/assets/img/blog/diet-review/saturday-tortillas.jpg){:class="blog-post-img-small"}
 
 If you are eating tacos and are not preparing your own tortillas, you are doing it wrong.
 Just get the corn masa (has to be the [nixtamalizado stuff](https://www.naturelo.com.mx/ing/maizazul.php))
@@ -828,13 +828,13 @@ Press them quite thin and put them roast them in a preheated pan at medium heat.
 
 #### 18:38 Dinner
 
-<img alt="Tacos" src="../assets/img/blog/diet-review/saturday-taco.jpg" width="500">
+![Tacos](/assets/img/blog/diet-review/saturday-taco.jpg){:class="blog-post-img-small"}
 
-<img alt="Tacos" src="../assets/img/blog/diet-review/saturday-tacos.jpg" width="500">
+![Tacos](/assets/img/blog/diet-review/saturday-tacos.jpg){:class="blog-post-img-small"}
 
 #### 19:47 Ice cream
 
-<img alt="Magnum almond" src="../assets/img/blog/diet-review/saturday-ice-cream.jpg" width="500">
+![Magnum almond](/assets/img/blog/diet-review/saturday-ice-cream.jpg){:class="blog-post-img-small"}
 
 This is my go-to vegan ice cream, that is widely available.
 It has been quite some years since I have had the non-vegan version but these days
@@ -909,17 +909,17 @@ Also rinsing the sprouts.
 
 #### 12:10 Breakfast
 
-<img alt="Breakfast" src="../assets/img/blog/diet-review/sunday-breakfast.jpg" width="500">
+![Breakfast](/assets/img/blog/diet-review/sunday-breakfast.jpg){:class="blog-post-img-small"}
 
 Also washed and soaked some buckwheat for dinner.
 
 #### 14:25 Cycling snack
 
-<img alt="Isotonic drink and banana" src="../assets/img/blog/diet-review/sunday-iso.jpg" width="500">
+![Isotonic drink and banana](/assets/img/blog/diet-review/sunday-iso.jpg){:class="blog-post-img-small"}
 
 #### 16:28 Lunch & Dinner prep
 
-<img alt="Fries in the oven" src="../assets/img/blog/diet-review/sunday-fries-pre.jpg" width="500">
+![Fries in the oven](/assets/img/blog/diet-review/sunday-fries-pre.jpg){:class="blog-post-img-small"}
 
 A common misconception is that you need oil for crunchy fries.
 If you have parchment paper or a silicone sheet however, you can simply throw potato fries
@@ -931,7 +931,7 @@ Those are a real game changer for fries.
 Make sure that the fries are evenly spaced and don't overlap too much.
 Then you just pop them in the oven at 180C for 50 minutes and turn them around half way through.
 
-<img alt="Buckwheat mixture" src="../assets/img/blog/diet-review/sunday-buckwheat-blended.jpg" width="500">
+![Buckwheat mixture](/assets/img/blog/diet-review/sunday-buckwheat-blended.jpg){:class="blog-post-img-small"}
 
 Now this recipe blew my mind, when I first found out about it and I ate buckwheat tortillas
 every day for several weeks :)
@@ -949,23 +949,23 @@ Make sure that you rinse the buckwheat properly before you mix it with fresh wat
 You can start with less water and then add it until you get the desired consistency.
 For 204g of buckwheat my entire mixture today turned out to be 625g.
 
-<img alt="Buckwheat pan" src="../assets/img/blog/diet-review/sunday-buckwheat-in-pan.jpg" width="500">
+![Buckwheat pan](/assets/img/blog/diet-review/sunday-buckwheat-in-pan.jpg){:class="blog-post-img-small"}
 
-<img alt="Buckwheat turning" src="../assets/img/blog/diet-review/sunday-buckwheat-turn.jpg" width="500">
+![Buckwheat turning](/assets/img/blog/diet-review/sunday-buckwheat-turn.jpg){:class="blog-post-img-small"}
 
 #### 18:00 Lunch
 
-<img alt="Fries" src="../assets/img/blog/diet-review/sunday-fries-post.jpg" width="500">
+![Fries](/assets/img/blog/diet-review/sunday-fries-post.jpg){:class="blog-post-img-small"}
 
 #### 19:14 Dinner
 
-<img alt="Buckwheat wraps" src="../assets/img/blog/diet-review/sunday-dinner.jpg" width="500">
+![Buckwheat wraps](/assets/img/blog/diet-review/sunday-dinner.jpg){:class="blog-post-img-small"}
 
-<img alt="buckwheat wrap" src="../assets/img/blog/diet-review/sunday-wrap.jpg" width="500">
+![buckwheat wrap](/assets/img/blog/diet-review/sunday-wrap.jpg){:class="blog-post-img-small"}
 
 #### 22:48 Orange snack
 
-<img alt="Orange" src="../assets/img/blog/diet-review/sunday-orange.jpg" width="500">
+![Orange](/assets/img/blog/diet-review/sunday-orange.jpg){:class="blog-post-img-small"}
 
 Ate an orange because I was craving something cold and fresh after lunch and dinner.
 I was too lazy but should have juiced it instead.
@@ -984,7 +984,7 @@ However, I left it on the default settings for micro nutrients.
 
 Here are the result for the week:
 
-<img alt="Cronometer results" src="../assets/img/blog/diet-review/cronometer-week-result.jpg">
+![Cronometer results](/assets/img/blog/diet-review/cronometer-week-result.jpg">
 
 ### Macro Nutrients
 
@@ -998,7 +998,7 @@ Looking at what contributed to the fat over the week, the coconut flakes in the 
 are quite up there considering how little they do for taste.
 I have tried the oat meal without the coconut flakes since looking at the numbers and don't miss it.
 
-<img alt="Cronometer Fat Results" src="../assets/img/blog/diet-review/cronometer-week-fat.png">
+![Cronometer Fat Results](/assets/img/blog/diet-review/cronometer-week-fat.png">
 
 ### Omega-3 to Omega-6 Ratio
 
@@ -1029,7 +1029,7 @@ and also price, almond butter is significantly more expensive than peanut butter
 
 This is how the nutrient result would look with almond butter in the breakfast:
 
-<img alt="Cronometer results" src="../assets/img/blog/diet-review/cronometer-week-result-with-almond.png">
+![Cronometer results](/assets/img/blog/diet-review/cronometer-week-result-with-almond.png">
 
 ## Cost
 
