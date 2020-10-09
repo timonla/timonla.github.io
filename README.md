@@ -1,8 +1,12 @@
 # timon.la
 
 This is my approach to a simple personal website to primarily show blog entries,
-hosted on github.
-The setup is inspired by [Hux Blog](https://github.com/Huxpro/huxpro.github.io) but much more basic.
+hosted by GitHub.
+I started from scratch, reusing some structural parts of my previous website.
+Have not used jekyll before and found the two examples from
+[Huxpro](https://github.com/Huxpro/huxpro.github.io) and
+[daattali](https://github.com/daattali/daattali.github.io) very helpful
+while learning it.
 
 ## Development
 
