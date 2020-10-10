@@ -325,7 +325,7 @@ I like to snack on dried fruits and nuts.
 ![Monday lunch](/assets/img/blog/diet-review/monday-lunch.jpg){:class="blog-post-img-small"}
 
 Even while working from home I usually cook one meal that I can have for lunch three days in a row to save some time in the kitchen.
-This week this meal is a rice dish (eating lots of rice is a recurring theme in my diet 🌝), with some vegetables in a coconut milk sauce.
+This week this meal is a rice dish (eating lots of rice is a recurring theme in my diet 🙂), with some vegetables in a coconut milk sauce.
 In the disclaimer I mentioned that I am a basic cook and this dish is the best example for it.
 Start by getting the rice to a boil and in the meantime throw all the other ingredients
 (except for the starch) into another pot, and cook until the lentils are soft.
@@ -452,7 +452,7 @@ and 20g of sunflower seeds (all dry weights).
 
 ![Lemon water](/assets/img/blog/diet-review/tuesday-lemon.jpg){:class="blog-post-img-small"}
 
-Lemon water same as on Monday 🌝.
+Lemon water same as on Monday 🙂.
 I also rinsed the legumes I soaked on Monday and Sunday evening.
 
 #### 10:27 Breakfast
@@ -499,7 +499,7 @@ Works great with for example pumpkin seeds, sesame seeds, sunflower seeds and wa
 
 Here I roasted some pumpkin seeds and sprinkled them on top with some nutritional yeast.
 
-I got impatient and ate a few corn cakes. 🌝
+I got impatient and ate a few corn cakes. 🙂
 
 ![Corn Cakes](/assets/img/blog/diet-review/tuesday-snack.jpg){:class="blog-post-img-small"}
 
@@ -609,7 +609,7 @@ Same as the day before, only that I put cashews on top instead of sesame seeds.
 ![Smoothie](/assets/img/blog/diet-review/wednesday-smoothie.jpg){:class="blog-post-img-small"}
 
 Well, making a smoothie is not exactly science.
-Put all the stuff in the blender and blend. 🌝
+Put all the stuff in the blender and blend. 🙂
 With so much frozen stuff, it's important to put the unfrozen stuff at the bottom and choose the right water temperature.
 
 In recent years I have cut down on the amount of bananas I eat.
@@ -909,7 +909,7 @@ Also washed the sprouts.
 
 ![Smoothie](/assets/img/blog/diet-review/saturday-smoothie.jpg){:class="blog-post-img-small"}
 
-Throw everything into the blender and blend. 🌝
+Throw everything into the blender and blend. 🙂
 Spinach, to me, is the one vegetable that I can almost not put too much of into smoothies.
 Blueberries are just as good in smoothies as they are in oat meal.
 
