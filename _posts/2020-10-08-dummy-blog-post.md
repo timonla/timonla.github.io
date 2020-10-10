@@ -5,7 +5,7 @@ subtitle: "This is just a dummy blog post, which I will soon replace with my fir
 date: 2020-10-08
 permalink: "/blog/dummy-blog-post/"
 thumbnail: "/assets/img/blog/thumbnails/dummy-blog-post.png"
-hidden: false
+hidden: hidden
 ---
 
 I told you this was just a dummy post, there is nothing to see here...
