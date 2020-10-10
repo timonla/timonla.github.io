@@ -155,20 +155,19 @@ footer {
     width: 500px;
 }
 
-table td, th {
+.blog-post-img-large {
+    display: block;
+    width: 100%;
+}
+
+table td, table th {
     border: 1px solid #303030;
     padding-left: 0.5em;
     padding-right: 0.5em;
 }
 
-footer table td, th {
+footer table td {
     border-style: none;
-}
-
-.about-container table td, th {
-    border-style: none;
-    margin-top: 3em;
-    margin-bottom: 3em;
 }
 
 .cv-bullet {

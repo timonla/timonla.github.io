@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Down to Earth - Whole Food Plant Based Diet Review"
-subtitle: "Documenting and analysing my diet for one week"
+subtitle: "Documenting and analyzing my diet for one week"
 date: 2020-10-07
 permalink: "/blog/diet-review-2020/"
 thumbnail: "/assets/img/blog/thumbnails/diet-review-2020.png"
@@ -12,18 +12,21 @@ My diet is a very important topic for me and as such I am willing to experiment 
 I thought I knew, overboard, if I learn something new.
 From time to time I like to review my diet on whatever factors I recently altered.
 
-Unless you are an Olympic athlete and want to get the last bit of performance out of your diet,
-or have a serious medical condition, I don't think there is a point in doing this all the time.
+So I tracked and analyzed it in great detail over one week.
+Unless you are an Olympic athlete and want to get the highest possible performance and recovery from
+your body or have a serious medical condition, I don't think there is a point in doing this all the time.
 However, doing it when trying out new stuff, can give you a good understanding what foods contain
 which nutrients and you can use that on a day to day basis without thinking much about it.
 
-#### What is new, what am I trying to change right now?
+#### What is new, what have I changed recently?
+
 The main subjects under review for this week are affordability and the amount of processed/packaged foods that I consume.
-I recently started cutting down on packaged foods such as Oat drinks, pre-cooked beans and tofu.
+I recently started cutting down on packaged foods such as Oat drinks, pre-cooked beans and tofu,
+in an attempt to reduce cost, waste and nutrition.
 As I was quite happy with the diet in the past month I am simply interested in what amount of money I have to spend on,
 what I consider, a healthy and tasty diet, without growing my own vegetables or having to compromise on non-organic food.
 
-I am also interested in checking up on the nutrients as I have not done this in quite a while.
+While I am at it I will analyze the nutrients, since I have not done this in a while.
 
 #### About this post
 
@@ -35,10 +38,10 @@ I will not put any additional effort or research into what I am eating during th
 This, I hope, will give you an idea and some inspiration, what is achievable with very little effort.
 I will not use any special kitchen utensils, the most exotic thing, being a blender, to make the results reproducible
 for virtually anyone.
+I will not provide vague cooking instructions and some insights in why I choose certain ingredients.
 
-(I will try to put slightly more effort into making the food look appealing in the photos though.)
-
-I will provide some insight on the daily food choices that I make in the logbook but as a start here is a concise overview.
+I usually don't care too much about how my food looks.
+For the sake of promoting this diet however, I put slightly more effort into trying to make it look appealing.
 
 #### What labels do I assign my diet?
 
@@ -67,19 +70,19 @@ For every day, I will log:
 * Starting time of every food preparation
 * Starting time of every meal
 * Photo of every meal
-* The first time I prepare a meal I will provide some more information on why I am eating this and how I am preparing it
-* Amount of every ingredient used (except spices)
+* Some more notes on the food choices
+* Amount of every ingredient used (spices only as week total)
 * Price per 100g in Euro and SEK of every ingredient in Gothenburg/Sweden
 
 I am using [this scale](https://www.amazon.de/gp/product/B017NZNKYW/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1),
-which is not super accurate when it comes to differences of single grams.
+which is not super accurate when it comes to single gram differences.
 So I will weigh my spice glasses once at the start of the week and once at the end,
-to get a weekly estimation of the price, I will NOT log the grams of spices per meal in cronometer.
-
+to get a weekly estimation of the price.
+I will NOT log the grams of spices per meal in cronometer.
 I will have to weigh a lot of foods twice, as, for a banana for example, I want to track the calories of the part that ate,
 but the price of the banana including its peel.
-
-Once the week is over I will to track everything, as good as possible, in cronometer, to track macro and micro nutrients.
+Once the week is over I will track everything, as good as possible, in cronometer, to analyze calories,
+macro and micro nutrients.
 
 ## Disclaimer
 
@@ -93,13 +96,16 @@ One of the great advantages I see, in following a whole food plant based diet, i
 to overeat, since you will simply be full.
 
 I am not a great cook and don't have a lot of recipes to share.
-I think of all the ingredients I would like to eat and then assemble a dish of them.
+I usually think of all the ingredients I would like to eat and then assemble a random dish using them.
 For that I try to understand, through a lot of experiments, how certain ingredients will behave while cooking
 and how to use that to my advantage.
 To get started, [the vegan corner YouTube channel](https://www.youtube.com/user/thevegancorner) is an excellent
 starting point.
-It will give you some great ideas and recipes and explain how to use which ingredients in vegan whole food recipes.
-This has worked fine for me in the past years.
+They are excellent chefs and share a lot of really detailed recipes.
+While doing so they let you know their secrets on how to utilize certain ingredient properties
+for breathtaking vegan and mostly whole food meals.
+
+My approach has worked fine for me in the past years.
 I always like my food, since when it's prepared with only delicious ingredients, why shouldn't the end result 
 be delicious as well? :)
 
@@ -111,19 +117,32 @@ Please take this as an inspiration and consult someone qualified before undertak
 
 ### Supplements
 
-In the morning with the first glass of water I will consume a few supplements.
+In the morning with the first glass of water I consume a few supplements.
 
 ##### Vitamin B12
+
+You will find a lot of plant and animal products fortified with B12.
+However, Vitamin B12 is very important and especially since I am cutting out most processed foods
+I don't take any risks here.
+I'd recommend anyone, no matter if on a vegetarian or vegan diet or not, to supplement this.
+Your body will absorb as much as it needs and get rid of the rest through the urine.
+
 I am using these [Vitamin B12 drops](https://www.amazon.de/gp/product/B07K1D8M1N/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1).
 I take 5 drops per day, providing me with 1000mcg of Vitamin B12.
 One bottle contains 1700 drops and lasts for 340 days.
 The drops that I currently use still have an alcohol base, unlike the ones listed on amazon at the time of writing this.
-Vitamin B12 is very important but not expensive.
+Vitamin B12 is not very expensive.
 When choosing your supplement, I'd suggest to go for the bio active forms **Methylcobalamin** or **Adenosylcobalamin**.
 
 Price: **0.07 EUR/0.70 SEK** per day.
 
-##### Vitamin D3+K12
+##### Vitamin D3+K2
+
+Living in Sweden it's pretty much impossible to consistently get my
+Vitamin D3 dose any time of the year.
+So I take Vitamin D3 drops year round with Vitamin K2 mainly to boost 
+the D3 absorption.
+
 I am using these [Vitamin D3+K2 drops](https://www.amazon.de/gp/product/B07BK9F7WB/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1).
 I take 5 per day providing me with 125mcg of Vitamin D3 and 100mcg of Vitamin K2.
 One bottle contains 1700 drops and lasts for 340 days.
@@ -131,21 +150,23 @@ One bottle contains 1700 drops and lasts for 340 days.
 Price: **0.06 EUR/0.67 SEK** per day.
 
 ##### Iodine
+
+I have tried putting dulse in my smoothies before but find that a tea spoon of dulse is capable
+of altering the taste of a 1 liter smoothie quite drastically.
+I did this for over a year and got used to it but still prefer my smoothies without it.
+Capsules are much more convenient.
+
 I am using these [Iodine capsules](https://www.apotea.se/helhetshalsa-eko-jod-100-kapslar).
 I take one capsule per day, providing me with 150mcg of Iodine.
 One tub contains 100 capsules and will last for 100 days.
-
-I have tried putting dulse in my smoothies before but find that a tea spoon of that is capable of ruining the taste of a 1 liter smoothie.
-I did this for over a year and got used to it but never started to really like it.
-The capsules are much more convenient.
 
 Price: **0.15 EUR/1.55 SEK** per day.
 
 ### Spices
 
 I forgot to measure salt.
-But since it's super cheap and I just used a pinch in two dishes
-I think it can be neglected.
+During the week I just used a pinch of salt in two dishes respectively and since salt is rather cheap
+I think it's not too big of a deal.
 
 |---
 | Spice | Start weight grams | End weight grams | Delta grams | EUR | SEK
@@ -210,30 +231,59 @@ I think it can be neglected.
 
 #### 7:30 Coconut Oil
 
-![Lemon Water](/assets/img/blog/diet-review/monday-lemon.jpg){:class="blog-post-img-small"}
-
 I got up at 7:30.
-The first thing, when I get out of bed, is always to clean my tongue and pull some coconut
-oil through my teeth.
-I spit the oil out but thought since it's a food and I am tracking all kinds of stuff anyways,
-might as well add it here :)
+The first thing, when I get out of bed, is to clean my tongue and pull some coconut
+oil through my teeth before brushing them.
+I spit the oil out and in that sense it serves more hygienic purpose
+but since it counts as food and I am tracking all kinds of stuff anyways, I added it.
 
 #### 7:50 Lemon water
 
+![Lemon Water](/assets/img/blog/diet-review/monday-lemon.jpg){:class="blog-post-img-small"}
+
 The first thing I usually have in the morning is some lemon water.
-Some times I just drink the lemon juice with water, sometimes I mix it with some herbal infusion.
+Sometimes I just drink the lemon juice with water, sometimes I mix it with some herbal infusion.
 This is also the time I take my supplements, so I don't forget them.
+I won't drink the entire liter at once, this usually lasts a few hours.
 
 #### 9:40 Breakfast
 
 ![Breakfast](/assets/img/blog/diet-review/monday-breakfast.jpg){:class="blog-post-img-small"}
 
+#### Oat meal
+
 My go-to breakfast at the moment is oat meal.
-I have experimented with numerous other carbohydrate sources over the years,
-rice flakes, rice dosas, spelt flakes, corn flakes, cooked buckwheat, sprouted buckwheat, buckwheat tortillas
+I have experimented with numerous other carbohydrate bases in my breakfast over the years,
+rice flakes, rice dosas, spelt flakes, corn flakes, cooked buckwheat, sprouted buckwheat, buckwheat tortillas,
 cooked oats, overnight oats, ...
 For a while now I am settled on oats.
-They are easiest to use, taste amazing and I am able to digest them well.
+They are the easiest to use, taste amazing and I am able to digest them well.
+
+I add flax seeds, which are my primary source of Omega-3 fatty acids.
+I ground the seeds right before I add them to the bowl.
+Frozen blueberries (preferably the smaller wild ones instead of the big cultivated ones) are
+easy to get here and my favorite berry.
+I usually only swap them out with other berries if they are sold out at the store.
+Berries are one of Dr. Greger's [daily dozen](https://nutritionfacts.org/daily-dozen-challenge/)
+and a great source of antioxidants.
+I add banana or frozen mango, mainly for taste and extra calories.
+
+I recently came off my Oatly chocolate drink addiction, which I used to always have in my oat meal.
+Since then I experimented with hemp seeds, almond flour and coconut flakes combinations with cocoa
+powder and water to replace it.
+I am able to cut out more of week by week, as my taste buds slowly forget the processed aroma glory 
+of the chocolate drink.
+
+Last but not least a sprinkle of cinnamon (Ceylon) and some other source of nuts goes on top.
+Usually peanut butter, almond butter or walnuts, with peanut butter being the go-to right now.
+
+I usually don't measure any of this and just add however much I feel like.
+But I have measured all of these before and as the week will show I am able to quite precisely
+scoop out 30g of any nut butter out of a jar.
+
+#### Washing the sprouts
+
+In the morning and evening I have to rinse the sprouts that I am constantly growing.
 
 Sprouting legumes and other seeds is a great way to get something fresh into your diet without
 having to invest in, in my option, pointless iceberg lettuce or something similar.
@@ -242,30 +292,26 @@ However, if you end up not eating them, they can be stored in the fridge for a f
 growing.
 On Sunday evening I soaked 30g of green lentils, 30g of sweet lupines, 20g of chickpeas
 (all dry weights).
-They will all take about 3 days, until they have my preferred size.
+They will all take about 3 days, until they are at my preferred growth state.
 Since the experiment I switched to soaking the legumes during the day.
-This gives them 12 more hours before I eat them and they will be even tastier.
-How long sprouts will take to grow, depends a lot on the temperature in your kitchen or wherever you store them.
+This gives them 12 more hours before I eat them.
+How long sprouts will take to grow to a certain state, depends a lot on the temperature
+in your kitchen.
 
-If you are interested in sprouting your own beans, it's super easy to get started.
-All you need are some big jars and some nets.
+If you are interested in sprouting your own legumes, it's super easy to get started.
+All you need is a colander for straining and a bowl to let them grow in.
 I cannot emphasize enough how much of a waste of money it is to buy sprouting kits!
 Just buy mason jars and the lids.
 Even if you later decide sprouting is not for you, they can be of great use in the kitchen.
 
-Don't buy specific sprouting kits!
-Those are way to expensive and most of them are super small.
+They make life a bit easier and are definitely worth the investment
+if you are doing this regularly.
 
 I use [these lids](https://www.amazon.de/gp/product/B07B3Q336D/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 and [these glasses](https://www.bormiolirocco.com/en/product/700/jar-50-3-4-oz-quattro-stagioni) in 1l and 1.5l sizes.
 
-They make life a bit easier and are definitely worth the investment
-if you are doing this regularly.
-However, to test it out, any colander will do for washing and draining
-and once most of the water has gone, you can put the legumes in any bowl
-for the rest of the day.
-
-You also see me using them for lemon water, smoothies, to soak buckwheat, ...
+Most legumes should be soaked for 12 hours and then they need to be washed at least twice a day.
+Just drain them well with the colander and then put them in a bowl for the rest of the day.
 
 #### 13:28 Snack
 
@@ -279,15 +325,21 @@ I like to snack on dried fruits and nuts.
 ![Monday lunch](/assets/img/blog/diet-review/monday-lunch.jpg){:class="blog-post-img-small"}
 
 Even while working from home I usually cook one meal that I can have for lunch three days in a row to save some time in the kitchen.
-This week this meal is a rice dish (eating lots of rice is a recurring theme in my diet :)) with some vegetables in a coconut milk sauce.
-In the disclaimer I mentioned that I am a basic cook and this dish is the best proof for it.
+This week this meal is a rice dish (eating lots of rice is a recurring theme in my diet 🌝), with some vegetables in a coconut milk sauce.
+In the disclaimer I mentioned that I am a basic cook and this dish is the best example for it.
 Start by getting the rice to a boil and in the meantime throw all the other ingredients
 (except for the starch) into another pot, and cook until the lentils are soft.
 As spices I added: turmeric, coriander, ginger, chili, smoked paprika and cinnamon.
 
-Once the lentils are ready, I wait for it to cool down a slight bit, mix the starch with a hint of
-water and then add it to the pot while stirring.
-This will thicken the sauce a bit (or a lot, if you add too much).
+Some usually buy a lot of my vegetables frozen as I often find myself quite disappointed with
+how Swedish supermarkets tend to store their organic vegetables.
+They lie in lots of plastic bags in the fridge and if you look closely they are already moldy.
+It's for example almost impossible to find good organic mushrooms.
+On top of that they are more expensive...
+
+Once the lentils are ready, I wait for the the dish to cool down a slight bit,
+mix the starch with a sip of water and then add it to the pot while stirring.
+This will thicken the sauce a bit (or a lot, if you add too much starch).
 It's important to not add it into a boiling liquid or it will harden immediately and you will
 obtain a lumpy sauce.
 
@@ -303,38 +355,38 @@ Everything that does not fit into the lunch boxes has to be eaten on the same da
 ![Corn cakes](/assets/img/blog/diet-review/monday-evening-snack.jpg){:class="blog-post-img-small"}
 
 Snacking on some corn cakes, while doing the dishes and soaking some legumes and sunflower seeds.
+
+#### Corn cakes
+
 Rice and corn cakes fulfill two purposes in my kitchen.
 Firstly, they are a great, quick and gluten free alternative to bread.
 
 A few go-to toppings are:
 
 * Peanut butter, cinnamon and bananas or dates
-* Peanut butter, pickles and mustard
+* Peanut butter, pickles and mustard (yes, I am serious)
 * Bean spread, onions and pickles
 * Some condiment, tofu, onions, pickles
 
-... I really like pickles but they can be replaced with Sauerkraut of Koch as well.
+... I really like pickles but I also use sauerkraut of kimchi some times.
 
 Apart from that, rice and corn cakes are a nice, be it more bland, chips like snack which you
 can even take with you if you are going for a long walk.
 You can be sure that I will have a pack of them in my backpack any time I go out and am uncertain
 how long it is to the next meal or if the food will be good. (Just make sure that you have enough
-water with you :desert:)
+water with you 🌵)
 
-I simply wash the legumes and seeds in the glass before filling the entire container with water
+#### Soaking beans
+
+I simply wash the legumes and seeds well in the glass before filling the entire container with water
 and leaving it to soak for 12 hours.
-Soaking times depend on what you want to sprout but 12 hours is long enough for most plants.
+Soaking times depend on what you want to sprout, but 12 hours is long enough for most seeds.
 In the galas there are 41g of green lentils, 40g of sweet lupines, 21g of red lentils
 and 20g of sunflower seeds (all dry weights).
 
 ![Soaking legumes & sunflower seeds](/assets/img/blog/diet-review/monday-evening-beans.jpg){:class="blog-post-img-small"}
 
 #### 22:23 Going to bed
-
-I try to avoid drinking water the last hour before going to bed and then will have one Glass
-immediately before lying down.
-Like that I avoid having to get up to go to the bathroom at night and don't wake up completely
-dehydrated.
 
 ### Tuesday 22.09.2020
 
@@ -396,14 +448,11 @@ dehydrated.
 
 #### 7:13 Coconut Oil
 
-I go t up at 7:13
-
 #### 7:40 Lemon Juice
 
 ![Lemon water](/assets/img/blog/diet-review/tuesday-lemon.jpg){:class="blog-post-img-small"}
 
-Lemon water same as on Monday :)
-
+Lemon water same as on Monday 🌝.
 I also rinsed the legumes I soaked on Monday and Sunday evening.
 
 #### 10:27 Breakfast
@@ -411,7 +460,8 @@ I also rinsed the legumes I soaked on Monday and Sunday evening.
 ![Breakfast](/assets/img/blog/diet-review/tuesday-breakfast.jpg){:class="blog-post-img-small"}
 
 Same as yesterday, slightly less oats because slightly less hungry.
-(And I put the coconut flakes on top because I find it looks more appealing in the photo :P)
+I only put the coconut flakes on top because I expected it looks more appealing in the photo.
+Be the judge of how that turned out.
 
 #### 12:37 Lunch
 
@@ -425,34 +475,49 @@ I just wait a bit and start eating.
 
 ![Isotonic drink](/assets/img/blog/diet-review/tuesday-iso.jpg){:class="blog-post-img-small"}
 
+When riding the bike for more than an hour I will usually drink some isotonic drink.
+Especially when riding indoors, as I am doing a lot this time of the year, I sweat a lot
+and am loosing a lot of minerals.
+Also on longer rides it's an easy way to continuously consume some sugars.
+
 #### 17:18 Dinner preparations
 
 ![Potato Soup](/assets/img/blog/diet-review/tuesday-dinner-total.jpg){:class="blog-post-img-small"}
 
-Cut everything, put it into the pot and boil until the potatoes are good but not too soft.
+I craved some soup.
+So I cut everything into small pieces, put it into the pot and boiled it until the potatoes
+had the desired softness.
 The beet root will be still a bit crunchy.
-Eating raw beet root is not for the light-hearted.
-I challenge you to try to eat a big beet root raw.
-So make sure that you slice them in really small chunks.
-Basil, ginger, turmeric, vegetable broth, smoked paprika
-Add bicarbonate so that the tomatoes are not too sour.
-Roast the pumpkin seeds.
-Garnish with pumpkin seeds + nutritional yeast.
+Eating too raw beet root is not for the light-hearted so make sure that you taste some of it before 
+turning off the stove.
+As spices I added basil, ginger, turmeric some vegetable broth and smoked paprika.
+Because I did not want to cook the tomatoes forever I added some bicarbonate,
+to take away some of the sourness.
 
-I got impatient and ate a few corn cakes :)
+If I am putting seeds on top of a meal I often go the extra step to slightly roast them.
+Works great with for example pumpkin seeds, sesame seeds, sunflower seeds and walnuts.
+
+Here I roasted some pumpkin seeds and sprinkled them on top with some nutritional yeast.
+
+I got impatient and ate a few corn cakes. 🌝
 
 ![Corn Cakes](/assets/img/blog/diet-review/tuesday-snack.jpg){:class="blog-post-img-small"}
 
+#### Precook your beans
+
 ![Frozen Beans](/assets/img/blog/diet-review/tuesday-frozen-beans.jpg){:class="blog-post-img-small"}
+
+If you don't want to buy pre-cooked beans but don't plan every meal in advance,
+I find it useful to just boil a whole pack of beans, drain them well ant put them in the freezer.
+Then you can just sprinkle them in whatever meal while it's on the stove.
 
 #### 18:10, 18:50, 19:53 & 20:27 Dinner
 
 ![Dinner one portion](/assets/img/blog/diet-review/tuesday-dinner-single.jpg){:class="blog-post-img-small"}
 
-I don't have this big a dish so I'll split it up in 4 portions like this, that I will eat during the evening.
-
+I don't have this big a dish so I split it up in 4 portions like this, that I will eat during the evening.
 This meal was a bit too much.
-The last one felt kind of forced.
+The last bowl felt a bit forced.
 Three portions would have been ideal.
 
 #### 23:52 Going to bed
@@ -523,7 +588,7 @@ Three portions would have been ideal.
 ![Lemon water](/assets/img/blog/diet-review/wednesday-lemon.jpg){:class="blog-post-img-small"}
 
 Today with peppermint tea.
-Also rinsed the sprouts.
+Also washed the sprouts.
 
 #### 9:50 Breakfast
 
@@ -535,36 +600,44 @@ Not really different from the other days, except that I added some frozen mango 
 
 ![Lunch](/assets/img/blog/diet-review/wednesday-lunch.jpg){:class="blog-post-img-small"}
 
+Same as the day before, only that I put cashews on top instead of sesame seeds.
+
 #### 15:55 - 17:00 Took a nap
 
 #### 17:55 Smoothie
 
 ![Smoothie](/assets/img/blog/diet-review/wednesday-smoothie.jpg){:class="blog-post-img-small"}
 
+Well, making a smoothie is not exactly science.
+Put all the stuff in the blender and blend. 🌝
+With so much frozen stuff, it's important to put the unfrozen stuff at the bottom and choose the right water temperature.
+
 In recent years I have cut down on the amount of bananas I eat.
 These days I mainly eat them in my oat meal, on bike rides or in smoothies.
-It's good practice to always have a large amount of bananas at your disposal.
-You will be able to eat them when they are at their sweetest and if they at some point get too ripe, you can just freeze them
-in smaller pieces.
+I still think it's good practice to always have a large amount of bananas at your disposal.
+You will be able to eat them when they are at their sweetest and if they at some point get too ripe,
+you can just freeze them in smaller pieces.
 Frozen bananas are excellent for smoothies or nice cream.
-Also you can be sure to always have a *banana for size* at hand, if you take a photo of a big spider or something.
-
-Well, making a smoothie is not exactly science.
-Put all the stuff in the blender and blend :)
-With so much frozen stuff, it's important to put the unfrozen stuff at the bottom and choose the exact right water temperature.
+Also you can ensure to always have a *banana for size* at hand, if you take a photo of a big spider or something.
 
 ![Banana Stash](/assets/img/blog/diet-review/bananas-old-days.jpg){:class="blog-post-img-small"}
 
 ![Frozen banana](/assets/img/blog/diet-review/wednesday-frozen-banana.jpg){:class="blog-post-img-small"}
 
-#### 21:38 Sprouts
+#### 20:38 Eating and soaking sprouts
 
 ![Sprouts](/assets/img/blog/diet-review/wednesday-sprouts.jpg){:class="blog-post-img-small"}
 
-Also soaked some new sprouts.
-50g of green lentils and 50g of sweet lupines (all dry weights).
+After I rinse the sprouts, I just put them in a bowl, sprinkle a sip of tamari on top
+and then put on some nutritional yeast and spices.
+Today I used some PiriPiri, I also did not really track the price of that.
+I bought it in India some time ago.
+
+#### Soaking new sprouts
 
 ![](/assets/img/blog/diet-review/wednesday-soaking.jpg){:class="blog-post-img-small"}
+
+Soaked 50g of green lentils and 50g of sweet lupines (all dry weights).
 
 #### 21:38 Corn Cakes
 
@@ -632,7 +705,7 @@ Also soaked some new sprouts.
 
 ![Lemon water](/assets/img/blog/diet-review/thursday-lemon.jpg){:class="blog-post-img-small"}
 
-Also rinsing the sprouts.
+Also washed the sprouts.
 
 #### 10:34 Breakfast
 
@@ -642,19 +715,40 @@ Also rinsing the sprouts.
 
 ![Lunch](/assets/img/blog/diet-review/thursday-lunch.jpg){:class="blog-post-img-small"}
 
-Spices: nutritional yeast, chili, coriander, ginger
+This is one of my favorite dishes right now.
+I just cook the leek and cabbage in a bit of water with the spices and add the miso paste in the end.
+As spices I added chili, coriander and ginger.
+
+In a separate pot I will cook the noodles.
+Lately I switched to whole grain rice pasta instead of your standard white rice vermicelli
+or udon noodles that you might use for this.
+I can buy these organic and they have much more flavor.
+
+The rest of the ingredients goes onto a baking tray, which I layout with a silicon sheet
+and is sprinkled with some tamari and sesame seeds.
+I set the oven to 180°C for like half an hour and turn the stuff around half way.
 
 ![Oven pre-cooked](/assets/img/blog/diet-review/thursday-lunch-pre.jpg){:class="blog-post-img-small"}
 
 ![Oven post cooked](/assets/img/blog/diet-review/thursday-lunch-post.jpg){:class="blog-post-img-small"}
 
+After that I assemble the dish.
+Notice that I cooked the vegetables, tofu and broth for the next day as well. 🧠
+Lastly assemble the dish, put some nutritional yeast on top and fill it up with boiling water.
+The dish is unfortunately a bit too small for 300g of pasta.
+Check out the photos on Friday, where I split the portion onto two dishes.
+
 #### 20:55 Sprouts
 
 ![Sprouts](/assets/img/blog/diet-review/thursday-sprouts.jpg){:class="blog-post-img-small"}
 
-I just rinsed the sprouts, put some ketchup, nutritional yeast and ground cashew nuts on top.
+Today I put some ketchup, nutritional yeast and ground cashew nuts on top of the sprouts.
 While ketchup is not exactly a whole food, [the one that I use](https://www.felix.se/products/ketchup-osotad/)
-from Felix seems to not include too much crap.
+from Felix seems to not include too much crap and taste wise is almost closer to a tomato paste than
+your regular ketchup.
+Maybe I should try this with tomato paste instead. 🤔
+
+Also washed the other sprouts.
 
 #### 00:09 Going to bed
 
@@ -710,7 +804,7 @@ from Felix seems to not include too much crap.
 
 ![Lemon water](/assets/img/blog/diet-review/friday-lemon.jpg){:class="blog-post-img-small"}
 
-Also rinsing
+Also washed the sprouts.
 
 #### 10:08 Breakfast
 
@@ -720,15 +814,20 @@ Also rinsing
 
 ![Lunch](/assets/img/blog/diet-review/friday-lunch.jpg){:class="blog-post-img-small"}
 
+Split the same lunch as on Thursday up into two equal portions.
+Much easier to eat.
+
 #### 18:32 Lunch 2/2
 
 #### 20:57 Dinner
 
 ![Dinner](/assets/img/blog/diet-review/friday-dinner.jpg){:class="blog-post-img-small"}
 
-Also cinnamon
+This day I did not just eat plain corn cakes but instead topped some rice cakes
+with peanut butter, banana and cinnamon.
+Before eating them I put the second rice cake on top.
 
-Also rinsing and new sprouts
+Also washed the sprouts and setup some new ones.
 
 #### 2:12 Going to bed
 
@@ -802,29 +901,42 @@ Also rinsing and new sprouts
 
 ![Breakfast](/assets/img/blog/diet-review/saturday-breakfast.jpg){:class="blog-post-img-small"}
 
-Also rinsing the sprouts.
+On weekends, I usually get up a bit later and will combine the lemon water with the oat meal.
+
+Also washed the sprouts.
 
 #### 13:49 Smoothie
 
 ![Smoothie](/assets/img/blog/diet-review/saturday-smoothie.jpg){:class="blog-post-img-small"}
 
+Throw everything into the blender and blend. 🌝
+Spinach, to me, is the one vegetable that I can almost not put too much of into smoothies.
+Blueberries are just as good in smoothies as they are in oat meal.
+
 #### 16:15 Dinner preparations
 
 I usually follow my adaptation of [this recipe](https://www.theedgyveg.com/2015/04/20/jackfruit-carnitas-pulled-pork-tacos/)
 mainly leaving out the oil and making it more spicy.
+
+#### Taco filling
+
 This time we decided to try out swapping out the jack fruit for mushrooms.
-The mushrooms have a better taste but the texture of the jack fruit is better.
+The result being slightly better taste but considerably worse texture than with jack fruit.
 Also it was significantly more expensive to use mushrooms as they shrink so much during cooking.
 
 ![Mushroom taco filling](/assets/img/blog/diet-review/saturday-mushrooms-pre.jpg){:class="blog-post-img-small"}
 
 ![Mushroom taco filling](/assets/img/blog/diet-review/saturday-mushrooms-post.jpg){:class="blog-post-img-small"}
 
+#### Mango salsa
+
 ![Mango Salsa](/assets/img/blog/diet-review/saturday-salsa.jpg){:class="blog-post-img-small"}
 
 Chop all the ingredients and mix them with a pinch of salt.
 It can be difficult to get good fresh mango, especially on short notice.
 Frozen mango does the job just fine.
+
+#### Cashew lime cream
 
 ![Cashew Lime Cream](/assets/img/blog/diet-review/saturday-cream.jpg){:class="blog-post-img-small"}
 
@@ -835,24 +947,30 @@ Then simply follow the recipe.
 My friend did not have apple cider vinegar, it's also fine without.
 I find that 60g of cashews will be fine for 12 tacos (1 can of jack fruit).
 
+#### Tortillas
+
 ![Tortillas](/assets/img/blog/diet-review/saturday-tortillas.jpg){:class="blog-post-img-small"}
 
 If you are eating tacos and are not preparing your own tortillas, you are doing it wrong.
 Just get the corn masa (has to be the [nixtamalizado stuff](https://www.naturelo.com.mx/ing/maizazul.php))
-and mix it with water, make balls of the dough
-(I find 33g to be result the perfect *3 bite taco* size) and then form them by pressing them
-in a plastic bag between two flat surfaces (a pot and the kitchen counter will do).
+and mix it with water, form balls from it
+(I find 33g to be result the perfect *3 bite taco* size) and then press them into shape
+in a plastic bag between two flat surfaces (a pot and the kitchen counter worked fine here).
 
 A good mixture of flour and water today was 265ml of water for the 180g of flour and resulted
 in 13 tortillas.
 
-Press them quite thin and put them roast them in a preheated pan at medium heat.
+Press them quite thin and roast them in a preheated pan at medium heat, turning them around at least once.
+If you are doing this the first time, make sure that you taste one of them before cooking all of them,
+as you might not have made them thin enough and they can be raw on the inside.
 
 #### 18:38 Dinner
 
 ![Tacos](/assets/img/blog/diet-review/saturday-taco.jpg){:class="blog-post-img-small"}
 
 ![Tacos](/assets/img/blog/diet-review/saturday-tacos.jpg){:class="blog-post-img-small"}
+
+I put some hot sauce on this, which would have been too difficult to track.
 
 #### 19:47 Ice cream
 
@@ -864,7 +982,7 @@ I cannot imagine that it would taste any better.
 
 #### 23:00
 
-Rinsing the sprouts
+Washed the sprouts
 
 #### 2:11 Going to bed
 
@@ -928,7 +1046,7 @@ Rinsing the sprouts
 
 #### 11:40 Coconut Oil
 
-Also rinsing the sprouts.
+Also washed the sprouts.
 
 #### 12:10 Breakfast
 
@@ -940,7 +1058,11 @@ Also washed and soaked some buckwheat for dinner.
 
 ![Isotonic drink and banana](/assets/img/blog/diet-review/sunday-iso.jpg){:class="blog-post-img-small"}
 
+A bit longer bike ride today, so I am also taking a banana.
+
 #### 16:28 Lunch & Dinner prep
+
+#### Potato fries
 
 ![Fries in the oven](/assets/img/blog/diet-review/sunday-fries-pre.jpg){:class="blog-post-img-small"}
 
@@ -952,25 +1074,33 @@ Unfortunately I don't have garlic and onion powder at hand right now.
 Those are a real game changer for fries.
 
 Make sure that the fries are evenly spaced and don't overlap too much.
-Then you just pop them in the oven at 180C for 50 minutes and turn them around half way through.
+Then you just pop them in the oven at 200°C for 50 minutes and turn them around half way through.
+
+If you want them extra good, you cook the fries for 10 minutes before rinsing them and placing them
+on the tray.
+
+#### Buckwheat tortillas
 
 ![Buckwheat mixture](/assets/img/blog/diet-review/sunday-buckwheat-blended.jpg){:class="blog-post-img-small"}
 
 Now this recipe blew my mind, when I first found out about it and I ate buckwheat tortillas
 every day for several weeks :)
 Here is [the first recipe](https://www.youtube.com/watch?v=wuUX_lX-hm4) I followed.
-You don't even need a high powered blender.
-A stick blender will do the job.
+You don't even need a high powered blender,
+as a stick blender will do the job just fine.
 And they are so incredibly versatile.
 You can prepare them with varying thickness to achieve, crepes, wraps or pancakes.
 You can add all kinds of spices and then have them with peanut butter and banana,
 chocolate cream, blueberries, maple syrup or, like I today, as savory wraps.
 
-I added rosemary and garlic.
+For a more savory dish, like today, I add rosemary and garlic.
 
 Make sure that you rinse the buckwheat properly before you mix it with fresh water and blend it.
-You can start with less water and then add it until you get the desired consistency.
+You can start with less water and then add more until you get the desired consistency for your paste.
 For 204g of buckwheat my entire mixture today turned out to be 625g.
+
+Then just follow the instructions in the video I linked.
+You almost impossible to fuck these up if your pan has some non-sick properties.
 
 ![Buckwheat pan](/assets/img/blog/diet-review/sunday-buckwheat-in-pan.jpg){:class="blog-post-img-small"}
 
@@ -984,6 +1114,11 @@ For 204g of buckwheat my entire mixture today turned out to be 625g.
 
 ![Buckwheat wraps](/assets/img/blog/diet-review/sunday-dinner.jpg){:class="blog-post-img-small"}
 
+I just filled the wraps with some vegetables I had in the oven for half an hour,
+some sprouts and some sesame sauce (just stirred tahini, warm water, nutritional yeast and garlic).
+
+I did not eat all the wraps at once but ate them throughout the evening.
+
 ![buckwheat wrap](/assets/img/blog/diet-review/sunday-wrap.jpg){:class="blog-post-img-small"}
 
 #### 22:48 Orange snack
@@ -994,11 +1129,11 @@ Ate an orange because I was craving something cold and fresh after lunch and din
 I was too lazy but should have juiced it instead.
 Eating a citrus fruit so close before brushing my teeth was not optimal.
 
-Also rinsed the sprouts.
+Also washed the sprouts.
 
 #### 0:15 Going to bed
 
-### Results
+# Results
 
 ## Nutrients
 
@@ -1007,7 +1142,7 @@ However, I left it on the default settings for micro nutrients.
 
 Here are the result for the week:
 
-![Cronometer results](/assets/img/blog/diet-review/cronometer-week-result.jpg">
+![Cronometer results](/assets/img/blog/diet-review/cronometer-week-result.jpg){:class="blog-post-img-large"}
 
 ### Macro Nutrients
 
@@ -1024,7 +1159,7 @@ I think they served some purpose when switching from chocolate oat drink
 to cocoa powder and water but considering that more than half their
 weight is saturated fats, they are not worth it in the long run.
 
-![Cronometer Fat Results](/assets/img/blog/diet-review/cronometer-week-fat.png">
+![Cronometer Fat Results](/assets/img/blog/diet-review/cronometer-week-fat.png){:class="blog-post-img-small}
 
 ### Omega-3 to Omega-6 Ratio
 
@@ -1055,16 +1190,20 @@ and also price, almond butter is significantly more expensive than peanut butter
 
 This is how the nutrient result would look with almond butter in the breakfast:
 
-![Cronometer results](/assets/img/blog/diet-review/cronometer-week-result-with-almond.png">
+![Cronometer results](/assets/img/blog/diet-review/cronometer-week-result-with-almond.png){:class="blog-post-img-large"}
 
-# Selen
+# Selenium
 
-I got a comment questioning the selen value.
+I got a comment questioning the Selenium value.
 Cronometer lists brown rice and oats as the two main contributors here.
-Since half of the rice and all of the oats I consume come from europe
-the selen score is probably less than 200% and might not even be 100%.
-Brazilian nuts however are a safe way to make sure that you are getting
-your selen dosis and they are also really delicious. :)
+Since half of the rice and all of the oats I consume come from Europe
+the Selenium score is probably less than 200% and might not even be 100%.
+Brazil nuts however are a safe way to make sure that you are getting
+your Selenium dose and they are also really delicious. :)
+I got organic brazil nuts at the grocery store for 1 SEK a piece and one of them already
+fills my daily Selenium need.
+
+One 
 
 ## Cost
 
@@ -1110,7 +1249,7 @@ However, it would not have made sense to do it during this week since the tracki
 quite some time and would have distorted the actual time.
 Maybe use something like [jiffy](https://jiffy.nu/) to track it properly.
 
-It would also be intersting to measure the amount of packaging that
+It would also be interesting to measure the amount of packaging that
 the food comes in.
 One week would not be representative enough for this though.
 
@@ -1124,7 +1263,7 @@ I would like to buy spices at [pikantum](https://www.pikantum.de/),
 and rice, beans and co. at [RAPUNZEL](https://shop.rapunzel.de/) and [prohviant](https://www.prohviant.de/).
 
 * Since the first shopping after the experiment I started using almond
-butter in my oat meal instaed of peanut butter.
+butter in my oat meal instead of peanut butter.
 
 * I removed the coconut flakes from my oat meal.
 
@@ -1136,7 +1275,7 @@ grounded in the oat meal.
 I consume flax seeds mainly for the Omega-3 and this process is
 supposed to increase its availability.
 
-* I bought some brazilian nuts and am consuming them daily for the selen.
+* I bought some brazil nuts and am consuming them daily for the Selenium.
 
 ## Price List
 
