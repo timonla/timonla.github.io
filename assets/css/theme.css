@@ -185,3 +185,28 @@ footer table td {
 .about-container {
     max-width: 700px;
 }
+
+.highlighter-rouge .highlight .rouge-table .rouge-gutter,
+.highlighter-rouge .highlight .rouge-table .rouge-code {
+  border: 0 !important;
+}
+
+.rogue-code {
+    width: 100%;
+}
+
+.highlight .k {
+    color: #569CD6;
+}
+
+.highlight .nc {
+    color: #43C98F;
+}
+
+.highlight .n {
+    color: #9CDCFE;
+}
+
+.highlight .nf {
+    color: #DCCD79;
+}
