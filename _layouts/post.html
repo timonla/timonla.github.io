@@ -7,7 +7,10 @@ layout: page
 <h2 class="post-subtitle">{{ page.subtitle }}</h2>
 
 <p class="post-date">
-    Posted on {{ page.date | date: "%-d %B %Y" }}
+    Posted on {{ page.date | date: "%-d.%m.%Y" }}
+    {% if page.edited %}
+     - last edited on {{ page.edited | date: "%-d.%m.%Y" }}
+    {% endif %}
 </p>
 
 {{ content }}
