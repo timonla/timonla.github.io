@@ -3,18 +3,19 @@ layout: post
 title: "Setup Multiple Sound Devices in CS:GO"
 subtitle: "How to setup your CS:GO audio settings if your headphones and mic are connected to different audio devices"
 date: 2020-10-25
+edited: 2020-10-26
 permalink: "/blog/csgo-multiple-sound-devices/"
 thumbnail: "/assets/img/blog/thumbnails/csgo-multiple-sound-devices.png"
 hidden: false
 ---
 
-If you are reading this, you likely bought yourself a fancy new standalone microphone.
-However, after plugging it in with the USB cable or even a fancy new sound interface and starting CS:GO,
-you find yourself frustrated.
+If you are reading this, you likely bought yourself a fancy new standalone microphone, which you need
+to connect to your computer in a differnt way, for example *3.5mm* vs USB, than your headphones.
+However, after plugging it in and starting CS:GO, you found yourself frustrated.
 No one can hear what you are saying.
 Opening the game sound settings reveals that the audio device of your mic is not selected.
-But if you switch the audio device to your mic, you cannot hear anything anymore.
-Surely that can't be the solution...
+But if you switch the audio device to your mic, you cannot hear the game anymore.
+Surely there has to be a solution...
 
 I found an easy way to both hear and speak in CS:GO using different audio devices.
 
