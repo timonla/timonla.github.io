@@ -30,7 +30,7 @@ Especially when doing BDD, our tests should read easily and tell us exactly what
 we have implemented.
 Dan North presents his thoughts on how tests/behaviors should be named already in his initial
 post.
-Martin Fowler also shares a concide description, focusing on the test naming,
+Martin Fowler also shares a concise description, focusing on the test naming,
 [in this blog post](https://martinfowler.com/bliki/GivenWhenThen.html).
 
 ### Here is my take
@@ -72,7 +72,7 @@ My solution offers the following features:
 * Conjugate *Given* conditions without repeated code
 * Multiple *Then* conditions without repeated setup
 
-The examples from the post are available in [this github repository](https://github.com/timonla/robot-test-project).
+The examples from the post are available in [this GitHub repository](https://github.com/timonla/robot-test-project).
 
 #### Classes - *Given*
 
@@ -124,7 +124,7 @@ different sets of post-conditions.
 That's why I only want to create a single namespace for an action and then classes and
 functions will allow me to specify the different pairs of sets for one action.
 
-Since the actions should be roughtly the same in the entire namespace, it's convenient
+Since the actions should be roughly the same in the entire namespace, it's convenient
 to create a non-test-fixture class defining this action.
 All *given* classes in the namespace can then inherit from this class with each of their 
 test functions executing just `Act()` as the [*Act-part*](https://docs.microsoft.com/en-us/visualstudio/test/unit-test-basics?view=vs-2019#write-your-tests).
@@ -215,7 +215,7 @@ namespace WhenCheckingCharge {
       -️ ShouldHaveCharge (1)
 ```
 
-#### File structure
+#### Directory structure
 
 Since we use everything downwards from namespace for behavior specifications,
 we can use the directory and file names to keep track of which public interfaces we 
