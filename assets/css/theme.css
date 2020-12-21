@@ -258,3 +258,39 @@ footer table td {
 .highlight .nf {
     color: #DCCD79;
 }
+
+footer ul li a {
+    display: block;
+    height: 100%;
+}
+
+footer i {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+footer a:hover {
+    color: #C0BAB2;
+}
+
+footer .fa-lg:hover {
+    transition: color .3s ease-in-out;
+}
+
+.fa-youtube:hover {
+    color: #ff1a1a;
+}
+
+.fa-github:hover {
+    color: rgb(240, 81, 51);
+}
+
+.fa-linkedin:hover {
+    color: rgb(40, 103, 178);
+}
+
+.fa-envelope:hover {
+    color: rgb(1, 197, 131);
+}
