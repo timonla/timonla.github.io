@@ -1,15 +1,19 @@
 <nav>
-	<div class="nav-title">
+	<div class="nav-logo">
 		<a href="{{ site.baseurl }}/">
-			<img class="nav-logo" src="../../assets/img/profile-extra-cropped.png" />
+			timon.la
 		</a>
 	</div>
-	<div class="nav-items">
-		<a class="menu-item" href="{{ site.baseurl }}/">HOME</a>
+	<ul class="nav-items">
+		<li>
+			<a class="menu-item" href="{{ site.baseurl }}/">Home</a>
+		</li>
 		{% for page in site.pages %}
 		{% if page.title %}
-		<a class="menu-item" href="{{ page.url }}">{{ page.title }}</a>
+		<li>
+			<a class="menu-item" href="{{ page.url }}">{{ page.title }}</a>
+		</li>
 		{% endif %}
 		{% endfor %}
-	</div>
+	</ul>
 </nav>
