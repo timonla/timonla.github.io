@@ -53,15 +53,18 @@ nav {
     flex: 1;
 }
 
+html {
+    height: 100%;
+}
+
 body {
     display: flex;
     flex-direction: column;
     background-color: #18191a;
     font-family: 'Lora', 'Times New Roman', serif;
     font-size: 1.125rem;
-    min-height: 100vh;
+    height: 100%;
     max-width: 100%;
-    overflow-x: hidden;
 }
 
 a {
@@ -114,7 +117,7 @@ h1, h2, h3, h4 {
 footer {
     display: flex;
     align-items: center;
-    height: 4vh;
+    min-height: max(4vh, 35px);
     justify-content: space-around;
     background-color: #242526;
 }
