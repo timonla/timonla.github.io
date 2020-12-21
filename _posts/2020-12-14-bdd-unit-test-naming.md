@@ -3,6 +3,7 @@ layout: post
 title: "BDD Test Naming for NUnit Tests"
 subtitle: "Behavior driven test case naming scheme for readable and reusable test cases"
 date: 2020-12-14
+edited: 2020-12-21
 permalink: "/blog/bdd-nunit-test-naming/"
 thumbnail: "/assets/img/blog/thumbnails/bdd-nunit-test-naming.png"
 hidden: false
@@ -22,7 +23,9 @@ We all have seen test cases with terrible names, like `Test1()`, that don't prov
 information on what behavior they are testing.
 We also all have seen test cases that are more descriptive but just annoying to read. 
 
-`GivenTheRobotIsTurnedOff_WhenTogglingThePower_ThenTheRobotShouldTurnOn()`
+```
+GivenTheRobotIsTurnedOff_WhenTogglingThePower_ThenTheRobotShouldTurnOn()
+```
 
 In this post I document the test setup I use in NUnit projects to achieve a
 [behavior driven development](https://dannorth.net/introducing-bdd/) (BDD) naming scheme.
@@ -206,13 +209,13 @@ namespace WhenCheckingCharge {
 ```
 
 ```
-- GivenBatteryHasPercentageGreaterZero (4)
-  -️ WhenCheckingCharge (4)
-    -️ ShouldHaveCharge (4)
-      -️ ShouldHaveCharge (69)
-      -️ ShouldHaveCharge (2)
-      -️ ShouldHaveCharge (100)
-      -️ ShouldHaveCharge (1)
+GivenBatteryHasPercentageGreaterZero (4)
+   WhenCheckingCharge (4)
+   ️ ShouldHaveCharge (4)
+     ️ ShouldHaveCharge (69)
+      ShouldHaveCharge (2)
+      ShouldHaveCharge (100)
+      ShouldHaveCharge (1)
 ```
 
 #### Directory structure
