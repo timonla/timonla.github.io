@@ -16,6 +16,7 @@ nav {
     -webkit-text-fill-color: transparent;
     font-size: 3rem;
     font-weight: 900;
+    line-height: 100%;
 }
 
 .navbar-nav {
@@ -50,6 +51,10 @@ nav {
 }
 .nav-icon.open .line3 {
     transform: rotate(45deg) translate(-4px, -6px);
+}
+
+.navbar-collapse ul li {
+    margin: auto;
 }
 
 .content {
