@@ -3,7 +3,7 @@ layout: post
 title: "BDD Test Naming for NUnit Tests"
 subtitle: "Behavior driven test case naming scheme for readable and reusable test cases"
 date: 2020-12-14
-edited: 2020-12-21
+edited: 2020-12-22
 permalink: "/blog/bdd-nunit-test-naming/"
 thumbnail: "/assets/img/blog/thumbnails/bdd-nunit-test-naming.png"
 hidden: false
@@ -209,10 +209,10 @@ namespace WhenCheckingCharge {
 ```
 
 ```
-GivenBatteryHasPercentageGreaterZero (4)
-   WhenCheckingCharge (4)
-   ️ ShouldHaveCharge (4)
-     ️ ShouldHaveCharge (69)
+GivenBatteryHasPercentageGreaterZero
+  WhenCheckingCharge
+    ShouldHaveCharge
+      ShouldHaveCharge (69)
       ShouldHaveCharge (2)
       ShouldHaveCharge (100)
       ShouldHaveCharge (1)
