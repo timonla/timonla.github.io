@@ -1,22 +1,10 @@
-const navSlide = () => {
-    const mobileNav = document.querySelector('.nav-mobile');
-    const nav = document.querySelector('.nav-items');
-    const navItems = document.querySelectorAll('.nav-items li');
+const animateNavIcon = () => {
+    const navIcon = document.querySelector('.nav-icon');
 
-    mobileNav.addEventListener('click', () => {
-        nav.classList.toggle('nav-active');
+    navIcon.addEventListener('click', () => {
 
-        navItems.forEach((item, index) => {
-            if (item.style.animation) {
-                item.style.animation = ''
-            } else {
-                item.style.animation = `navItemFade 0.5s ease forwards ${index / 5 + 0.5}s`;
-            }
-        });
-
-        mobileNav.classList.toggle('toggle');
+        navIcon.classList.toggle('open');
     });
-
 }
 
-navSlide();
+animateNavIcon();
