@@ -1,28 +1,29 @@
 <nav class="navbar navbar-expand-lg navbar-dark">
-  <div class="container-fluid">
-	<a class="navbar-brand nav-logo" href="{{ site.baseurl }}/">
-		<span>timon.la</span>
-	</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-		<div class="nav-icon">
-               <div class="line1"></div>
-               <div class="line2"></div>
-               <div class="line3"></div>
-       </div>
+  <div class="container-fluid nav-spread">
+    <a class="navbar-brand" href="{{ site.baseurl }}/">
+      <img class="nav-logo" src="{{ site.baseurl }}/assets/img/timon-bike-logo.svg" alt="logo">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="nav-icon">
+        <div class="line1"></div>
+        <div class="line2"></div>
+        <div class="line3"></div>
+      </div>
       <!-- <span class="navbar-toggler-icon"></span> -->
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
-		<li class="nav-item">
-			<a class="nav-link" href="{{ site.baseurl }}/">Home</a>
-		</li>
-		{% for page in site.pages %}
-		{% if page.title %}
-		<li class="nav-item">
-			<a class="nav-link" href="{{ page.url }}">{{ page.title }}</a>
-		</li>
-		{% endif %}
-		{% endfor %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+        </li>
+        {% for page in site.pages %}
+        {% if page.title %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ page.url }}">{{ page.title }}</a>
+        </li>
+        {% endif %}
+        {% endfor %}
       </ul>
     </div>
   </div>
