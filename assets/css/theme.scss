@@ -18,6 +18,7 @@ nav {
 
 .nav-logo {
     height: 55px;
+    box-shadow: none;
 }
 
 .nav-spread {
@@ -248,24 +249,8 @@ footer {
     width: 100%;
 }
 
-.blog-post-img-header-container {
-    position: relative;
-    bottom: 0;
-    right: 0;
-    width: 100%;
-    overflow: hidden;
-    background-color: #FFFFFF;
-}
-
-.blog-post-img-header-shadow {
-    position: absolute;
-    box-shadow:
-    inset -20px 15px 20px 10px #18191a,
-    inset -20px -15px 20px 10px #18191a;
-    width: calc(100% + 60px);
-    height: 100%;
-    top: 0;
-    left: 0;
+img {
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
 }
 
 .blog-post-img-small {

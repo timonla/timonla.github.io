@@ -13,11 +13,7 @@ The visual studio test explorer provides much more information than just how man
 of our test cases are passing.
 So just like Ruby Rhod we should ask ourselves the question: [*"How green?"*](https://youtu.be/B5_VQuNwims?t=112)
 
-<div class="blog-post-img-header-container">
 <img src="/assets/img/blog/bdd-nunit-test-naming/your-test-names-suck.png" class="blog-post-img-header"/>
-<div class="blog-post-img-header-shadow">
-</div>
-</div>
 
 We all have seen test cases with terrible names, like `Test1()`, that don't provide much 
 information on what behavior they are testing.
