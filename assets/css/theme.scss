@@ -1,6 +1,14 @@
 ---
 ---
 
+$color-gray-100: hsl(210deg, 15%, 20%);
+$color-gray-200: hsl(210deg, 15%, 25%);
+$color-gray-300: hsl(210deg, 10%, 40%);
+$color-gray-400: hsl(210deg, 9%, 45%);
+$color-gray-500: hsl(210deg, 8%, 50%);
+$color-gray-600: hsl(210deg, 12%, 55%);
+$color-gray-700: hsl(210deg, 14%, 66%);
+
 $text-primary: #e4e6eb;
 $content-width: 900px;
 $background-light: #151C2A;
@@ -85,6 +93,20 @@ nav {
 html {
     height: 100%;
     background-color: $background-dark;
+
+    ::-webkit-scrollbar {
+        width: 12px;
+        background-color: $color-gray-100;
+        border: 2px solid $color-gray-100;
+    }
+    ::-webkit-scrollbar-thumb {
+        background-color: $color-gray-500;
+        border: 2px solid $color-gray-100;
+    }
+    ::-webkit-scrollbar-track {
+        border-radius: 3px;
+        background-color: transparent;
+    }
 }
 
 body {
