@@ -90,10 +90,10 @@ html {
 body {
     display: flex;
     flex-direction: column;
-    background: linear-gradient(#151C2A, #0F1114) no-repeat top center;
+    background: linear-gradient($background-light, $background-dark) no-repeat top center;
     background-attachment: fixed;
     background-size: cover;
-    font-family: 'Lora', 'Times New Roman', serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1.125rem;
     min-height: 100vh;
     max-width: 100%;
@@ -114,7 +114,6 @@ p {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 800;
     line-height: 1.1;
 }
