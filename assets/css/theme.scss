@@ -3,6 +3,8 @@
 
 $text-primary: #e4e6eb;
 $content-width: 900px;
+$background-light: #151C2A;
+$background-dark: #0F1114;
 
 * {
     margin: 0;
@@ -82,6 +84,7 @@ nav {
 
 html {
     height: 100%;
+    background-color: $background-dark;
 }
 
 body {
