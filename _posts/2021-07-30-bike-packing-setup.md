@@ -2,7 +2,7 @@
 layout: post
 title: "Bike Packing Setup and Tailfin Rack Review"
 subtitle: "Overview of my bike packing bags, sleep system and my impressions of the Tailfin rack"
-date: 2021-08-02
+date: 2021-08-27
 permalink: "/blog/bike-packing-setup/"
 thumbnail: "/assets/img/blog/thumbnails/bike-packing-setup.png"
 hidden: true
@@ -167,8 +167,13 @@ The handlebar is a [Bontrager Elite Aero VR-CF](https://www.trekbikes.com/us/en_
 
 # Tailfin rack - the good and the bad
 
-While I am amazed by the Tailfin rack and trunk top bag, I have found some issues, which
-tailfin can improve on.
+The short version is that I am amazed by the Tailfin rack and trunk top bag.
+I found some issues and room for improvement with the system, which I describe in
+detail below.
+However, even with these issues, I would buy the combination again any day.
+
+The long version I split my review into different topics and layout the positive
+and negative aspects for each of them.
 
 ## Packing
 
@@ -176,6 +181,12 @@ The biggest advantages of the trunk top bag compared to conventional seat-packs 
 with which it can be packed. 
 Especially when choosing the rack version over the [aero pack](https://www.tailfin.cc/product/seat-packs/aeropack-carbon/),
 the ability to simply take the pack off the bike increases packability immensely.
+
+I chose the rack and trunk top bag so that I can easily take the bag off the bike
+when going into a store or taking it into the tent at night.
+Other configurations of the tailfin rack will offer a slightly worse versatility
+but except for the direct frame mount aero pack version, all of them are much better
+than a conventional seat-pack.
 
 The biggest problem I have with the rack version is the inability to access the bag on the
 bike.
@@ -185,31 +196,60 @@ For the aero pack Tailfin offers an [extension](https://www.tailfin.cc/product/s
 to move the seat pack further away from the saddle.
 Until this part is also available for the trunk top bag version, only the zipper on the side
 allows for proper access while the pack is on the bike.
-This zipper on the other hand is a genius addition.
+This zipper on the other hand is a great addition.
 Putting my rain jacket, first aid kit and foldable backpack directly behind the zipper, I
 usually don't have the need to open the pack during the day.
 
 ## Riding comfort
 
-+ Compared with a regular seat pack, , super easy to fit to the bike and you don't notice it at all.
-It's in a different league compared to seat packs, like [the Ortlieb one I used before](https://www.ortlieb.com/en_us/seat-pack+F9902). The only complaint I have is that with low saddle heights like mine, that trunk top bag is a bit difficult to pack while on the bike. But that's partially why I bought the rack version and hopefully tailfin will release the pendent to the [AeroPack - extended seat post connector](https://www.tailfin.cc/product/spares/accessories-accessories/extended-aeropack-seatpost-connector/) for the rack soon.
-The very important bit of information I was missing in all the reviews I looked at, when deciding for it, was the modularity of the setup.
+Compared with a conventional seat-pack, the trunk top bag sits rock solid behind the saddle.
+The difference in riding comfort is mainly due to the fact that the bike is 1-2 times than
+without any luggage.
+The rack is in a completely different league than seat-packs, like
+[the Ortlieb one I used before](https://www.ortlieb.com/en_us/seat-pack+F9902).
 
-When you order a tailfin rack or aero pack, you get a bunch of boxes and put together whatever you configured in their shop. If you bought the arch without pannier mounts and change your mind later on, you can simply buy a different arch and modify your setup. The same goes for the aero pack. You can easily convert your setup to the rack + trunk top bag setup like I have it here with some adapters.
+The biggest improvement in riding comfort however is the removal of the handlebar-pack.
+I am able to fit almost everything that previously went into the handlebar-pack and the
+seat-pack into the trunk top bag and thus got back a lot of previously blocked hand positions
+and handling comfort.
+
+## Modularity
+
+The very important bit of information I was missing in all the reviews I looked at,
+when deciding for it, was the modularity of the setup.
+
+When you order a tailfin rack or aero pack, you get a bunch of boxes and put together 
+whatever you configured in their shop.
+If you bought the arch without pannier mounts and change your mind later on,
+you can simply buy a different arch and modify your setup.
+The same goes for the aero pack.
+You can easily convert your setup to the rack + trunk top bag setup like I have it
+here with some adapters.
 
 ![Tailfin Packaging](/assets/img/blog/bike-packing-setup/tailfin-packaging.png){:class="blog-post-img-small"}
 
-What held me back from investing in the tailfin rack for my first bike packing trip was the fact that I did not know what setup I would really need down the line and the price for the most versatile setup (5 754 SEK for the X rack carbon with the trunk top bag).
+What held me back from investing in the tailfin rack for my first bike packing trip
+was the fact that I did not know what setup I would really need down the line and
+the price for the most versatile setup (5 754 SEK for the X rack carbon with the
+trunk top bag).
 
-Knowing what I know today, I would have never bought the Ortlieb bags in the first place. I spent 2 615 SEK on my Ortlieb handlebar bag and seat pack while I could have gotten the Aero pack alloy for 2 223 SEK and the carbon version for 2 812 SEK. That is with frame mounting, since my bike has the mounts for that.
+Knowing what I know today, I would have never bought the Ortlieb bags in the first place.
+I spent 2 615 SEK on my Ortlieb handlebar bag and seat pack while I could have gotten 
+the Aero pack alloy for 2 223 SEK and the carbon version for 2 812 SEK.
+That is with frame mounting, since my bike has the mounts for that.
 
-Functionally that setup would have been quite comparable to the Ortlieb bags, as in difficult to put on and take off the bike and not so nice top pack on the bike. I decided on the S rack carbon with the trunk top bag. This allows me to take the bag with me when I go into stores and to place it in the vestibule of the tent at night. If I ever decide to ride with pannier bags again or if tailfin releases a laptop bag like the modified THULE ones they have provided to YouTubers, I can just buy an alloy arch and be setup. With heavier pannier setups, I do not expect the weight penalty of the alloy are to be so significant.
-
-- Without the handlebar bags much more hand positions are possible
+Functionally that setup would have been quite comparable to the Ortlieb bags, as in difficult to put on and take off the bike and not so nice top pack on the bike.
+I decided on the S rack carbon with the trunk top bag.
+This allows me to take the bag with me when I go into stores and to place it in the vestibule of the tent at night.
+If I ever decide to ride with pannier bags again or if tailfin releases a laptop bag like the modified THULE ones they have provided to YouTubers, I can just buy an alloy arch and be setup.
+With heavier pannier setups, I do not expect the weight penalty of the alloy are to be so significant.
 
 ![Tailfin Trunk Top Bag](/assets/img/blog/bike-packing-setup/tailfin-trunk-top-bag.png){:class="blog-post-img-small"}
 
-The sleep system in the trunk top bag. There is still a lot of room for other stuff. To give you an idea, i tested how many cotton T-Shirts I could stuff in there on top of the sleep setup. The answer is 14 size M T-Shirts!
+The sleep system in the trunk top bag.
+There is still a lot of room for other stuff.
+To give you an idea, i tested how many cotton T-Shirts I could stuff in there on top of the sleep setup.
+The answer is 14 size M T-Shirts!
 
 ![Tailfin Trunk Top Bag inside](/assets/img/blog/bike-packing-setup/tailfin-trunk-top-bag-inside.png){:class="blog-post-img-small"}
 
@@ -236,6 +276,7 @@ wrappers or other scrap in between stops.
 
 I keep all important stuff like phone, money, keys, hygienics in a [Vaude Tecomove II](https://www.vaude.com/en-INT/Equipment/Packs-n-Bags-Luggage/Waist-Bag/28135/Tecomove-II-Waist-bag)
 fanny pack so that I don't have to take them out of the bags during every stop.
+The pack is not waterproof, so most stuff is in plastic bags.
 
 ### Foldable backpack
 
