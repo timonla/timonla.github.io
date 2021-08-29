@@ -3,7 +3,7 @@ layout: post
 title: "Down to Earth - Whole-Food Plant-Based Diet Review"
 subtitle: "Documenting and analyzing my diet for one week"
 date: 2020-10-10
-edited: 2020-10-26
+edited: 2021-08-29
 permalink: "/blog/diet-review-2020/"
 thumbnail: "/assets/img/blog/thumbnails/diet-review-2020.png"
 hidden: false
@@ -125,9 +125,19 @@ For the sake of promoting this diet however, I put slightly more effort into try
 
 #### Supplements
 
+**Update:** I now take these supplements with the first meal of the day to ensure
+that I am consuming enough fats to enable the absorption of the fat soluble vitamins.
+I now consume the [Vivolife vegan multivitamin](https://www.vivolife.de/products/vegan-multinutrient?rfsn=2429242.bea1e5&utm_source=Refersion&utm_medium=Affiliates&utm_campaign=2429242)
+in situation where I don't have enough control over my nutrient intake.
+(Primarily traveling)
+
 In the morning with the first glass of water I consume a few supplements.
 
 ##### Vitamin B12
+
+**Update:** After watching [this video by Niko Rittenau](https://www.youtube.com/watch?v=6HZMRt8Fvio)
+I found out that Vitamin B12 absorption is likely better than expected and switched
+to a 250mcg (1 drop) of [Love Nature's B12](https://www.nature-love.de/products/vitamin-b12-tropfen-50-ml-mit-1000-mcg-pro-tagesdosis-2-tropfen) per day.
 
 You will find a lot of plant and animal products fortified with B12.
 However, Vitamin B12 is very important and especially since I am cutting out most processed foods
@@ -135,7 +145,7 @@ I don't take any risks here.
 I'd recommend anyone, no matter if on a vegetarian or vegan diet or not, to supplement this.
 Your body will absorb as much as it needs and get rid of the rest through the urine.
 
-I am using these [Vitamin B12 drops](https://www.amazon.de/gp/product/B07K1D8M1N/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1).
+I am using these [Vitamin B12 drops](https://www.nature-love.de/products/vitamin-b12-tropfen-50-ml-mit-1000-mcg-pro-tagesdosis-2-tropfen).
 I take 5 drops per day, providing me with 1000mcg of Vitamin B12.
 One bottle contains 1700 drops and lasts for 340 days.
 The drops that I currently use still have an alcohol base, unlike the ones listed on amazon at the time of writing this.
@@ -146,12 +156,18 @@ Price: **0.07 EUR/0.70 SEK** per day.
 
 ##### Vitamin D3+K2
 
+**Update:** I found out that [Nature Love's D3+K2 supplement](https://www.nature-love.de/products/vitamin-d3-k2-tropfen-50ml-mit-25mcg-d3-20mcg-k2-pro-tropfen?variant=20503430135911)
+is not vegan. 🤦‍♂️
+I am now using 5 drops (5000 I.E.) of [Nature Love's D3](https://www.nature-love.de/products/veganes-vitamin-d3-aus-flechten-25-ml-mit-1000-i-e-25-mcg-pro-tropfen)
+and 10 drops (200mcg) of [Nature Love's K2](https://www.nature-love.de/products/vitamin-k2-mk7-tropfen-50-ml-mit-200-mcg-pro-tagesdosis)
+daily.
+
 Living in Sweden it's pretty much impossible to consistently get my
 Vitamin D3 dose any time of the year.
 So I take Vitamin D3 drops year round with Vitamin K2 mainly to boost 
 the D3 absorption.
 
-I am using these [Vitamin D3+K2 drops](https://www.amazon.de/gp/product/B07BK9F7WB/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1).
+I am using these [Vitamin D3+K2 drops](https://www.nature-love.de/products/vitamin-d3-k2-tropfen-50ml-mit-25mcg-d3-20mcg-k2-pro-tropfen?variant=20503430135911).
 I take 5 per day providing me with 125mcg of Vitamin D3 and 100mcg of Vitamin K2.
 One bottle contains 1700 drops and lasts for 340 days.
 
@@ -1236,7 +1252,7 @@ fills my daily Selenium need.
 
 Average daily calories consumed: **3625kcal**
 
-The daily costs have a big outlier with saturday.
+The daily costs have a big outlier with Saturday.
 While I have days with more expensive meals from time to time, or even dine out,
 extreme days like this don't happen on a weekly basis.
 
@@ -1296,6 +1312,20 @@ grounded in the oat meal.
 That is supposed to improve the bio-availability.
 
 * I bought some brazil nuts and am consuming them daily for the Selenium.
+
+* I updated my supplement selection. (Details in the supplement section)
+
+* I started weighing the flax seeds and try to not consume all of them in the same
+meal.
+I have 25g in my oat meal and maybe some more during the rest of the day.
+I started doing this after reading on the packaging that 40g is the maximum
+recommended daily intake and noticing that smaller amounts at once lead to
+slightly less bloating.
+
+* I started buying all my spices at [pikantum](https://www.pikantum.de/) which was one
+of the best culinary changes I ever made.
+The spices taste much better than anything I used to buy at local stores, are significantly 
+cheaper and packaged in less plastic.
 
 ### Price List
 
