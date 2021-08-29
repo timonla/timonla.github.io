@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Sustainable endurance nutrition"
-subtitle: "Cutting out packaging, artificial sweeteners and other bullshit from your endurance nutrition while saving money"
+subtitle: "Cutting out packaging, artificial sweeteners and other bullshit from my endurance nutrition while saving money"
 date: 2021-07-27
+edited: 2021-08-29
 permalink: "/blog/sustainable-endurance-nutrition/"
 thumbnail: "/assets/img/blog/thumbnails/sustainable-endurance-nutrition.png"
 hidden: false
@@ -29,10 +30,10 @@ with the addition of some electrolytes after some point.
 How much electrolytes are needed depends on the amount of sweat and its salt saturation.
 
 Calorie intake on the other hand is a more complex topic.
-During sub one hour activities Malory intake is usually not necessary,
+During sub one hour activities calorie intake is usually not necessary,
 as long as the workout is followed by a proper meal.
 However, if the effort is longer than that, calorie consumption should start
-in the first hour!
+in the first hour already!
 The body is only able to process sugars and restore the glycogen stores at a
 certain pace.
 If the exertion is continued past the point of empty glycogen stores, we speak of
@@ -52,7 +53,7 @@ Also for bike trips where it is not possible to pack a week worth of nutrition,
 exceptions can be necessary.
 I would then suggest to at least pack some electrolyte powder and do some research on where
 to refill on energy-bars like [these ones](https://handla.ica.se/handla/produkt/frukt-och-notbar-kakao-50g-ica-gott-liv-id_p_7318690116530),
-that contain simple ingredients.
+which contain simple ingredients.
 
 ![Fruit Nut Bar Ingredients](/assets/img/blog/sustainable-endurance-nutrition/fruit-nut-bar-ingredients.jpg){:class="blog-post-img-small"}
 
@@ -106,25 +107,26 @@ I source the main ingredients for these mixes from [bulk.com](https://www.bulk.c
 Their packaging for the [maltodextrin](https://www.bulk.com/uk/maltodextrin.html),
 [dextrose](https://www.bulk.com/uk/dextrose.html) and [electrolyte powder](https://www.bulk.com/uk/electrolyte-powder.html), I buy from them,
 is [home-compostable](https://www.bulk.com/uk/the-core/our-planet-sustainability-at-bulk/).
-While the mixture work well for me but your stomach might react differently.
-So definitely try out different mixtures before you go on all day adventures or order
-multiple kilograms worth of ingredients.
+These ingredients works well for me but your stomach might react differently.
+So I'd recommend to try out different mixtures before going on all day adventures or ordering multiple kilograms worth of ingredients.
 
 ![Bulk Ingredients](/assets/img/blog/sustainable-endurance-nutrition/bulk-ingredients.jpg){:class="blog-post-img-small"}
 
-I experimented with freeze-dried fruit powders in the bottles.
+Additionally, I experimented with freeze-dried fruit powders in the bottles.
 Three grams of
 [wild-blueberry-powder](https://www.rawfoodshop.se/blabarspulver-frystorkat-eko-100g.html)
 or five grams of
 [mango-powder](https://www.rawfoodshop.se/mangopulver-frystorkat-eko-100g.html)
 turned out to be a good amount
 for a 600ml bottle with 40 grams of sugar.
-But I don't find the taste of just the sugar and electrolytes too off-putting either.
-So it really is a treat.
+But I don't find the taste of just the sugar and electrolytes too off-putting either
+and probably won't keep adding them.
+<strong>Be aware</strong> that not all freeze-dried fruit powders mix well with water.
+For instance, I bought Mangosteen powder, which does not mix well in the bottles.
 
 # Home made energy-bars
 
-I wanted these to be healthy, easy to prepare, easy to carry in the jersey
+I wanted these to be "healthy", easy to prepare, easy to carry in the jersey
 pockets and easy to eat while riding.
 While some of these properties depends on the packaging, the recipe really could not
 be any simpler.
@@ -135,7 +137,7 @@ I eyeball these, so just take these mixtures as examples.
 (There is a bonus example further down)
 These bars are really difficult to fuck up, as long as the water is added little by little.
 For real recipes check out [GCN's video](https://youtu.be/qpO3w5-Hi8c) on how to prepare
-some classic rice cakes and date balls.
+some classic rice cakes and date balls. (Not so whole food recipes though)
 
 The mixture in the pictures ended up containing:
 * 150g Oats
@@ -168,10 +170,14 @@ bars shall have in the end.
 I set the oven to 180 °C and put the dish in for 30 minutes without pre-heating.
 My oven is pretty crappy, so maybe start with 20 minutes and give them a bit longer
 if needed?
+
+How long they should stay in the oven will depend a lot on how juicy the bars shall be.
+Sometimes I even flip the block over and give it some more time from the other side
+for an even dryer end result.
  
 ![Bars Baked](/assets/img/blog/sustainable-endurance-nutrition/bars-baked.jpg){:class="blog-post-img-small"}
 
-Afterwards I let the block cool a bit, cut it into bars, package them and
+Afterwards I let the block cool a bit, cut it into bars, package the bars and
 put them into the fridge to be consumed over the next two days.
 I have not tried freezing them yet but the packaging I use can actually be frozen,
 so that could be worth a try.
@@ -194,6 +200,11 @@ energy-bars and was my main source of calories during a 360km ride (15 hours).
 This is the part I am not 100% happy with yet.
 I tried to find some reusable water and air tight packaging and ended up with these
 [IKEA ISTAD](https://www.ikea.com/us/en/p/istad-resealable-bag-50485919/) bags.
+
+Especially for the sake of having a solution that I can share with others, I tried to find
+a solution that is widely available.
+While you might think of IKEA what you want, it's very likely that the audience of this
+blog post has one not too far away.
 
 ![Plastic Bags](/assets/img/blog/thumbnails/sustainable-endurance-nutrition.png){:class="blog-post-img-small"}
 
@@ -220,5 +231,9 @@ All of the bags' zippers did not work as well after the first cleaning.
 I will update the blog post once I found a better solution for packaging.
 Could a bio-degradable single use solution (like bio-degradable parchment paper)
 be more eco-friendly?
+
+I also wonder how the added packaging, that is produced for me to buy the base 
+ingredients for the bars in the store, compares to the added single use packaging
+of bars that are produced in a factory.
 
 To be continued...
