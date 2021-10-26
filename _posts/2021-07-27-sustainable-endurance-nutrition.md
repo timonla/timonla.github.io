@@ -3,7 +3,7 @@ layout: post
 title: "Sustainable endurance nutrition"
 subtitle: "Cutting out packaging, artificial sweeteners and other bullshit from my endurance nutrition while saving money"
 date: 2021-07-27
-edited: 2021-08-29
+edited: 2021-10-26
 permalink: "/blog/sustainable-endurance-nutrition/"
 thumbnail: "/assets/img/blog/thumbnails/sustainable-endurance-nutrition.png"
 hidden: false
@@ -45,8 +45,8 @@ which can result in negative training effects.
 Now one might ask "what is the problem with the millions of bottle-mixes and energy-bars
 out there?"
 Well, here are some points on what is bugging me with these products.
-Maybe I simply have not found the brand that aligns with my values yet but now that I have 
-looked into topic it does not matter anyways. 😀
+Maybe I simply have not found the brand that aligns with my values yet, but now that I have 
+looked into topic, it does not matter anyways. 😀
 
 Most of these points are not that big of an issue for the occasional longer ride.
 Also for bike trips where it is not possible to pack a week worth of nutrition,
@@ -128,7 +128,7 @@ For instance, I bought Mangosteen powder, which does not mix well in the bottles
 
 I wanted these to be "healthy", easy to prepare, easy to carry in the jersey
 pockets and easy to eat while riding.
-While some of these properties depends on the packaging, the recipe really could not
+While some of these properties depend on the packaging, the recipe really could not
 be any simpler.
 
 ## "Recipe"
