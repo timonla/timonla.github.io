@@ -16,10 +16,25 @@ while learning it.
 
 * `gem install bundler jekyll`
 
-* `bundle init`
+* `bundle install`
+
+### Local setup in Ubuntu terminal with [rbenv](https://github.com/rbenv/rbenv#installing-ruby-versions)
+
+* `sudo apt-get remove ruby ruby-dev`
+
+* `sudo apt install rbenv`
+
+* `rbenv init` and reopen terminal
+
+* `rbenv install -l` and choose wanted version
+
+* `rbenv local [the version you chose in the step above]`
+
+* `gem install bundler jekyll`
 
 * `bundle install`
 
-* To run the site locally
+### To run the site locally
+
 `bundle exec jekyll serve --trace`
 will provide the page at `localhost:4000`.
