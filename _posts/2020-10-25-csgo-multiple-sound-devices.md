@@ -3,11 +3,15 @@ layout: post
 title: "Setup Multiple Sound Devices in CS:GO"
 subtitle: "How to setup your CS:GO audio settings if your headphones and mic are connected to different audio devices"
 date: 2020-10-25
-edited: 2020-10-26
+edited: 2023-08-18
 permalink: "/blog/csgo-multiple-sound-devices/"
 thumbnail: "/assets/img/blog/thumbnails/csgo-multiple-sound-devices.png"
-hidden: false
+hidden: true
 ---
+
+UPDATE: This solution was just a fluke.
+CS:GO will use your windows default communication audio device
+for the microphone and whatever you set in game for the sound.
 
 If you are reading this, you likely bought yourself a fancy new standalone microphone, which you need
 to connect to your computer in a differnt way, for example *3.5mm* vs USB, than your headphones.
