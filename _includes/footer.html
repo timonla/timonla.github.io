@@ -1,49 +1,58 @@
 <footer>
-    <!-- https://stackoverflow.com/a/688228 -->
-    <script type="text/javascript">
-        // Wait for the page to load first
-        window.onload = function() {
+  <!-- https://stackoverflow.com/a/688228 -->
+  <script type="text/javascript">
+    // Wait for the page to load first
+    window.onload = function () {
+      //Get a reference to the link on the page
+      // with an id of "mylink"
+      var a = document.getElementById("email-link");
 
-          //Get a reference to the link on the page
-          // with an id of "mylink"
-          var a = document.getElementById("email-link");
-
-          //Set code to run when the link is clicked
-          // by assigning a function to "onclick"
-          a.onclick = function() {
-            var copyText = document.createElement("textarea");
-            copyText.value = "timon.lapawczyk@gmail.com";
-            if (confirm("Do you want to copy my e-mail address to your clipboard?")) {
-                document.body.appendChild(copyText);
-                copyText.select();
-                document.execCommand("copy");
-                document.body.removeChild(copyText);
-                alert("Copied " + copyText.value + " to your clipboard.");
-            }
-            return false;
-          }
+      //Set code to run when the link is clicked
+      // by assigning a function to "onclick"
+      a.onclick = function () {
+        var copyText = document.createElement("textarea");
+        copyText.value = "timon.lapawczyk@gmail.com";
+        if (
+          confirm("Do you want to copy my e-mail address to your clipboard?")
+        ) {
+          document.body.appendChild(copyText);
+          copyText.select();
+          document.execCommand("copy");
+          document.body.removeChild(copyText);
+          alert("Copied " + copyText.value + " to your clipboard.");
         }
-    </script>
-    <ul>
-        <li>
-            <a id="email-link" href="">
-                <i class="far fa-envelope fa-lg"></i>
-            </a>
-        </li>
-        <li>
-            <a target="_blank" href="https://www.linkedin.com/in/timon-lapawczyk-2b5bb9150">
-                <i class="fab fa-linkedin fa-lg"></i>
-            </a>
-        </li>
-        <li>
-            <a target="_blank" href="https://github.com/timonla">
-                <i class="fab fa-github fa-lg"></i>
-            </a>
-        </li>
-        <li>
-            <a target="_blank" href="https://www.youtube.com/user/Timonius93">
-                <i class="fab fa-youtube fa-lg"></i>
-            </a>
-        </li>
-    </ul>
+        return false;
+      };
+    };
+  </script>
+  <ul>
+    <li>
+      <a id="email-link" href="">
+        <i class="far fa-envelope fa-lg"></i>
+      </a>
+    </li>
+    <li>
+      <a
+        target="_blank"
+        href="https://www.linkedin.com/in/timon-lapawczyk-2b5bb9150"
+      >
+        <i class="fab fa-linkedin fa-lg"></i>
+      </a>
+    </li>
+    <li>
+      <a target="_blank" href="https://github.com/timonla">
+        <i class="fab fa-github fa-lg"></i>
+      </a>
+    </li>
+    <li>
+      <a target="_blank" href="https://www.youtube.com/user/Timonius93">
+        <i class="fab fa-youtube fa-lg"></i>
+      </a>
+    </li>
+    <li>
+      <a target="_blank" href="https://www.instagram.com/timonidius">
+        <i class="fab fa-instagram fa-lg"></i>
+      </a>
+    </li>
+  </ul>
 </footer>
