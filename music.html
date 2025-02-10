@@ -1,0 +1,64 @@
+---
+layout: page
+title: "Music"
+description: "Where to find my music"
+url: "/music/"
+---
+
+<h1>Music</h1>
+
+<div class="hero-paragraph">
+  {% capture about %}{% include music.md %}{% endcapture %} {{ about |
+  markdownify }}
+</div>
+
+<h2>Latest Release</h2>
+
+<iframe
+  width="100%"
+  height="150"
+  src="https://odesli.co/embed/?url=https%3A%2F%2Fsong.link%2Fi%2F1762795609&theme=dark"
+  frameborder="0"
+  allowfullscreen
+  sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox"
+  allow="clipboard-read; clipboard-write"
+  class="song-link"
+></iframe>
+
+<h2>Popular streaming platforms</h2>
+
+<div class="music-links">
+  <div class="music-link">
+    <a
+      href="https://open.spotify.com/artist/6RYmvgTghGSffmKqdlpOCZ?si=GsSWmyOMTbquvC0iODmK5Q"
+      ><i class="fab fa-spotify"></i
+    ></a>
+    <p>Spotify</p>
+  </div>
+  <div class="music-link">
+    <a href="https://music.apple.com/en/artist/timon-lapawczyk/1746179737"
+      ><i class="fab fa-apple"></i
+    ></a>
+    <p>Apple Music</p>
+  </div>
+  <div class="music-link">
+    <a
+      href="https://music.youtube.com/channel/UC2EKFpmK5hM3tEQicHyvULg?si=vZKoQUEc5x41ecfL"
+      ><i class="fab fa-youtube"></i
+    ></a>
+    <p>YouTube Music</p>
+  </div>
+  <div class="music-link">
+    <a href="https://tidal.com/browse/artist/47767210"
+      ><i class="fas fa-music"></i
+    ></a>
+    <p>Tidal</p>
+  </div>
+  <div class="music-link">
+    <a
+      href="https://music.amazon.com/artists/B0D455YT4X/timon-lapawczyk?marketplaceId=A1RKKUPIHCS9HS"
+      ><i class="fab fa-amazon"></i
+    ></a>
+    <p>Amazon Music</p>
+  </div>
+</div>

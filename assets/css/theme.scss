@@ -42,6 +42,7 @@ nav {
     text-transform: uppercase;
     margin-right: 0;
     margin-left: auto;
+    gap: 20px;
 }
 
 .navbar-toggler {
@@ -308,10 +309,6 @@ table {
     margin-top: 0.3125rem;
 }
 
-.about-container {
-    max-width: 700px;
-}
-
 .highlighter-rouge .highlight .rouge-table .rouge-gutter,
 .highlighter-rouge .highlight .rouge-table .rouge-code {
   border: 0 !important;
@@ -337,4 +334,36 @@ table {
     .nf {
         color: #DCCD79;
     }
+}
+
+.music-links {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+}
+
+.music-link {
+  text-align: center;
+  margin: 20px;
+}
+
+.music-link a {
+  text-decoration: none;
+  color: #000;
+  font-size: 50px;
+}
+
+.music-link p {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.song-link {
+  margin-top: 20px;
+}
+
+.hero-paragraph {
+  display: inline-block;
 }

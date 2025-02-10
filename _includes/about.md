@@ -1,4 +1,4 @@
-<img class="profile-picture" src="../assets/img/home-profile-picture-square.png"/>
+<img class="profile-picture" src="../assets/img/home-profile-picture-square.png" alt="Profile picture"/>
 
 My name is Timon and I am a computer scientist and avid cyclist from Berlin.
 
