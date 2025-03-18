@@ -6,7 +6,7 @@ date: 2020-10-10
 edited: 2021-08-29
 permalink: "/blog/diet-review-2020/"
 thumbnail: "/assets/img/blog/thumbnails/diet-review-2020.png"
-hidden: false
+hidden: true
 ---
 
 My diet is a topic of high importance for me.
@@ -19,9 +19,9 @@ While one week of data can hardly summarize an entire diet, I think my daily rep
 on how I try to cover my calorie and nutrient needs and the staples of my diet.
 The results for this particular week indicate that there are very few nutrients on which I could
 focus a bit more and I discuss different solutions to possible shortcomings.
-In terms of cost, I come to the conclusion that I should be able to get *3625* calories per day for
-about *4200SEK* per month, sourcing primarily organic ingredients, in Gothenburg Sweden.
-Of course *3625* calories are a lot for the average person, so a similar diet without as much exercise
+In terms of cost, I come to the conclusion that I should be able to get _3625_ calories per day for
+about _4200SEK_ per month, sourcing primarily organic ingredients, in Gothenburg Sweden.
+Of course _3625_ calories are a lot for the average person, so a similar diet without as much exercise
 would be considerably more affordable.
 For additional cost savings I mention a few improvement opportunities which I plan to implement
 in the future. I hope I can give an update on that went soon.
@@ -37,7 +37,7 @@ The use of any information provided in this post is solely at your own risk.
 ### About this post
 
 The idea of making this review public is to share my day to day experience with my diet in great detail.
-I receive questions on inspiration for my diet on a regular basis but with most *"What I eat in a day"* kind of
+I receive questions on inspiration for my diet on a regular basis but with most _"What I eat in a day"_ kind of
 content on social media only showing the glorious parts of a diet, or not being detailed enough, it is difficult
 to really recommend anything.
 Now I have a snapshot of my diet to refer to, when trying to make a point for the affordability
@@ -51,22 +51,24 @@ or having to compromise on non-organic food.
 
 #### Labels of my diet
 
-This is by no means a *final* list but at the time of writing this:
-* My diet is plant based
-* I try to eat as many *whole foods*/*unprocessed foods* as possible
-* I avoid gluten if possible
-* I don't consume alcohol (apart from my vitamin B12 drops)
-* I avoid caffeine
-* I avoid salt if possible
-* I avoid oil
-* I try to not eat too much fat
+This is by no means a _final_ list but at the time of writing this:
+
+- My diet is plant based
+- I try to eat as many _whole foods_/_unprocessed foods_ as possible
+- I avoid gluten if possible
+- I don't consume alcohol (apart from my vitamin B12 drops)
+- I avoid caffeine
+- I avoid salt if possible
+- I avoid oil
+- I try to not eat too much fat
 
 If you are interested in some more inspiration on similar diets I can highly recommend:
-* Dr. Greger's Book [HOW NOT TO DIE](https://nutritionfacts.org/book/how-not-to-die/) as well as
-[NutritionalFacts.org](https://nutritionfacts.org/) in general
-* Simnett Nutrition's [YouTube Channel](https://www.youtube.com/channel/UCpyhJZhJQWKDdJCR07jPY-Q)
-* Mic the Vegan's [YouTube Channel](https://www.youtube.com/channel/UCGJq0eQZoFSwgcqgxIE9MHw)
-* The Vegan Corner [YouTube Channel](https://www.youtube.com/user/thevegancorner)
+
+- Dr. Greger's Book [HOW NOT TO DIE](https://nutritionfacts.org/book/how-not-to-die/) as well as
+  [NutritionalFacts.org](https://nutritionfacts.org/) in general
+- Simnett Nutrition's [YouTube Channel](https://www.youtube.com/channel/UCpyhJZhJQWKDdJCR07jPY-Q)
+- Mic the Vegan's [YouTube Channel](https://www.youtube.com/channel/UCGJq0eQZoFSwgcqgxIE9MHw)
+- The Vegan Corner [YouTube Channel](https://www.youtube.com/user/thevegancorner)
 
 I am not a great cook and don't have a lot of recipes to share.
 I usually think of all the ingredients I would like to eat and then assemble a random dish using them.
@@ -79,7 +81,7 @@ While doing so they let you know their secrets on how to utilize certain ingredi
 for breathtaking vegan and mostly whole food meals.
 
 My approach has worked fine for me in the past years.
-I always like my food, since when it's prepared with only delicious ingredients, why shouldn't the end result 
+I always like my food, since when it's prepared with only delicious ingredients, why shouldn't the end result
 be delicious as well? :)
 
 #### Review process
@@ -89,14 +91,15 @@ So there was not as much meal prep going on, as it might have been half a year a
 However, considering the situation in the world right now, it's probably not as relevant as it used to be either.
 
 For every day, I logged:
-* Time of waking up
-* Time of going to bed
-* Starting time of every food preparation
-* Starting time of every meal
-* Photo of every meal
-* Some more notes on the food choices
-* Amount of every ingredient used (spices only as week total)
-* Price in EUR and SEK for every ingredient in Gothenburg/Sweden
+
+- Time of waking up
+- Time of going to bed
+- Starting time of every food preparation
+- Starting time of every meal
+- Photo of every meal
+- Some more notes on the food choices
+- Amount of every ingredient used (spices only as week total)
+- Price in EUR and SEK for every ingredient in Gothenburg/Sweden
 
 I used [this scale](https://www.amazon.de/gp/product/B017NZNKYW/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1),
 which is not super accurate when it comes to single gram differences.
@@ -164,7 +167,7 @@ daily.
 
 Living in Sweden it's pretty much impossible to consistently get my
 Vitamin D3 dose any time of the year.
-So I take Vitamin D3 drops year round with Vitamin K2 mainly to boost 
+So I take Vitamin D3 drops year round with Vitamin K2 mainly to boost
 the D3 absorption.
 
 I am using these [Vitamin D3+K2 drops](https://www.nature-love.de/products/vitamin-d3-k2-tropfen-50ml-mit-25mcg-d3-20mcg-k2-pro-tropfen?variant=20503430135911).
@@ -295,7 +298,7 @@ I add banana or frozen mango, mainly for taste and extra calories.
 I recently came off my Oatly chocolate drink addiction, which I used to always have in my oat meal.
 Since then I experimented with hemp seeds, almond flour and coconut flakes combinations with cocoa
 powder and water to replace it.
-I am able to cut out more of week by week, as my taste buds slowly forget the processed aroma glory 
+I am able to cut out more of week by week, as my taste buds slowly forget the processed aroma glory
 of the chocolate drink.
 
 Last but not least a sprinkle of cinnamon (Ceylon) and some other source of nuts goes on top.
@@ -387,10 +390,10 @@ Firstly, they are a great, quick and gluten free alternative to bread.
 
 A few go-to toppings are:
 
-* Peanut butter, cinnamon and bananas or dates
-* Peanut butter, pickles and mustard (yes, I am serious)
-* Bean spread, onions and pickles
-* Some condiment, tofu, onions, pickles
+- Peanut butter, cinnamon and bananas or dates
+- Peanut butter, pickles and mustard (yes, I am serious)
+- Bean spread, onions and pickles
+- Some condiment, tofu, onions, pickles
 
 ... I really like pickles but I also use sauerkraut of kimchi some times.
 
@@ -512,7 +515,7 @@ I craved some soup.
 So I cut everything into small pieces, put it into the pot and boiled it until the potatoes
 had the desired softness.
 The beet root will be still a bit crunchy.
-Eating too raw beet root is not for the light-hearted so make sure that you taste some of it before 
+Eating too raw beet root is not for the light-hearted so make sure that you taste some of it before
 turning off the stove.
 As spices I added basil, ginger, turmeric some vegetable broth and smoked paprika.
 Because I did not want to cook the tomatoes forever I added some bicarbonate,
@@ -642,7 +645,7 @@ I still think it's good practice to always have a large amount of bananas at you
 You will be able to eat them when they are at their sweetest and if they at some point get too ripe,
 you can just freeze them in smaller pieces.
 Frozen bananas are excellent for smoothies or nice cream.
-Also you can ensure to always have a *banana for size* at hand, if you take a photo of a big spider or something.
+Also you can ensure to always have a _banana for size_ at hand, if you take a photo of a big spider or something.
 
 ![Banana Stash](/assets/img/blog/diet-review/bananas-old-days.jpg){:class="blog-post-img-small"}
 
@@ -979,7 +982,7 @@ I find that 60g of cashews will be fine for 12 tacos (1 can of jack fruit).
 If you are eating tacos and are not preparing your own tortillas, you are doing it wrong.
 Just get the corn masa (has to be the [nixtamalizado stuff](https://www.naturelo.com.mx/ing/maizazul.php))
 and mix it with water, form balls from it
-(I find 33g to be result the perfect *3 bite taco* size) and then press them into shape
+(I find 33g to be result the perfect _3 bite taco_ size) and then press them into shape
 in a plastic bag between two flat surfaces (a pot and the kitchen counter worked fine here).
 
 A good mixture of flour and water today was 265ml of water for the 180g of flour and resulted
@@ -1276,7 +1279,7 @@ and rice, beans and co. at [RAPUNZEL](https://shop.rapunzel.de/) and [prohviant]
 
 It might be interesting to do a recalculation once I have optimized where I source
 my food from.
-However, it would require extra work, since I did not use a spreadsheet for the calculations. 🤦‍ 
+However, it would require extra work, since I did not use a spreadsheet for the calculations. 🤦‍
 
 If I do something similar again I will definitely track everything in
 a spreadsheet instead of taking notes in a markdown file and doing calculations by hand.
@@ -1299,33 +1302,33 @@ One week would not be representative enough for this though.
 
 ### Since the experiment
 
-* With the first grocery shopping after the experiment I started using almond
-butter in my oat meal instead of peanut butter.
+- With the first grocery shopping after the experiment I started using almond
+  butter in my oat meal instead of peanut butter.
 
-* I removed the coconut flakes from my oat meal.
+- I removed the coconut flakes from my oat meal.
 
-* I am thinking about checking my Omega-3 index to see how good my absorption from the
-flax seeds is and if my body is actually able to convert it to DHA and EPA or if I should
-supplement it.
-I also want to try to sprout the flax seeds instead of consuming them
-grounded in the oat meal.
-That is supposed to improve the bio-availability.
+- I am thinking about checking my Omega-3 index to see how good my absorption from the
+  flax seeds is and if my body is actually able to convert it to DHA and EPA or if I should
+  supplement it.
+  I also want to try to sprout the flax seeds instead of consuming them
+  grounded in the oat meal.
+  That is supposed to improve the bio-availability.
 
-* I bought some brazil nuts and am consuming them daily for the Selenium.
+- I bought some brazil nuts and am consuming them daily for the Selenium.
 
-* I updated my supplement selection. (Details in the supplement section)
+- I updated my supplement selection. (Details in the supplement section)
 
-* I started weighing the flax seeds and try to not consume all of them in the same
-meal.
-I have 25g in my oat meal and maybe some more during the rest of the day.
-I started doing this after reading on the packaging that 40g is the maximum
-recommended daily intake and noticing that smaller amounts at once lead to
-slightly less bloating.
+- I started weighing the flax seeds and try to not consume all of them in the same
+  meal.
+  I have 25g in my oat meal and maybe some more during the rest of the day.
+  I started doing this after reading on the packaging that 40g is the maximum
+  recommended daily intake and noticing that smaller amounts at once lead to
+  slightly less bloating.
 
-* I started buying all my spices at [pikantum](https://www.pikantum.de/) which was one
-of the best culinary changes I ever made.
-The spices taste much better than anything I used to buy at local stores, are significantly 
-cheaper and packaged in less plastic.
+- I started buying all my spices at [pikantum](https://www.pikantum.de/) which was one
+  of the best culinary changes I ever made.
+  The spices taste much better than anything I used to buy at local stores, are significantly
+  cheaper and packaged in less plastic.
 
 ### Price List
 
@@ -1408,4 +1411,3 @@ So I took the price and the link of the next chili powder that I am going to buy
 |Champignons|ICA|✔️|1.57|16.48|100g
 |Shiitake Mushrooms|ICA|✔️|2.8|29.3|100g
 |Oyster Mushrooms|ICA|✔️|2.86|29.97|100g
-
