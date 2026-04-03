@@ -34,6 +34,20 @@ while learning it.
 
 * `bundle install`
 
+### Local setup on MacOS
+
+* `brew install rbenv ruby-build`
+
+* `eval "$(rbenv init - zsh)"` (add to ~/.zshrc)
+
+* `rbenv install 3.2.11`
+
+* `rbenv local 3.2.11`
+
+* `gem install bundler jekyll`
+
+* `bundle install`
+
 ### To run the site locally
 
 `bundle exec jekyll serve --trace`
