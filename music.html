@@ -57,7 +57,7 @@ url: "/music/"
     not made it to streaming platforms yet.
   </p>
 
-  {% assign unreleased_tracks = site.data.unreleased | sort: "sort_key" | reverse %}
+  {% assign unreleased_tracks = site.data.unreleased | sort: "order" %}
   <div class="unreleased-tracks">
     {% for track in unreleased_tracks %}
       {% assign track_date = track.date | append: "-01" %}
@@ -65,7 +65,7 @@ url: "/music/"
         <div class="unreleased-track-heading">
           <h3>{{ track.title }}</h3>
           <time datetime="{{ track.date }}">
-            {{ track_date | date: "%B %Y" }}
+            {{ track_date | date: "%m/%Y" }}
           </time>
         </div>
         <div class="unreleased-track-player" data-soundcloud-player>
@@ -97,9 +97,9 @@ url: "/music/"
               <i class="fab fa-soundcloud" aria-hidden="true"></i>
             </a>
             <a
-              href="https://drive.google.com/uc?export=download&amp;id={{ track.file_id }}"
-              download
-              referrerpolicy="no-referrer"
+              href="https://soundcloud.com/timon-lapawczyk/{{ track.title | slugify }}/download"
+              target="_blank"
+              rel="noopener noreferrer"
               aria-label="Download {{ track.title }}"
             >
               <i class="fas fa-download" aria-hidden="true"></i>
