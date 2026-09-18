@@ -25,7 +25,7 @@ url: "/music/"
   class="song-link"
 ></iframe>
 
-<h2>Popular streaming platforms</h2>
+<h2>Streaming platforms</h2>
 
 <div class="music-links">
   <div class="music-link">
@@ -62,3 +62,77 @@ url: "/music/"
     <p>Amazon Music</p>
   </div>
 </div>
+
+<section class="unreleased-music">
+  <h2>Unreleased Music</h2>
+  <p>
+    Here are some more finished or almost finished pieces of music, that have
+    not made it to streaming platforms yet.
+  </p>
+
+  {% assign unreleased_tracks = site.data.unreleased | sort: "sort_key" | reverse %}
+  <div class="unreleased-tracks">
+    {% for track in unreleased_tracks %}
+      {% assign track_date = track.date | append: "-01" %}
+      <article class="unreleased-track">
+        <div class="unreleased-track-heading">
+          <h3>{{ track.title }}</h3>
+          <time datetime="{{ track.date }}">
+            {{ track_date | date: "%B %Y" }}
+          </time>
+        </div>
+        <div class="unreleased-track-player" data-soundcloud-player>
+          <button
+            class="unreleased-track-toggle"
+            type="button"
+            aria-label="Play {{ track.title }}"
+            disabled
+          >
+            <i class="fas fa-play" aria-hidden="true"></i>
+          </button>
+          <input
+            class="unreleased-track-progress"
+            type="range"
+            min="0"
+            max="100"
+            step="0.1"
+            value="0"
+            aria-label="Seek in {{ track.title }}"
+            disabled
+          />
+          <div class="unreleased-track-actions">
+            <a
+              href="https://soundcloud.com/timon-lapawczyk/{{ track.title | slugify }}"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Open {{ track.title }} on SoundCloud"
+            >
+              <i class="fab fa-soundcloud" aria-hidden="true"></i>
+            </a>
+            <a
+              href="https://drive.google.com/uc?export=download&amp;id={{ track.file_id }}"
+              download
+              referrerpolicy="no-referrer"
+              aria-label="Download {{ track.title }}"
+            >
+              <i class="fas fa-download" aria-hidden="true"></i>
+            </a>
+          </div>
+          <div class="unreleased-track-times" aria-hidden="true">
+            <span data-elapsed>0:00</span>
+            <span data-duration>--:--</span>
+          </div>
+          <iframe
+            class="unreleased-track-widget"
+            title="{{ track.title }} SoundCloud player"
+            allow="autoplay"
+            src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ track.soundcloud_id }}&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=false"
+          ></iframe>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<script defer src="https://w.soundcloud.com/player/api.js"></script>
+<script defer src="{{ site.baseurl }}/assets/js/soundcloud-player.js"></script>
