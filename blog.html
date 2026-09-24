@@ -1,0 +1,31 @@
+---
+layout: page
+description: "Welcome to my webpage"
+permalink: /blog/
+---
+
+{% assign posts = paginator.posts | default: site.posts %}
+
+{% assign active-posts = posts | where:"hidden",false %}
+
+
+{% for post in active-posts %}
+<article class="post-preview">
+    <a class="thumbnail-link" href="{{ post.url | prepend: site.baseurl }}">
+        <img class="post-thumbnail" src="{{ post.thumbnail }}" />
+    </a>
+    <a class="internal-link" href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">
+            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-date">
+        Posted on {{ post.date | date: "%-d %B %Y" }}
+    </p>
+</article>
+{% endfor %}

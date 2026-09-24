@@ -1,29 +1,74 @@
 ---
 layout: page
-description: "Welcome to my webpage"
+title: "About Me"
+description: "Some words about me, by me"
 ---
 
-{% assign posts = paginator.posts | default: site.posts %}
+<h1>About me</h1>
 
-{% assign active-posts = posts | where:"hidden",false %}
+<div class="hero-paragraph">
+  {% capture about %}{% include about.md %}{% endcapture %} {{ about |
+  markdownify }}
+</div>
 
-{% for post in active-posts %}
-<article class="post-preview">
-    <a class="thumbnail-link" href="{{ post.url | prepend: site.baseurl }}">
-        <img class="post-thumbnail" src="{{ post.thumbnail }}" />
-    </a>
-    <a class="internal-link" href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-    </a>
-    <p class="post-date">
-        Posted on {{ post.date | date: "%-d %B %Y" }}
-    </p>
-</article>
-{% endfor %}
+<h3>Short CV</h3>
+
+<p class="cv-bullet">
+  <i class="fas fa-dove cv-bullet-icon"></i>
+  Since spring 2025 I am fully focusing on my own products, which are mostly
+  related to cycling and making music.
+  My main focus these days is helping people share the stories behind their
+  amazing adventures and fitness achievements with <a href="https://kudoro.cc">Kudoro</a>.
+  You can find out more about what I am up to at <a href="https://klippros.com">klippros.com</a>.
+</p>
+
+<p class="cv-bullet">
+  <i class="far fa-building cv-bullet-icon"></i>
+  Until spring 2025 I worked as a full stack developer for
+  <a href="https://mantamarine.com/" )>Manta Marine</a>, where we aimed to save the
+  planet one ship at a time. Previously I worked as an application developer for
+  the Volvo Group.
+</p>
+
+<p class="cv-bullet">
+  <i class="fas fa-graduation-cap cv-bullet-icon"></i>
+  I got my Msc. in Computer Science at the Chalmers University of Technology in
+  Gothenburg, with a thesis about
+  <a href="https://odr.chalmers.se/bitstream/20.500.12380/256247/1/256247.pdf"
+    >invariant inference from tests in Boogie</a
+  >. Before that I got my Bsc. in Computer Science at Humboldt University of
+  Berlin with a thesis about
+  <a href="/assets/pdf/bachelor-thesis.pdf"
+    >the formal verification of heap algorithms using Frama-C</a
+  >.
+</p>
+
+<p class="cv-bullet">
+  <i class="fas fa-laptop-code cv-bullet-icon"></i>
+  In April 2019 my brother and I launched a
+  <a href="https://github.com/flashkillapp/flashkill">browser extension</a>
+  for a German Counter Strike league platform. We provide seamlessly integrated
+  statistics that save our
+  <b>3000+</b> users hours upon hours of their precious time.
+</p>
+
+<p class="cv-bullet">
+  <i class="fas fa-map-marker-alt cv-bullet-icon"></i>
+  I am originally from Berlin, but have my home base in Gothenburg since 2016.
+  These days I am full time traveling around Europe in my van, enjoying the best cycling
+  locations.
+</p>
+
+<p class="cv-bullet">
+  <i class="fas fa-tree cv-bullet-icon"></i>
+  Among my other interests are minimalism, bio-hacking, self improvement,
+  veganism, writing music, which I occasionally publish and cooking.
+  You can find my music on <a href="https://timonla.github.io/music">my music page</a>.
+</p>
+
+<hr />
+
+<a
+  href="https://docs.google.com/document/u/0/export?format=pdf&id=1OjRL2q4YxIWL3_YvbtYi2Wc4CkkZhnxXuYv37m5q1Ss&token=AC4w5VjVKRY_EWFbTvq8bn8TEwk0ViKN_A:1578322886449&ouid=117617274233635073480&includes_info_params=true"
+  >Full️ resume</a
+>
