@@ -14,16 +14,42 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
+        {% assign current_url = page.url | default: '/' %}
+        {% assign is_about = false %}
+        {% if current_url == '/' or current_url == '/index.html' %}
+          {% assign is_about = true %}
+        {% endif %}
+        {% assign is_blog = false %}
+        {% if current_url == '/blog/' or current_url == '/blog/index.html' or page.layout == 'post' %}
+          {% assign is_blog = true %}
+        {% endif %}
+
         <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl }}/">About Me</a>
+          <a
+            class="nav-link{% if is_about %} is-active{% endif %}"
+            href="{{ site.baseurl }}/"
+            {% if is_about %}aria-current="page"{% endif %}
+          >About Me</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl }}/blog/">Blog</a>
+          <a
+            class="nav-link{% if is_blog %} is-active{% endif %}"
+            href="{{ site.baseurl }}/blog/"
+            {% if is_blog %}aria-current="page"{% endif %}
+          >Blog</a>
         </li>
-        {% for page in site.pages %}
-        {% if page.title and page.url != '/' %}
+        {% for nav_page in site.pages %}
+        {% if nav_page.title and nav_page.url != '/' and nav_page.url != '/blog/' %}
+        {% assign is_current = false %}
+        {% if current_url == nav_page.url %}
+          {% assign is_current = true %}
+        {% endif %}
         <li class="nav-item">
-          <a class="nav-link" href="{{ page.url }}">{{ page.title }}</a>
+          <a
+            class="nav-link{% if is_current %} is-active{% endif %}"
+            href="{{ nav_page.url | relative_url }}"
+            {% if is_current %}aria-current="page"{% endif %}
+          >{{ nav_page.title }}</a>
         </li>
         {% endif %}
         {% endfor %}

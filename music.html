@@ -5,14 +5,8 @@ description: "Where to find my music"
 url: "/music/"
 ---
 
-<h1>Music</h1>
-
-<div class="hero-paragraph">
-  {% capture about %}{% include music.md %}{% endcapture %} {{ about |
-  markdownify }}
-</div>
-
-<h2>Streaming platforms</h2>
+{% capture about %}{% include music.md %}{% endcapture %} {{ about |
+markdownify }}
 
 <div class="music-links">
   <div class="music-link">

@@ -4,71 +4,575 @@ title: "About Me"
 description: "Some words about me, by me"
 ---
 
-<h1>About me</h1>
-
-<div class="hero-paragraph">
-  {% capture about %}{% include about.md %}{% endcapture %} {{ about |
-  markdownify }}
+<div class="about-header">
+   <h1>Timon Lapawczyk</h1>
+   <h4>Software Engineer & Builder</h4>
 </div>
 
-<h3>Short CV</h3>
+<section>
+   <p>
+    I like figuring things out.
+    And when I encounter something I want to understand, improve, or create,
+    I tend to actually do something about it.
+   </p>
 
-<p class="cv-bullet">
-  <i class="fas fa-dove cv-bullet-icon"></i>
-  Since spring 2025 I am fully focusing on my own products, which are mostly
-  related to cycling and making music.
-  My main focus these days is helping people share the stories behind their
-  amazing adventures and fitness achievements with <a href="https://kudoro.cc">Kudoro</a>.
-  You can find out more about what I am up to at <a href="https://klippros.com">klippros.com</a>.
-</p>
+   <p>
+    That's how I've ended up building software products, starting a company,
+    working across the stack, learning whatever I needed to know, and even
+    building the van I live in.
+   </p>
 
-<p class="cv-bullet">
-  <i class="far fa-building cv-bullet-icon"></i>
-  Until spring 2025 I worked as a full stack developer for
-  <a href="https://mantamarine.com/" )>Manta Marine</a>, where we aimed to save the
-  planet one ship at a time. Previously I worked as an application developer for
-  the Volvo Group.
-</p>
+   <p>
+     I'm a software engineer and product builder looking for interesting remote
+     work or consulting projects where I can take ownership,
+     solve problems and build things that people actually use.
+   </p>
+</section>
 
-<p class="cv-bullet">
-  <i class="fas fa-graduation-cap cv-bullet-icon"></i>
-  I got my Msc. in Computer Science at the Chalmers University of Technology in
-  Gothenburg, with a thesis about
-  <a href="https://odr.chalmers.se/bitstream/20.500.12380/256247/1/256247.pdf"
-    >invariant inference from tests in Boogie</a
-  >. Before that I got my Bsc. in Computer Science at Humboldt University of
-  Berlin with a thesis about
-  <a href="/assets/pdf/bachelor-thesis.pdf"
-    >the formal verification of heap algorithms using Frama-C</a
-  >.
-</p>
+<section>
 
-<p class="cv-bullet">
-  <i class="fas fa-laptop-code cv-bullet-icon"></i>
-  In April 2019 my brother and I launched a
-  <a href="https://github.com/flashkillapp/flashkill">browser extension</a>
-  for a German Counter Strike league platform. We provide seamlessly integrated
-  statistics that save our
-  <b>3000+</b> users hours upon hours of their precious time.
-</p>
+<div class="about-explorer" data-about-explorer>
+  <h2>Stuff I built</h2>
 
-<p class="cv-bullet">
-  <i class="fas fa-map-marker-alt cv-bullet-icon"></i>
-  I am originally from Berlin, but have my home base in Gothenburg since 2016.
-  These days I am full time traveling around Europe in my van, enjoying the best cycling
-  locations.
-</p>
+  <div class="about-explorer-rail" role="tablist" aria-label="Sections">
+    <button
+      type="button"
+      class="about-explorer-icon"
+      role="tab"
+      data-section="kudoro"
+      aria-controls="section-kudoro"
+      aria-selected="true"
+    >
+      <img
+        src="{{ site.baseurl }}/assets/img/kudoro-logo.png"
+        alt=""
+        width="64"
+        height="64"
+      />
+      <span class="about-explorer-icon-label">Kudoro</span>
+    </button>
+    <button
+      type="button"
+      class="about-explorer-icon"
+      role="tab"
+      data-section="the-van"
+      aria-controls="section-the-van"
+      aria-selected="false"
+    >
+      <img
+        src="{{ site.baseurl }}/assets/img/van-logo.png"
+        alt=""
+        width="64"
+        height="64"
+      />
+      <span class="about-explorer-icon-label">My Van</span>
+    </button>
+    <button
+      type="button"
+      class="about-explorer-icon"
+      role="tab"
+      data-section="komate"
+      aria-controls="section-komate"
+      aria-selected="false"
+    >
+      <img
+        src="{{ site.baseurl }}/assets/img/komate-logo.png"
+        alt=""
+        width="64"
+        height="64"
+      />
+      <span class="about-explorer-icon-label">Komate</span>
+    </button>
+    <button
+      type="button"
+      class="about-explorer-icon"
+      role="tab"
+      data-section="flashkill"
+      aria-controls="section-flashkill"
+      aria-selected="false"
+    >
+      <img
+        src="{{ site.baseurl }}/assets/img/flashkill-logo.png"
+        alt=""
+        width="64"
+        height="64"
+      />
+      <span class="about-explorer-icon-label">Flashkill</span>
+    </button>
+    <button
+      type="button"
+      class="about-explorer-icon"
+      role="tab"
+      data-section="manta-marine"
+      aria-controls="section-manta-marine"
+      aria-selected="false"
+    >
+      <img
+        src="{{ site.baseurl }}/assets/img/manta-logo.png"
+        alt=""
+        width="64"
+        height="64"
+      />
+      <span class="about-explorer-icon-label">Manta Marine</span>
+    </button>
+    <button
+      type="button"
+      class="about-explorer-icon about-explorer-icon--fa"
+      role="tab"
+      data-section="agent-driven-development"
+      aria-controls="section-agent-driven-development"
+      aria-selected="false"
+    >
+      <i class="fas fa-code" aria-hidden="true"></i>
+      <span class="about-explorer-icon-label">AI Coding</span>
+    </button>
+    <button
+      type="button"
+      class="about-explorer-icon about-explorer-icon--fa"
+      role="tab"
+      data-section="studies"
+      aria-controls="section-studies"
+      aria-selected="false"
+    >
+      <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+      <span class="about-explorer-icon-label">Studies</span>
+    </button>
+  </div>
 
-<p class="cv-bullet">
-  <i class="fas fa-tree cv-bullet-icon"></i>
-  Among my other interests are minimalism, bio-hacking, self improvement,
-  veganism, writing music, which I occasionally publish and cooking.
-  You can find my music on <a href="https://timonla.github.io/music">my music page</a>.
-</p>
+  <div class="about-explorer-panel">
+    <article
+      id="section-kudoro"
+      class="about-explorer-section"
+      data-section-panel="kudoro"
+      role="tabpanel"
+    >
+      <div class="about-explorer-title">
+        <span class="about-explorer-project-links">
+          <a
+            href="https://kudoro.cc"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i class="fas fa-link" aria-hidden="true"></i>
+            Homepage
+          </a>
+          <a
+            href="https://www.instagram.com/kudoro.cc/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i class="fab fa-instagram" aria-hidden="true"></i>
+            Instagram
+          </a>
+        </span>
+      </div>
 
-<hr />
+      <p>
+        Kudoro is a mobile app for overlaying Strava data on photos and videos,
+        with more than 1,500 users.
+        The project started as a simple live data overlay tool for cyclists because
+        the existing solutions were overcomplicated and expensive.
+        Since then, it has pivoted into an all-in-one visual editor for all sports,
+        focusing on summary overlays for activities, segments and training.
+      </p>
 
-<a
-  href="https://docs.google.com/document/u/0/export?format=pdf&id=1OjRL2q4YxIWL3_YvbtYi2Wc4CkkZhnxXuYv37m5q1Ss&token=AC4w5VjVKRY_EWFbTvq8bn8TEwk0ViKN_A:1578322886449&ouid=117617274233635073480&includes_info_params=true"
-  >Full️ resume</a
->
+      <p>
+        The tech stack consists of React Native, TypeScript, Expo, React Native Skia,
+        the Strava API, and native iOS and Android modules.
+      </p>
+
+      <p>
+        For this project I wear all the hats.
+        I make the product and technology decisions, design the UI, build and ship the app,
+        handle customer support, and do the marketing.
+        One of the biggest things I've learned is how important it is to balance technical
+        exploration and building features with actually shipping, talking to users and
+        getting the product in front of people.
+      </p>
+
+      <div class="about-explorer-embeds">
+        <div
+          class="about-explorer-embed"
+          data-instagram-permalink="https://www.instagram.com/p/DdepueoMIcg/"
+          data-instagram-label="Summary overlay Instagram reel"
+        >
+          <blockquote
+            class="instagram-media"
+            data-instgrm-permalink="https://www.instagram.com/p/DdepueoMIcg/"
+            data-instgrm-version="14"
+          >
+            <a
+              href="https://www.instagram.com/p/DdepueoMIcg/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >Summary overlay Instagram reel</a>
+          </blockquote>
+        </div>
+        <div
+          class="about-explorer-embed"
+          data-instagram-permalink="https://www.instagram.com/p/DaGZV7QswJo/"
+          data-instagram-label="Live overlay Instagram reel"
+        >
+          <blockquote
+            class="instagram-media"
+            data-instgrm-permalink="https://www.instagram.com/p/DaGZV7QswJo/"
+            data-instgrm-version="14"
+          >
+            <a
+              href="https://www.instagram.com/p/DaGZV7QswJo/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >Live overlay Instagram reel</a>
+          </blockquote>
+        </div>
+      </div>
+    </article>
+
+    <article
+      id="section-the-van"
+      class="about-explorer-section"
+      data-section-panel="the-van"
+      role="tabpanel"
+      hidden
+    >
+      <h2 class="visually-hidden">My Van</h2>
+
+      <p>
+        I built my home on wheels over 18 months, from the ground up, turning dreams
+        into SketchUp models, into reality.
+        The process had plenty of ups and downs, and I learned a lot of new skills
+        while overcoming unforeseen challenges along the way.
+      </p>
+
+      <p>
+        The van has been my full-time home for more than three years now, and has
+        enabled me to ride my bikes in some of the most beautiful places in Europe.
+      </p>
+
+      <p>
+        Building a van with as many requirements as I had, meant an endless stream of
+        compromises.
+        Today I have a compact, fully autonomous, stealth home on wheels, with a
+        proper kitchen, bathroom, and storage for two bikes, that serves as a rolling music
+        studio, office, and workshop.
+      </p>
+
+      <p>
+        It is pretty satisfying that all the planning paid off.
+        Even after living in it for more than three years, there are very few decisions
+        I would have made differently, knowing what I know today.
+      </p>
+
+      <div class="about-explorer-gallery">
+        <img
+          src="{{ site.baseurl }}/assets/img/van.gif"
+          alt="SketchUp model of the van build"
+          loading="lazy"
+        />
+        <img
+          src="{{ site.baseurl }}/assets/img/van1.jpg"
+          alt="Van conversion photo"
+          loading="lazy"
+        />
+        <img
+          src="{{ site.baseurl }}/assets/img/van2.jpg"
+          alt="Van conversion photo"
+          loading="lazy"
+        />
+        <img
+          src="{{ site.baseurl }}/assets/img/van3.jpg"
+          alt="Van conversion photo"
+          loading="lazy"
+        />
+      </div>
+
+      <div class="about-explorer-embeds">
+        <div
+          class="about-explorer-embed about-explorer-embed--video"
+          data-drive-id="1OTAGN7mgK0zd7Qaq3ZTTPq1lwlnhzDYp"
+          data-drive-label="Van instrument drawer video"
+        ></div>
+      </div>
+    </article>
+
+    <article
+      id="section-komate"
+      class="about-explorer-section"
+      data-section-panel="komate"
+      role="tabpanel"
+      hidden
+    >
+      <div class="about-explorer-title">
+        <span class="about-explorer-project-links">
+          <a
+            href="https://komate.app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i class="fas fa-link" aria-hidden="true"></i>
+            Homepage
+          </a>
+        </span>
+      </div>
+
+      <p>
+        The second React Native app I built, based on the Strava API, was
+        born out of my excitement for cycling fast up mountains.
+        My friends and I wanted to know how to pace our efforts up a climb
+        on a given day, and we wanted to do it with a simple UI using the only
+        true metric of greatness: Strava segments.
+      </p>
+
+      <p>
+        I built this project together with a non-technical co-founder and
+        was able to reuse a lot of knowledge from Kudoro.
+        The big challenge was designing a UI that stays simple to use while
+        still allowing the full complexity of our calculations, which combine
+        user data, physics and weather data.
+      </p>
+
+      <p>
+        The app is currently still in alpha testing within our friend groups,
+        but it has already helped us take a KOM or two.
+      </p>
+    </article>
+
+    <article
+      id="section-flashkill"
+      class="about-explorer-section"
+      data-section-panel="flashkill"
+      role="tabpanel"
+      hidden
+    >
+      <div class="about-explorer-title">
+        <span class="about-explorer-project-links">
+          <a
+            href="https://github.com/flashkillapp/flashkill"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i class="fab fa-github" aria-hidden="true"></i>
+            GitHub
+          </a>
+        </span>
+      </div>
+
+      <p>
+        Flashkill was a browser extension that enhanced the browsing experience on
+        a Counter-Strike league platform for more than 3,000 users.
+      </p>
+
+      <p>
+        I built this solution together with my brother.
+        As a user I was frustrated with the experience and felt that something
+        had to be done about it.
+      </p>
+
+      <p>
+        We had to make lots of interesting technical decisions, learn about the
+        advantages and limitations of browser extensions, and figure out how to
+        work with a third-party platform.
+        Fetching and caching data while dealing with rate limits were some of the
+        challenges we had to overcome.
+      </p>
+
+      <p>
+        Building the project open source also gave me the opportunity to think about
+        development guidelines, project structure and how to use TypeScript effectively
+        in browser extensions.
+        One of the more interesting things I explored was typing
+        <a href="blog/background-script-message-typing/">background script message protocols</a>.
+      </p>
+
+      <div class="about-explorer-embeds">
+        <div
+          class="about-explorer-embed about-explorer-embed--video"
+          data-youtube-id="3c6tZGE7ipk"
+          data-youtube-label="Flashkill demo on YouTube"
+        ></div>
+      </div>
+    </article>
+
+    <article
+      id="section-manta-marine"
+      class="about-explorer-section"
+      data-section-panel="manta-marine"
+      role="tabpanel"
+      hidden
+    >
+      <div class="about-explorer-title">
+        <span class="about-explorer-project-links">
+          <a
+            href="https://mantamarine.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i class="fas fa-link" aria-hidden="true"></i>
+            Homepage
+          </a>
+        </span>
+      </div>
+
+      <p>
+        I worked as a fullstack developer for Manta Marine, using React, TypeScript,
+        Kotlin, Spring, and PostgreSQL.
+        During my time there, I started specializing more in frontend development.
+      </p>
+
+      <p>
+        I was involved in shaping requirements, designing the interface, and taking
+        the RoutePilot AI feature all the way to production.
+      </p>
+
+      <p>
+        Another big undertaking was redesigning the Performance Analytics dashboard,
+        taking it from rudimentary charts to an advanced data selection and visualization
+        interface.
+      </p>
+
+    </article>
+
+    <article
+      id="section-agent-driven-development"
+      class="about-explorer-section"
+      data-section-panel="agent-driven-development"
+      role="tabpanel"
+      hidden
+    >
+      <h2 class="visually-hidden">AI</h2>
+      <p>
+          In these small projects, I am experimenting with how far agent-driven
+          development has come and how it changes the way I build software.
+          I still review every line of code in larger projects like Kudoro,
+          but in these projects I increasingly focus on direction,
+          architecture, structure and reviewing security-critical code.
+      </p>
+      
+      <p>
+        I mostly work with Cursor.
+      </p>
+
+      <div class="about-explorer-projects">
+        <div class="about-explorer-project">
+          <h3 class="about-explorer-project-title">
+            App Frames
+            <span class="about-explorer-project-links">
+              <a
+                href="https://github.com/klippros/app-frames"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i class="fab fa-github" aria-hidden="true"></i>
+                GitHub
+              </a>
+              <a
+                href="https://klippros.com/tools/app-frames"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i class="fas fa-link" aria-hidden="true"></i>
+                Web App
+              </a>
+            </span>
+          </h3>
+          <p>
+            Turn in-app screenshots into App Store and Google Play product page assets.
+            No login needed and no useless AI features.
+            Simply select the screenshots, choose the style and text and export in all
+            the required formats.
+          </p>
+        </div>
+
+        <div class="about-explorer-project">
+          <h3 class="about-explorer-project-title">
+            Flash Clapper
+            <span class="about-explorer-project-links">
+              <a
+                href="https://github.com/klippros/flash-clapper"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i class="fab fa-github" aria-hidden="true"></i>
+                GitHub
+              </a>
+              <a
+                href="https://klippros.com/tools/flash-clapper"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i class="fas fa-link" aria-hidden="true"></i>
+                Web App
+              </a>
+            </span>
+          </h3>
+          <p>
+            Measure camera and microphone hardware latency for streaming sync
+            with a single click of a button.
+            Inspired by the hilariously manual process of a famous streamer
+            tweaking their OBS settings on a new system.
+          </p>
+        </div>
+
+        <div class="about-explorer-project">
+          <h3 class="about-explorer-project-title">
+            Open Darts
+            <span class="about-explorer-project-links">
+              <a
+                href="https://github.com/klippros/open-darts"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i class="fab fa-github" aria-hidden="true"></i>
+                GitHub
+              </a>
+              <a
+                href="https://klippros.com/tools/open-darts"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i class="fas fa-link" aria-hidden="true"></i>
+                Web App
+              </a>
+            </span>
+          </h3>
+          <p>
+            Open source darts scoring for practice and games.
+            Everything from classic 501 to fun game and practice modes.
+            Again, no sign in needed, but now even supports syncing and
+            online play using Supabase and Cloudflare durable objects.
+          </p>
+        </div>
+      </div>
+    </article>
+
+    <article
+      id="section-studies"
+      class="about-explorer-section"
+      data-section-panel="studies"
+      role="tabpanel"
+      hidden
+    >
+      <h2 class="visually-hidden">Studies</h2>
+
+        <p>
+          I got my Msc. in Computer Science at the Chalmers University of Technology in Gothenburg,
+          with a thesis about
+          <a href="{{ site.baseurl }}/assets/pdf/msc-thesis.pdf">invariant inference from tests in Boogie</a>.
+          During my studies, I worked as a teaching assistant for the Databases course,
+          grading assignments and running tutorial sessions in both English and Swedish.
+        </p>
+
+        <p>
+          A big influence on my decision to visit Chalmers was my work at Fraunhofer FOKUS,
+          where I worked during my Bsc. studies in Computer Science at Humboldt University of Berlin.
+          My thesis about
+          <a href="{{ site.baseurl }}/assets/pdf/bachelor-thesis.pdf">the formal verification of heap algorithms using Frama-C</a>
+          was about the research I did there.
+        </p>
+    </article>
+  </div>
+</div>
+</section>
+
+<script defer src="{{ site.baseurl }}/assets/js/about-explorer.js"></script>
+<script async src="https://www.instagram.com/embed.js"></script>
