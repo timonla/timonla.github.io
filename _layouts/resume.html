@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} - {{ site.SEOTitle }}</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% endif %}
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="{{ '/assets/css/resume.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;800&display=swap" rel="stylesheet">
+  <link rel="shortcut icon" type="image/png" href="{{ '/assets/img/favicon.png' | relative_url }}">
+</head>
+
+<body class="resume-page">
+  <main class="resume">
+    {{ content }}
+  </main>
+</body>
+
+</html>

@@ -39,7 +39,7 @@
           >Blog</a>
         </li>
         {% for nav_page in site.pages %}
-        {% if nav_page.title and nav_page.url != '/' and nav_page.url != '/blog/' %}
+        {% if nav_page.title and nav_page.nav != false and nav_page.url != '/' and nav_page.url != '/blog/' %}
         {% assign is_current = false %}
         {% if current_url == nav_page.url %}
           {% assign is_current = true %}

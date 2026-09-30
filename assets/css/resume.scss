@@ -1,0 +1,119 @@
+---
+---
+
+body.resume-page {
+  margin: 0;
+  background: #ffffff !important;
+  color: #1a1a1a;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.resume {
+  max-width: 210mm;
+  margin: 0 auto;
+  padding: 14mm 16mm;
+  background: #ffffff;
+  color: #1a1a1a;
+  font-size: 9.5pt;
+  line-height: 1.45;
+}
+
+.resume a {
+  color: #1a1a1a;
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+.resume-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #c8c8c8;
+}
+
+.resume-header h1 {
+  margin: 0;
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  color: #111111;
+}
+
+.resume-contact {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #555555;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.resume-contact a {
+  color: #333333;
+  text-decoration: none;
+}
+
+.resume-intro {
+  margin-bottom: 1.1rem;
+}
+
+.resume-intro p,
+.resume-project p {
+  margin: 0 0 0.55rem;
+}
+
+.resume-project {
+  margin-bottom: 0.95rem;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.resume-project h3 {
+  margin: 0 0 0.35rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #111111;
+}
+
+.resume-project h4 {
+  margin: 0.55rem 0 0.25rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #222222;
+}
+
+.resume-links {
+  font-weight: 400;
+  font-size: 0.75rem;
+  color: #555555;
+}
+
+.resume-links a {
+  color: #333333;
+  text-decoration: none;
+}
+
+@page {
+  size: A4;
+  margin: 12mm;
+}
+
+@media print {
+  body.resume-page {
+    background: #ffffff !important;
+  }
+
+  .resume {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .resume a {
+    text-decoration: none;
+  }
+}
