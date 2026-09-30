@@ -449,6 +449,10 @@ table {
   border-radius: 4px;
 }
 
+.about-explorer-gallery img.about-explorer-gallery__portrait {
+  aspect-ratio: 3 / 4;
+}
+
 .about-explorer-embed {
   flex: 1 1 260px;
   max-width: 540px;
@@ -851,6 +855,10 @@ table {
 
   .about-explorer-gallery img {
     aspect-ratio: 4 / 3;
+  }
+
+  .about-explorer-gallery img.about-explorer-gallery__portrait {
+    aspect-ratio: 3 / 4;
   }
 
   .music-links {
