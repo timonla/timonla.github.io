@@ -1,9 +1,13 @@
 title: timon.la
 SEOTitle: timon.la | Timon Lapawczyk
 email: timon.lapawczyk@gmail.com
-description: ""
+description: "Personal site of Timon Lapawczyk — software engineer and product builder. Projects, writing, and music."
 keyword: "Timon Lapawczyk, Software Developer, Gothenburg, Cycling, Coding, Blogging"
-url: "https://timonla.github.io"
+url: "https://timon.la"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
 markdown: kramdown
 kramdown:

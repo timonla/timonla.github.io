@@ -10,7 +10,39 @@
     {% endif %}
     {% endcapture %}
 
-    <title>{{ title }}</title>
+    <title>{{ title | strip }}</title>
+
+    {% capture description %}
+    {% if page.description %}
+    {{ page.description }}
+    {% elsif page.subtitle %}
+    {{ page.subtitle }}
+    {% else %}
+    {{ site.description }}
+    {% endif %}
+    {% endcapture %}
+    {% assign description = description | strip %}
+    {% assign page_url = page.url | absolute_url %}
+    {% assign og_image = "/assets/img/profile-photo.jpg" | absolute_url %}
+    {% if page.layout == "post" %}
+    {% assign og_type = "article" %}
+    {% else %}
+    {% assign og_type = "website" %}
+    {% endif %}
+
+    <meta name="description" content="{{ description }}">
+
+    <meta property="og:type" content="{{ og_type }}">
+    <meta property="og:title" content="{{ title | strip }}">
+    <meta property="og:description" content="{{ description }}">
+    <meta property="og:url" content="{{ page_url }}">
+    <meta property="og:image" content="{{ og_image }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ title | strip }}">
+    <meta name="twitter:description" content="{{ description }}">
+    <meta name="twitter:image" content="{{ og_image }}">
 
     <!-- Font-Awesome -->
     <script src="https://kit.fontawesome.com/8efb211b06.js" crossorigin="anonymous"></script>
@@ -23,10 +55,10 @@
         crossorigin="anonymous"></script>
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ " /assets/css/theme.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/assets/css/theme.css' | relative_url }}">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/png" href="{{ " /assets/img/favicon.png" | prepend: site.baseurl }}">
+    <link rel="shortcut icon" type="image/png" href="{{ '/assets/img/favicon.png' | relative_url }}">
 
     <!-- Montserrat -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
