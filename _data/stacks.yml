@@ -1,0 +1,93 @@
+kudoro:
+  - name: React Native
+    icon: react.svg
+  - name: Expo
+    icon: expo-dark.svg
+  - name: TypeScript
+    icon: typescript.svg
+  - name: PostHog
+    icon: posthog-light.svg
+  - name: React Native Skia
+  - name: Reanimated
+  - name: Swift
+    icon: swift.svg
+  - name: Kotlin
+    icon: kotlin.svg
+  - name: Figma
+    icon: figma.svg
+  - name: RevenueCat
+    icon: revenuecat.svg
+  - name: Mapbox
+    icon: mapbox-dark.svg
+  - name: Tamagui
+    icon: tamagui.svg
+  - name: SWR
+    icon: swr-dark.svg
+
+komate:
+  - name: React Native
+    icon: react.svg
+  - name: Expo
+    icon: expo-dark.svg
+  - name: TypeScript
+    icon: typescript.svg
+  - name: Mapbox
+    icon: mapbox-dark.svg
+  - name: Figma
+    icon: figma.svg
+  - name: Tamagui
+    icon: tamagui.svg
+  - name: SWR
+    icon: swr-dark.svg
+
+ai-coding:
+  - name: Cursor
+    icon: cursor-dark.png
+  - name: React
+    icon: react.svg
+  - name: TypeScript
+    icon: typescript.svg
+  - name: Cloudflare
+    icon: cloudflare.svg
+  - name: Supabase
+    icon: supabase.svg
+  - name: Chakra UI
+    icon: chakraui.svg
+  - name: Vite
+    icon: vite.svg
+
+manta:
+  - name: React
+    icon: react.svg
+  - name: TypeScript
+    icon: typescript.svg
+  - name: Kotlin
+    icon: kotlin.svg
+  - name: PostgreSQL
+    icon: postgres.svg
+  - name: Spring
+    icon: spring.svg
+  - name: C#
+    icon: csharp.svg
+  - name: InfluxDB
+    icon: influxdb.svg
+  - name: Vite
+    icon: vite.svg
+  - name: Figma
+    icon: figma.svg
+
+flashkill:
+  - name: Browser Extension
+    icon: chrome.svg
+  - name: TypeScript
+    icon: typescript.svg
+  - name: Webpack
+    icon: webpack-dark.svg
+  - name: Vaadin
+    icon: vaadin.svg
+  - name: Web Components
+    icon: webcomponentsdotorg.svg
+  - name: lit
+    icon: lit.svg
+  - name: Next.js
+    icon: nextjs-light.svg

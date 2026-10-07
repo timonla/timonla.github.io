@@ -1,0 +1,20 @@
+{% assign stack = site.data.stacks[include.stack] %}
+{% if stack %}
+  <ul class="tech-stack" aria-label="Tech stack">
+    {% for tech in stack %}
+      <li class="tech-stack-badge">
+        {% if tech.icon %}
+          <img
+            class="tech-stack-badge__icon"
+            src="{{ site.baseurl }}/assets/img/icons/{{ tech.icon }}"
+            alt=""
+            width="16"
+            height="16"
+            loading="lazy"
+          />
+        {% endif %}
+        <span class="tech-stack-badge__name">{{ tech.name }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
