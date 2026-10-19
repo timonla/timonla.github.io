@@ -5,23 +5,31 @@ description: "Timon Lapawczyk — software engineer and product builder. Project
 ---
 
 <div class="about-header">
-   <h1>Timon Lapawczyk</h1>
-   <p class="about-header-subtitle">Software Engineer & Builder</p>
-   <a
-     class="about-resume-download"
-     href="{{ site.baseurl }}/assets/pdf/timon-lapawczyk-resume.pdf"
-     download
-   >
-     <i class="fas fa-download" aria-hidden="true"></i>
-     Download resume (PDF)
-   </a>
+   <div class="about-header-text" data-header-text>
+      <h1>Timon Lapawczyk</h1>
+      <p class="about-header-subtitle">Software Engineer & Builder</p>
+      <a
+        class="about-resume-download"
+        href="{{ site.baseurl }}/assets/pdf/timon-lapawczyk-resume.pdf"
+        download
+      >
+        <i class="fas fa-download" aria-hidden="true"></i>
+        Download resume (PDF)
+      </a>
+   </div>
+   <div class="about-header-photo" data-header-photo>
+      <img
+        src="{{ site.baseurl }}/assets/img/profile-photo.jpg"
+        alt="Timon Lapawczyk"
+      />
+   </div>
 </div>
 
 <section>
    <p>
-    <strong>I like figuring things out</strong>.
+    <strong>I figure things out</strong>.
     And when I encounter something I want to understand, improve, or create,
-    I tend to actually do something about it.
+    I actually make it happen.
    </p>
 
    <p>
@@ -179,7 +187,7 @@ description: "Timon Lapawczyk — software engineer and product builder. Project
 
       <p>
         Kudoro is a mobile app for overlaying Strava data on photos and videos,
-        with <strong>more than 1,500 users</strong>.
+        with <strong>more than 1,700 users</strong>.
         The project started as a simple live data overlay tool for cyclists because
         the existing solutions were overcomplicated and expensive.
         Since then, it has <strong>pivoted into an all-in-one visual editor for all sports</strong>,
@@ -599,5 +607,6 @@ description: "Timon Lapawczyk — software engineer and product builder. Project
 </div>
 </section>
 
+<script defer src="{{ site.baseurl }}/assets/js/header-photo.js"></script>
 <script defer src="{{ site.baseurl }}/assets/js/about-explorer.js"></script>
 <script async src="https://www.instagram.com/embed.js"></script>

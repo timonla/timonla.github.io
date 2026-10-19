@@ -13,11 +13,11 @@ body.resume-page {
 .resume {
   max-width: 210mm;
   margin: 0 auto;
-  padding: 14mm 16mm;
+  padding: 12mm 14mm 14mm;
   background: #ffffff;
   color: #1a1a1a;
-  font-size: 9.5pt;
-  line-height: 1.45;
+  font-size: 10pt;
+  line-height: 1.4;
 }
 
 .resume a {
@@ -28,28 +28,64 @@ body.resume-page {
 
 .resume-header {
   display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 1rem;
-  margin-bottom: 1.1rem;
-  padding-bottom: 0.75rem;
+  align-items: stretch;
+  justify-content: flex-start;
+  gap: 0.85rem;
+  margin-bottom: 0.7rem;
+  padding-bottom: 0.55rem;
   border-bottom: 1px solid #c8c8c8;
+  text-align: left;
 }
 
-.resume-header h1 {
+.resume-header-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.resume-header-text h1 {
   margin: 0;
-  font-size: 1.75rem;
+  font-size: 1.55rem;
   font-weight: 800;
   letter-spacing: 0.01em;
   color: #111111;
+  line-height: 1.15;
+}
+
+.resume-title {
+  margin: 0.15rem 0 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #333333;
+}
+
+.resume-header-photo {
+  flex: 0 0 auto;
+  align-self: center;
+  width: 18mm;
+  height: 18mm;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.resume-header-photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
 .resume-contact {
-  margin: 0;
-  font-size: 0.8rem;
+  margin: 0.28rem 0 0;
+  font-size: 0.72rem;
   color: #555555;
-  text-align: right;
-  flex-shrink: 0;
+  text-align: left;
+  line-height: 1.4;
+}
+
+.resume-contact p {
+  margin: 0;
 }
 
 .resume-contact a {
@@ -57,49 +93,135 @@ body.resume-page {
   text-decoration: none;
 }
 
-.resume-intro {
-  margin-bottom: 1.1rem;
+.resume-summary {
+  margin-bottom: 0.65rem;
 }
 
-.resume-intro p,
-.resume-project p {
-  margin: 0 0 0.55rem;
+.resume-summary p {
+  margin: 0;
+}
+
+.resume-summary p + p {
+  margin-top: 0.45rem;
+}
+
+.resume-section {
+  margin-bottom: 0.55rem;
+}
+
+.resume-section h2 {
+  margin: 0 0 0.3rem;
+  padding-bottom: 0.15rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #111111;
+  border-bottom: 1px solid #d6d6d6;
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+.resume-role {
+  margin-bottom: 0.45rem;
+}
+
+.resume-role-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.15rem;
+}
+
+.resume-role h3 {
+  margin: 0;
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: #111111;
+  line-height: 1.25;
+}
+
+.resume-subs {
+  margin-left: 1rem;
 }
 
 .resume-project {
-  margin-bottom: 0.95rem;
-  break-inside: avoid;
-  page-break-inside: avoid;
-}
-
-.resume-project h3 {
-  margin: 0 0 0.35rem;
-  font-size: 0.95rem;
+  margin: 0.45rem 0 0.12rem;
+  font-size: 0.84rem;
   font-weight: 700;
   color: #111111;
 }
 
-.resume-project h4 {
-  margin: 0.55rem 0 0.25rem;
-  font-size: 0.85rem;
-  font-weight: 600;
-  color: #222222;
+.resume-project a,
+.resume-tool a {
+  margin-left: 0.35rem;
+  font-weight: 500;
+  font-size: 0.78rem;
 }
 
-.resume-links {
-  font-weight: 400;
-  font-size: 0.75rem;
+.resume-subs > p {
+  margin: 0 0 0.15rem;
+}
+
+.resume-tool {
+  margin: 0.28rem 0 0.02rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #111111;
+}
+
+.resume-muted {
+  font-weight: 500;
   color: #555555;
 }
 
-.resume-links a {
-  color: #333333;
-  text-decoration: none;
+.resume-place {
+  font-weight: 500;
+  color: #555555;
+  white-space: nowrap;
+}
+
+.resume-place::before {
+  content: "·";
+  margin: 0 0.35rem;
+}
+
+.resume-meta {
+  margin: 0;
+  flex: 0 0 6.2rem;
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: #555555;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.resume ul {
+  margin: 0;
+  padding-left: 1.05em;
+}
+
+.resume li {
+  margin: 0 0 0.18rem;
+}
+
+.resume-list {
+  margin: 0;
+  padding-left: 1.05em;
+}
+
+.resume-skills p {
+  margin: 0;
+}
+
+.resume-skills p + p {
+  margin-top: 0.2rem;
 }
 
 @page {
   size: A4;
-  margin: 12mm;
+  margin: 10mm;
 }
 
 @media print {
@@ -115,5 +237,10 @@ body.resume-page {
 
   .resume a {
     text-decoration: none;
+  }
+
+  .resume-role {
+    break-inside: avoid;
+    page-break-inside: avoid;
   }
 }
