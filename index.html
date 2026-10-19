@@ -101,19 +101,14 @@ description: "Timon Lapawczyk — software engineer and product builder. Project
     </button>
     <button
       type="button"
-      class="about-explorer-icon"
+      class="about-explorer-icon about-explorer-icon--fa"
       role="tab"
-      data-section="flashkill"
-      aria-controls="section-flashkill"
+      data-section="agent-driven-development"
+      aria-controls="section-agent-driven-development"
       aria-selected="false"
     >
-      <img
-        src="{{ site.baseurl }}/assets/img/flashkill-logo.png"
-        alt=""
-        width="64"
-        height="64"
-      />
-      <span class="about-explorer-icon-label">Flashkill</span>
+      <i class="fas fa-code" aria-hidden="true"></i>
+      <span class="about-explorer-icon-label">AI Coding</span>
     </button>
     <button
       type="button"
@@ -133,14 +128,19 @@ description: "Timon Lapawczyk — software engineer and product builder. Project
     </button>
     <button
       type="button"
-      class="about-explorer-icon about-explorer-icon--fa"
+      class="about-explorer-icon"
       role="tab"
-      data-section="agent-driven-development"
-      aria-controls="section-agent-driven-development"
+      data-section="flashkill"
+      aria-controls="section-flashkill"
       aria-selected="false"
     >
-      <i class="fas fa-code" aria-hidden="true"></i>
-      <span class="about-explorer-icon-label">AI Coding</span>
+      <img
+        src="{{ site.baseurl }}/assets/img/flashkill-logo.png"
+        alt=""
+        width="64"
+        height="64"
+      />
+      <span class="about-explorer-icon-label">Flashkill</span>
     </button>
     <button
       type="button"
@@ -384,104 +384,6 @@ description: "Timon Lapawczyk — software engineer and product builder. Project
     </article>
 
     <article
-      id="section-flashkill"
-      class="about-explorer-section"
-      data-section-panel="flashkill"
-      role="tabpanel"
-      hidden
-    >
-      <div class="about-explorer-title">
-        <span class="about-explorer-project-links">
-          <a
-            href="https://github.com/flashkillapp/flashkill"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i class="fab fa-github" aria-hidden="true"></i>
-            GitHub
-          </a>
-        </span>
-      </div>
-
-      {% include tech-stack.html stack="flashkill" %}
-
-      <p>
-        Flashkill was a browser extension that enhanced the browsing experience on
-        a Counter-Strike league platform for <strong>more than 3,000 users</strong>.
-      </p>
-
-      <p>
-        I built this solution together with my brother.
-        As a user I was <strong>frustrated with the experience and felt that something
-        had to be done about it.</strong>
-      </p>
-
-      <p>
-        We had to make lots of interesting technical decisions, learn about the
-        advantages and limitations of browser extensions, and figure out how to
-        work with a third-party platform.
-        <strong>Fetching and caching data while dealing with rate limits</strong>
-        were some of the challenges we had to overcome.
-      </p>
-
-      <p>
-        Building the project open source also gave me the opportunity to think about
-        development guidelines, project structure and how to use TypeScript effectively
-        in browser extensions.
-        One of the more interesting things I explored was typing
-        <a href="blog/background-script-message-typing/">background script message protocols</a>.
-      </p>
-
-      <div class="about-explorer-embeds">
-        <div
-          class="about-explorer-embed about-explorer-embed--video"
-          data-youtube-id="3c6tZGE7ipk"
-          data-youtube-label="Flashkill demo on YouTube"
-        ></div>
-      </div>
-    </article>
-
-    <article
-      id="section-manta-marine"
-      class="about-explorer-section"
-      data-section-panel="manta-marine"
-      role="tabpanel"
-      hidden
-    >
-      <div class="about-explorer-title">
-        <span class="about-explorer-project-links">
-          <a
-            href="https://mantamarine.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i class="fas fa-link" aria-hidden="true"></i>
-            Homepage
-          </a>
-        </span>
-      </div>
-
-      {% include tech-stack.html stack="manta" %}
-
-      <p>
-        I worked as a <strong>fullstack developer</strong> for Manta Marine.
-        During my time there, I started <strong>focusing more on frontend development</strong>.
-      </p>
-
-      <p>
-        I was involved in shaping requirements, designing the interface, and
-        <strong>taking the RoutePilot AI feature all the way to production</strong>.
-      </p>
-
-      <p>
-        Another big undertaking was redesigning the Performance Analytics dashboard,
-        taking it from rudimentary charts to an advanced data selection and visualization
-        interface.
-      </p>
-
-    </article>
-
-    <article
       id="section-agent-driven-development"
       class="about-explorer-section"
       data-section-panel="agent-driven-development"
@@ -591,6 +493,104 @@ description: "Timon Lapawczyk — software engineer and product builder. Project
             online play using Supabase and Cloudflare durable objects.
           </p>
         </div>
+      </div>
+    </article>
+
+    <article
+      id="section-manta-marine"
+      class="about-explorer-section"
+      data-section-panel="manta-marine"
+      role="tabpanel"
+      hidden
+    >
+      <div class="about-explorer-title">
+        <span class="about-explorer-project-links">
+          <a
+            href="https://mantamarine.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i class="fas fa-link" aria-hidden="true"></i>
+            Homepage
+          </a>
+        </span>
+      </div>
+
+      {% include tech-stack.html stack="manta" %}
+
+      <p>
+        I worked as a <strong>fullstack developer</strong> for Manta Marine.
+        During my time there, I started <strong>focusing more on frontend development</strong>.
+      </p>
+
+      <p>
+        I was involved in shaping requirements, designing the interface, and
+        <strong>taking the RoutePilot AI feature all the way to production</strong>.
+      </p>
+
+      <p>
+        Another big undertaking was redesigning the Performance Analytics dashboard,
+        taking it from rudimentary charts to an advanced data selection and visualization
+        interface.
+      </p>
+
+    </article>
+
+    <article
+      id="section-flashkill"
+      class="about-explorer-section"
+      data-section-panel="flashkill"
+      role="tabpanel"
+      hidden
+    >
+      <div class="about-explorer-title">
+        <span class="about-explorer-project-links">
+          <a
+            href="https://github.com/flashkillapp/flashkill"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i class="fab fa-github" aria-hidden="true"></i>
+            GitHub
+          </a>
+        </span>
+      </div>
+
+      {% include tech-stack.html stack="flashkill" %}
+
+      <p>
+        Flashkill was a browser extension that enhanced the browsing experience on
+        a Counter-Strike league platform for <strong>more than 3,000 users</strong>.
+      </p>
+
+      <p>
+        I built this solution together with my brother.
+        As a user I was <strong>frustrated with the experience and felt that something
+        had to be done about it.</strong>
+      </p>
+
+      <p>
+        We had to make lots of interesting technical decisions, learn about the
+        advantages and limitations of browser extensions, and figure out how to
+        work with a third-party platform.
+        <strong>Fetching and caching data while dealing with rate limits</strong>
+        were some of the challenges we had to overcome.
+      </p>
+
+      <p>
+        Building the project open source also gave me the opportunity to think about
+        development guidelines, project structure and how to use TypeScript effectively
+        in browser extensions.
+        One of the more interesting things I explored was typing
+        <a href="blog/background-script-message-typing/">background script message protocols</a>.
+      </p>
+
+      <div class="about-explorer-embeds">
+        <div
+          class="about-explorer-embed about-explorer-embed--video"
+          data-youtube-id="3c6tZGE7ipk"
+          data-youtube-label="Flashkill demo on YouTube"
+        ></div>
       </div>
     </article>
 
